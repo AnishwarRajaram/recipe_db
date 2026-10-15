@@ -1,0 +1,1634 @@
+[
+ {
+  "title": "Slow-Braised Cabbage with Caraway and Apple",
+  "description": "Cabbage and apple cooked low in butter and cider vinegar until silky and sweet.",
+  "cuisine": "French",
+  "difficulty": "medium",
+  "prep_time_min": 20,
+  "cook_time_min": 75,
+  "servings": 4,
+  "diet_tags": [
+   "vegetarian",
+   "gluten_free"
+  ],
+  "ingredients": [
+   {
+    "name": "cabbage",
+    "quantity_g": 800,
+    "prep_note": "shredded"
+   },
+   {
+    "name": "apple",
+    "quantity_g": 200,
+    "prep_note": "sliced"
+   },
+   {
+    "name": "onion",
+    "quantity_g": 150,
+    "prep_note": "sliced"
+   },
+   {
+    "name": "butter",
+    "quantity_g": 50,
+    "prep_note": ""
+   },
+   {
+    "name": "red wine vinegar",
+    "quantity_g": 30,
+    "prep_note": ""
+   },
+   {
+    "name": "thyme",
+    "quantity_g": 4,
+    "prep_note": "dried"
+   },
+   {
+    "name": "salt",
+    "quantity_g": 6,
+    "prep_note": ""
+   },
+   {
+    "name": "black pepper",
+    "quantity_g": 3,
+    "prep_note": ""
+   }
+  ],
+  "instructions": "1. Melt butter in a heavy pot and soften onion 8 minutes. 2. Add cabbage and apple, toss to coat. 3. Add red wine vinegar, thyme, salt, and black pepper. 4. Cover and braise on low 70 minutes, stirring twice. 5. Uncover last 10 minutes to concentrate."
+ },
+ {
+  "title": "Slow-Roasted Root Vegetable Tray with Rosemary",
+  "description": "Carrot, potato, and butternut squash roasted slow until deeply caramelized.",
+  "cuisine": "French",
+  "difficulty": "easy",
+  "prep_time_min": 25,
+  "cook_time_min": 90,
+  "servings": 6,
+  "diet_tags": [
+   "vegan",
+   "gluten_free"
+  ],
+  "ingredients": [
+   {
+    "name": "carrot",
+    "quantity_g": 400,
+    "prep_note": "halved"
+   },
+   {
+    "name": "potato",
+    "quantity_g": 500,
+    "prep_note": "wedges"
+   },
+   {
+    "name": "butternut squash",
+    "quantity_g": 500,
+    "prep_note": "cubed"
+   },
+   {
+    "name": "onion",
+    "quantity_g": 200,
+    "prep_note": "wedges"
+   },
+   {
+    "name": "garlic",
+    "quantity_g": 20,
+    "prep_note": "smashed"
+   },
+   {
+    "name": "olive oil",
+    "quantity_g": 60,
+    "prep_note": ""
+   },
+   {
+    "name": "rosemary",
+    "quantity_g": 8,
+    "prep_note": "chopped"
+   },
+   {
+    "name": "salt",
+    "quantity_g": 8,
+    "prep_note": ""
+   }
+  ],
+  "instructions": "1. Heat oven to 160 C. 2. Toss all vegetables with olive oil, rosemary, and salt. 3. Spread in a single layer on two trays. 4. Roast 85 to 90 minutes, turning every 25 minutes. 5. Serve hot from the tray."
+ },
+ {
+  "title": "Slow-Simmered Tomato Confit with Garlic",
+  "description": "Tomatoes cooked low in olive oil with garlic until jammy and sweet.",
+  "cuisine": "French",
+  "difficulty": "easy",
+  "prep_time_min": 15,
+  "cook_time_min": 120,
+  "servings": 4,
+  "diet_tags": [
+   "vegan",
+   "gluten_free"
+  ],
+  "ingredients": [
+   {
+    "name": "tomato",
+    "quantity_g": 1000,
+    "prep_note": "halved"
+   },
+   {
+    "name": "garlic",
+    "quantity_g": 30,
+    "prep_note": "sliced"
+   },
+   {
+    "name": "olive oil",
+    "quantity_g": 120,
+    "prep_note": ""
+   },
+   {
+    "name": "thyme",
+    "quantity_g": 6,
+    "prep_note": "fresh"
+   },
+   {
+    "name": "salt",
+    "quantity_g": 8,
+    "prep_note": ""
+   },
+   {
+    "name": "black pepper",
+    "quantity_g": 3,
+    "prep_note": ""
+   }
+  ],
+  "instructions": "1. Heat oven to 130 C. 2. Arrange tomato halves cut side up in a baking dish. 3. Tuck garlic and thyme between them. 4. Pour olive oil over and season with salt and black pepper. 5. Bake 2 hours until collapsed and glossy."
+ },
+ {
+  "title": "Coconut Rice Pudding with Toasted Cashews",
+  "description": "Rice slow-cooked in coconut milk until creamy, topped with cashews.",
+  "cuisine": "Thai",
+  "difficulty": "easy",
+  "prep_time_min": 10,
+  "cook_time_min": 75,
+  "servings": 4,
+  "diet_tags": [
+   "vegan",
+   "gluten_free"
+  ],
+  "ingredients": [
+   {
+    "name": "white rice",
+    "quantity_g": 150,
+    "prep_note": "rinsed"
+   },
+   {
+    "name": "coconut milk",
+    "quantity_g": 600,
+    "prep_note": ""
+   },
+   {
+    "name": "sugar",
+    "quantity_g": 80,
+    "prep_note": ""
+   },
+   {
+    "name": "cinnamon",
+    "quantity_g": 3,
+    "prep_note": "ground"
+   },
+   {
+    "name": "cashews",
+    "quantity_g": 60,
+    "prep_note": "toasted"
+   },
+   {
+    "name": "mango",
+    "quantity_g": 150,
+    "prep_note": "diced"
+   },
+   {
+    "name": "salt",
+    "quantity_g": 2,
+    "prep_note": ""
+   }
+  ],
+  "instructions": "1. Combine white rice, coconut milk, sugar, cinnamon, and salt in a heavy pot. 2. Simmer on low 70 minutes, stirring every 10 minutes. 3. Cook until thick and creamy. 4. Spoon into bowls. 5. Top with cashews and mango."
+ },
+ {
+  "title": "Slow-Cooked Korean Soy Braised Potatoes",
+  "description": "Potato wedges braised in soy, garlic, and ginger until glossy and tender.",
+  "cuisine": "Korean",
+  "difficulty": "easy",
+  "prep_time_min": 15,
+  "cook_time_min": 65,
+  "servings": 4,
+  "diet_tags": [
+   "vegan"
+  ],
+  "ingredients": [
+   {
+    "name": "potato",
+    "quantity_g": 800,
+    "prep_note": "wedges"
+   },
+   {
+    "name": "soy sauce",
+    "quantity_g": 60,
+    "prep_note": ""
+   },
+   {
+    "name": "garlic",
+    "quantity_g": 15,
+    "prep_note": "minced"
+   },
+   {
+    "name": "ginger",
+    "quantity_g": 12,
+    "prep_note": "grated"
+   },
+   {
+    "name": "sesame oil",
+    "quantity_g": 15,
+    "prep_note": ""
+   },
+   {
+    "name": "sugar",
+    "quantity_g": 25,
+    "prep_note": ""
+   },
+   {
+    "name": "sesame seeds",
+    "quantity_g": 8,
+    "prep_note": "toasted"
+   },
+   {
+    "name": "onion",
+    "quantity_g": 120,
+    "prep_note": "sliced"
+   }
+  ],
+  "instructions": "1. Whisk soy sauce, garlic, ginger, sesame oil, and sugar with 300 ml water. 2. Arrange potato and onion in a pot. 3. Pour sauce over. 4. Simmer covered 60 minutes until potatoes are tender and glazed. 5. Finish with sesame seeds."
+ },
+ {
+  "title": "Slow-Baked Indian Spiced Cauliflower Whole Head",
+  "description": "A whole cauliflower rubbed with turmeric and cumin and baked until fork-tender.",
+  "cuisine": "Indian",
+  "difficulty": "medium",
+  "prep_time_min": 15,
+  "cook_time_min": 90,
+  "servings": 4,
+  "diet_tags": [
+   "vegan",
+   "gluten_free"
+  ],
+  "ingredients": [
+   {
+    "name": "cauliflower",
+    "quantity_g": 900,
+    "prep_note": "whole head"
+   },
+   {
+    "name": "turmeric",
+    "quantity_g": 6,
+    "prep_note": ""
+   },
+   {
+    "name": "cumin",
+    "quantity_g": 6,
+    "prep_note": "ground"
+   },
+   {
+    "name": "garlic",
+    "quantity_g": 15,
+    "prep_note": "minced"
+   },
+   {
+    "name": "ginger",
+    "quantity_g": 15,
+    "prep_note": "grated"
+   },
+   {
+    "name": "olive oil",
+    "quantity_g": 50,
+    "prep_note": ""
+   },
+   {
+    "name": "lemon",
+    "quantity_g": 40,
+    "prep_note": "juiced"
+   },
+   {
+    "name": "salt",
+    "quantity_g": 8,
+    "prep_note": ""
+   }
+  ],
+  "instructions": "1. Heat oven to 180 C. 2. Rub cauliflower with turmeric, cumin, garlic, ginger, olive oil, and salt. 3. Place in a covered baking dish. 4. Bake 80 minutes. 5. Uncover, drizzle lemon juice, and bake 10 more minutes."
+ },
+ {
+  "title": "Slow-Simmered Japanese Vegetable Curry",
+  "description": "Carrot, potato, and onion simmered in a spiced curry sauce for over an hour.",
+  "cuisine": "Japanese",
+  "difficulty": "easy",
+  "prep_time_min": 20,
+  "cook_time_min": 80,
+  "servings": 6,
+  "diet_tags": [
+   "vegan"
+  ],
+  "ingredients": [
+   {
+    "name": "carrot",
+    "quantity_g": 300,
+    "prep_note": "chunks"
+   },
+   {
+    "name": "potato",
+    "quantity_g": 500,
+    "prep_note": "chunks"
+   },
+   {
+    "name": "onion",
+    "quantity_g": 250,
+    "prep_note": "sliced"
+   },
+   {
+    "name": "garlic",
+    "quantity_g": 15,
+    "prep_note": "minced"
+   },
+   {
+    "name": "ginger",
+    "quantity_g": 15,
+    "prep_note": "grated"
+   },
+   {
+    "name": "curry powder",
+    "quantity_g": 20,
+    "prep_note": ""
+   },
+   {
+    "name": "all-purpose flour",
+    "quantity_g": 30,
+    "prep_note": ""
+   },
+   {
+    "name": "coconut oil",
+    "quantity_g": 30,
+    "prep_note": ""
+   },
+   {
+    "name": "soy sauce",
+    "quantity_g": 30,
+    "prep_note": ""
+   }
+  ],
+  "instructions": "1. Melt coconut oil and saut\u00e9 onion, garlic, and ginger 10 minutes. 2. Stir in curry powder and all-purpose flour, cook 2 minutes. 3. Add 800 ml water, soy sauce, carrot, and potato. 4. Simmer covered 70 minutes, stirring occasionally. 5. Season with salt and serve."
+ },
+ {
+  "title": "Slow-Roasted French Onion and Leek Confit",
+  "description": "Onion and celery cooked very low with butter and thyme until jammy.",
+  "cuisine": "French",
+  "difficulty": "easy",
+  "prep_time_min": 20,
+  "cook_time_min": 90,
+  "servings": 4,
+  "diet_tags": [
+   "vegetarian",
+   "gluten_free"
+  ],
+  "ingredients": [
+   {
+    "name": "onion",
+    "quantity_g": 900,
+    "prep_note": "thinly sliced"
+   },
+   {
+    "name": "celery",
+    "quantity_g": 200,
+    "prep_note": "thinly sliced"
+   },
+   {
+    "name": "butter",
+    "quantity_g": 70,
+    "prep_note": ""
+   },
+   {
+    "name": "thyme",
+    "quantity_g": 6,
+    "prep_note": "fresh"
+   },
+   {
+    "name": "salt",
+    "quantity_g": 6,
+    "prep_note": ""
+   },
+   {
+    "name": "black pepper",
+    "quantity_g": 3,
+    "prep_note": ""
+   }
+  ],
+  "instructions": "1. Melt butter in a wide heavy pan. 2. Add onion and celery with salt. 3. Cook on very low 85 minutes, stirring every 15 minutes. 4. Add thyme in the last 10 minutes. 5. Finish with black pepper."
+ },
+ {
+  "title": "Slow-Baked Banana Bread with Walnuts",
+  "description": "A moist banana loaf sweetened with maple syrup and studded with walnuts.",
+  "cuisine": "French",
+  "difficulty": "easy",
+  "prep_time_min": 20,
+  "cook_time_min": 70,
+  "servings": 6,
+  "diet_tags": [
+   "vegetarian"
+  ],
+  "ingredients": [
+   {
+    "name": "banana",
+    "quantity_g": 400,
+    "prep_note": "mashed"
+   },
+   {
+    "name": "all-purpose flour",
+    "quantity_g": 300,
+    "prep_note": ""
+   },
+   {
+    "name": "butter",
+    "quantity_g": 100,
+    "prep_note": "melted"
+   },
+   {
+    "name": "maple syrup",
+    "quantity_g": 100,
+    "prep_note": ""
+   },
+   {
+    "name": "egg",
+    "quantity_g": 100,
+    "prep_note": ""
+   },
+   {
+    "name": "walnuts",
+    "quantity_g": 120,
+    "prep_note": "chopped"
+   },
+   {
+    "name": "cinnamon",
+    "quantity_g": 4,
+    "prep_note": "ground"
+   },
+   {
+    "name": "salt",
+    "quantity_g": 3,
+    "prep_note": ""
+   }
+  ],
+  "instructions": "1. Heat oven to 170 C. 2. Mix banana, butter, maple syrup, and egg. 3. Fold in all-purpose flour, cinnamon, and salt. 4. Stir in walnuts. 5. Bake in a lined loaf tin 65 to 70 minutes."
+ },
+ {
+  "title": "Slow-Cooked Indian Potato and Pea Curry",
+  "description": "Potato and green peas simmered low in a turmeric tomato sauce.",
+  "cuisine": "Indian",
+  "difficulty": "easy",
+  "prep_time_min": 15,
+  "cook_time_min": 70,
+  "servings": 6,
+  "diet_tags": [
+   "vegan",
+   "gluten_free"
+  ],
+  "ingredients": [
+   {
+    "name": "potato",
+    "quantity_g": 700,
+    "prep_note": "cubed"
+   },
+   {
+    "name": "green peas",
+    "quantity_g": 200,
+    "prep_note": ""
+   },
+   {
+    "name": "canned tomatoes",
+    "quantity_g": 400,
+    "prep_note": ""
+   },
+   {
+    "name": "onion",
+    "quantity_g": 200,
+    "prep_note": "diced"
+   },
+   {
+    "name": "garlic",
+    "quantity_g": 15,
+    "prep_note": "minced"
+   },
+   {
+    "name": "ginger",
+    "quantity_g": 15,
+    "prep_note": "grated"
+   },
+   {
+    "name": "turmeric",
+    "quantity_g": 6,
+    "prep_note": ""
+   },
+   {
+    "name": "cumin",
+    "quantity_g": 6,
+    "prep_note": "ground"
+   },
+   {
+    "name": "olive oil",
+    "quantity_g": 30,
+    "prep_note": ""
+   }
+  ],
+  "instructions": "1. Sweat onion, garlic, and ginger in olive oil 8 minutes. 2. Add turmeric and cumin, toast 1 minute. 3. Add canned tomatoes and potato. 4. Simmer covered 60 minutes. 5. Stir in green peas and cook 8 more minutes."
+ },
+ {
+  "title": "Slow-Roasted Thai Coconut Squash",
+  "description": "Butternut squash baked in coconut milk with ginger and lime until tender.",
+  "cuisine": "Thai",
+  "difficulty": "easy",
+  "prep_time_min": 15,
+  "cook_time_min": 75,
+  "servings": 4,
+  "diet_tags": [
+   "vegan",
+   "gluten_free"
+  ],
+  "ingredients": [
+   {
+    "name": "butternut squash",
+    "quantity_g": 900,
+    "prep_note": "cubed"
+   },
+   {
+    "name": "coconut milk",
+    "quantity_g": 400,
+    "prep_note": ""
+   },
+   {
+    "name": "ginger",
+    "quantity_g": 15,
+    "prep_note": "sliced"
+   },
+   {
+    "name": "garlic",
+    "quantity_g": 10,
+    "prep_note": "minced"
+   },
+   {
+    "name": "lime",
+    "quantity_g": 40,
+    "prep_note": "juiced"
+   },
+   {
+    "name": "cilantro",
+    "quantity_g": 15,
+    "prep_note": "chopped"
+   },
+   {
+    "name": "salt",
+    "quantity_g": 6,
+    "prep_note": ""
+   }
+  ],
+  "instructions": "1. Heat oven to 170 C. 2. Combine squash, coconut milk, ginger, garlic, and salt in a baking dish. 3. Cover and bake 65 minutes. 4. Uncover and bake 10 more minutes. 5. Finish with lime juice and cilantro."
+ },
+ {
+  "title": "Slow-Baked Korean Sweet Potato with Sesame",
+  "description": "Sweet potatoes baked low and long until caramelized, finished with sesame.",
+  "cuisine": "Korean",
+  "difficulty": "easy",
+  "prep_time_min": 5,
+  "cook_time_min": 90,
+  "servings": 4,
+  "diet_tags": [
+   "vegan",
+   "gluten_free"
+  ],
+  "ingredients": [
+   {
+    "name": "sweet potato",
+    "quantity_g": 1000,
+    "prep_note": "whole"
+   },
+   {
+    "name": "sesame oil",
+    "quantity_g": 20,
+    "prep_note": ""
+   },
+   {
+    "name": "sesame seeds",
+    "quantity_g": 10,
+    "prep_note": "toasted"
+   },
+   {
+    "name": "salt",
+    "quantity_g": 6,
+    "prep_note": ""
+   }
+  ],
+  "instructions": "1. Heat oven to 160 C. 2. Rub sweet potatoes with sesame oil and salt. 3. Place on a lined tray. 4. Bake 90 minutes until soft and syrupy. 5. Split open and sprinkle with sesame seeds."
+ },
+ {
+  "title": "Slow-Simmered French Lentil-Free Tomato Sauce",
+  "description": "A long-cooked tomato sauce with onion, garlic, and carrot for pasta night.",
+  "cuisine": "French",
+  "difficulty": "easy",
+  "prep_time_min": 20,
+  "cook_time_min": 90,
+  "servings": 6,
+  "diet_tags": [
+   "vegan",
+   "gluten_free"
+  ],
+  "ingredients": [
+   {
+    "name": "canned tomatoes",
+    "quantity_g": 1200,
+    "prep_note": ""
+   },
+   {
+    "name": "onion",
+    "quantity_g": 200,
+    "prep_note": "diced"
+   },
+   {
+    "name": "carrot",
+    "quantity_g": 150,
+    "prep_note": "diced"
+   },
+   {
+    "name": "celery",
+    "quantity_g": 100,
+    "prep_note": "diced"
+   },
+   {
+    "name": "garlic",
+    "quantity_g": 20,
+    "prep_note": "minced"
+   },
+   {
+    "name": "olive oil",
+    "quantity_g": 40,
+    "prep_note": ""
+   },
+   {
+    "name": "thyme",
+    "quantity_g": 5,
+    "prep_note": "dried"
+   },
+   {
+    "name": "salt",
+    "quantity_g": 8,
+    "prep_note": ""
+   }
+  ],
+  "instructions": "1. Sweat onion, carrot, celery, and garlic in olive oil 12 minutes. 2. Add canned tomatoes and thyme. 3. Simmer uncovered on low 85 minutes, stirring often. 4. Season with salt and black pepper. 5. Cool and store."
+ },
+ {
+  "title": "Slow-Baked Indian Rice Kheer with Pistachios",
+  "description": "Rice simmered in milk with sugar and cinnamon, topped with pistachios.",
+  "cuisine": "Indian",
+  "difficulty": "medium",
+  "prep_time_min": 10,
+  "cook_time_min": 80,
+  "servings": 6,
+  "diet_tags": [
+   "vegetarian",
+   "gluten_free"
+  ],
+  "ingredients": [
+   {
+    "name": "white rice",
+    "quantity_g": 120,
+    "prep_note": "rinsed"
+   },
+   {
+    "name": "milk",
+    "quantity_g": 1200,
+    "prep_note": ""
+   },
+   {
+    "name": "sugar",
+    "quantity_g": 100,
+    "prep_note": ""
+   },
+   {
+    "name": "cinnamon",
+    "quantity_g": 3,
+    "prep_note": "ground"
+   },
+   {
+    "name": "pistachios",
+    "quantity_g": 80,
+    "prep_note": "chopped"
+   },
+   {
+    "name": "butter",
+    "quantity_g": 20,
+    "prep_note": ""
+   }
+  ],
+  "instructions": "1. Melt butter in a heavy pot. 2. Add white rice and toast 2 minutes. 3. Pour in milk and simmer on low 75 minutes, stirring every 5 minutes. 4. Stir in sugar and cinnamon. 5. Top with pistachios before serving."
+ },
+ {
+  "title": "Slow-Roasted Japanese Miso-Style Eggplant",
+  "description": "Eggplant roasted low with soy, ginger, and sesame until meltingly soft.",
+  "cuisine": "Japanese",
+  "difficulty": "easy",
+  "prep_time_min": 15,
+  "cook_time_min": 70,
+  "servings": 4,
+  "diet_tags": [
+   "vegan"
+  ],
+  "ingredients": [
+   {
+    "name": "eggplant",
+    "quantity_g": 800,
+    "prep_note": "halved"
+   },
+   {
+    "name": "soy sauce",
+    "quantity_g": 50,
+    "prep_note": ""
+   },
+   {
+    "name": "ginger",
+    "quantity_g": 15,
+    "prep_note": "grated"
+   },
+   {
+    "name": "garlic",
+    "quantity_g": 10,
+    "prep_note": "minced"
+   },
+   {
+    "name": "sesame oil",
+    "quantity_g": 25,
+    "prep_note": ""
+   },
+   {
+    "name": "sugar",
+    "quantity_g": 20,
+    "prep_note": ""
+   },
+   {
+    "name": "sesame seeds",
+    "quantity_g": 8,
+    "prep_note": "toasted"
+   }
+  ],
+  "instructions": "1. Heat oven to 170 C. 2. Score eggplant flesh and place cut side up in a baking dish. 3. Whisk soy sauce, ginger, garlic, sesame oil, and sugar, spoon over. 4. Bake covered 60 minutes. 5. Uncover, bake 10 more minutes, then finish with sesame seeds."
+ },
+ {
+  "title": "Slow-Cooked Thai Peanut Vegetable Stew",
+  "description": "Carrot, potato, and cabbage simmered in a peanut butter coconut broth.",
+  "cuisine": "Thai",
+  "difficulty": "medium",
+  "prep_time_min": 20,
+  "cook_time_min": 75,
+  "servings": 6,
+  "diet_tags": [
+   "vegan",
+   "gluten_free"
+  ],
+  "ingredients": [
+   {
+    "name": "peanut butter",
+    "quantity_g": 120,
+    "prep_note": ""
+   },
+   {
+    "name": "coconut milk",
+    "quantity_g": 400,
+    "prep_note": ""
+   },
+   {
+    "name": "carrot",
+    "quantity_g": 300,
+    "prep_note": "chunks"
+   },
+   {
+    "name": "potato",
+    "quantity_g": 400,
+    "prep_note": "chunks"
+   },
+   {
+    "name": "cabbage",
+    "quantity_g": 300,
+    "prep_note": "shredded"
+   },
+   {
+    "name": "onion",
+    "quantity_g": 150,
+    "prep_note": "diced"
+   },
+   {
+    "name": "garlic",
+    "quantity_g": 15,
+    "prep_note": "minced"
+   },
+   {
+    "name": "ginger",
+    "quantity_g": 15,
+    "prep_note": "grated"
+   },
+   {
+    "name": "lime",
+    "quantity_g": 40,
+    "prep_note": "juiced"
+   }
+  ],
+  "instructions": "1. Sweat onion, garlic, and ginger 6 minutes. 2. Add carrot and potato, cook 5 minutes. 3. Stir in peanut butter, coconut milk, and 500 ml water. 4. Simmer covered 60 minutes. 5. Add cabbage, cook 8 minutes, finish with lime juice."
+ },
+ {
+  "title": "Slow-Baked French Apple and Almond Gratin",
+  "description": "Sliced apple baked with almonds and a buttery crumb until golden.",
+  "cuisine": "French",
+  "difficulty": "medium",
+  "prep_time_min": 20,
+  "cook_time_min": 70,
+  "servings": 6,
+  "diet_tags": [
+   "vegetarian"
+  ],
+  "ingredients": [
+   {
+    "name": "apple",
+    "quantity_g": 900,
+    "prep_note": "sliced"
+   },
+   {
+    "name": "almonds",
+    "quantity_g": 120,
+    "prep_note": "ground"
+   },
+   {
+    "name": "all-purpose flour",
+    "quantity_g": 100,
+    "prep_note": ""
+   },
+   {
+    "name": "butter",
+    "quantity_g": 120,
+    "prep_note": "cold, cubed"
+   },
+   {
+    "name": "sugar",
+    "quantity_g": 120,
+    "prep_note": ""
+   },
+   {
+    "name": "cinnamon",
+    "quantity_g": 4,
+    "prep_note": "ground"
+   },
+   {
+    "name": "salt",
+    "quantity_g": 2,
+    "prep_note": ""
+   }
+  ],
+  "instructions": "1. Heat oven to 170 C. 2. Toss apple with half the sugar and cinnamon. 3. Rub butter, all-purpose flour, almonds, remaining sugar, and salt into a crumb. 4. Layer apple in a baking dish, top with crumb. 5. Bake 65 to 70 minutes until golden and bubbling."
+ },
+ {
+  "title": "Slow-Simmered Korean Braised Tofu with Soy",
+  "description": "Tofu blocks simmered low in a garlic soy broth until deeply seasoned.",
+  "cuisine": "Korean",
+  "difficulty": "medium",
+  "prep_time_min": 15,
+  "cook_time_min": 70,
+  "servings": 4,
+  "diet_tags": [
+   "vegan"
+  ],
+  "ingredients": [
+   {
+    "name": "tofu",
+    "quantity_g": 700,
+    "prep_note": "thick slices"
+   },
+   {
+    "name": "soy sauce",
+    "quantity_g": 80,
+    "prep_note": ""
+   },
+   {
+    "name": "garlic",
+    "quantity_g": 20,
+    "prep_note": "minced"
+   },
+   {
+    "name": "ginger",
+    "quantity_g": 15,
+    "prep_note": "grated"
+   },
+   {
+    "name": "sesame oil",
+    "quantity_g": 20,
+    "prep_note": ""
+   },
+   {
+    "name": "onion",
+    "quantity_g": 150,
+    "prep_note": "sliced"
+   },
+   {
+    "name": "sugar",
+    "quantity_g": 25,
+    "prep_note": ""
+   },
+   {
+    "name": "sesame seeds",
+    "quantity_g": 8,
+    "prep_note": "toasted"
+   }
+  ],
+  "instructions": "1. Whisk soy sauce, garlic, ginger, sesame oil, sugar, and 300 ml water. 2. Arrange tofu and onion in a wide pot. 3. Pour sauce over. 4. Simmer covered on low 65 minutes, spooning sauce over twice. 5. Finish with sesame seeds."
+ },
+ {
+  "title": "Slow-Baked Indian Cardamom-Style Almond Barfi",
+  "description": "Almond and milk mixture cooked down and baked into a soft sweet slab.",
+  "cuisine": "Indian",
+  "difficulty": "hard",
+  "prep_time_min": 25,
+  "cook_time_min": 75,
+  "servings": 6,
+  "diet_tags": [
+   "vegetarian",
+   "gluten_free"
+  ],
+  "ingredients": [
+   {
+    "name": "almonds",
+    "quantity_g": 250,
+    "prep_note": "ground"
+   },
+   {
+    "name": "milk",
+    "quantity_g": 600,
+    "prep_note": ""
+   },
+   {
+    "name": "sugar",
+    "quantity_g": 200,
+    "prep_note": ""
+   },
+   {
+    "name": "butter",
+    "quantity_g": 60,
+    "prep_note": ""
+   },
+   {
+    "name": "cinnamon",
+    "quantity_g": 4,
+    "prep_note": "ground"
+   },
+   {
+    "name": "salt",
+    "quantity_g": 2,
+    "prep_note": ""
+   }
+  ],
+  "instructions": "1. Warm milk, sugar, and butter in a heavy pan. 2. Add ground almonds and cinnamon. 3. Cook on low 60 minutes, stirring constantly, until thick. 4. Spread into a lined tray. 5. Bake at 160 C for 15 minutes, cool, and cut."
+ },
+ {
+  "title": "Slow-Roasted French Squash and Walnut Bake",
+  "description": "Butternut squash baked with walnuts, thyme, and a light cream.",
+  "cuisine": "French",
+  "difficulty": "easy",
+  "prep_time_min": 20,
+  "cook_time_min": 75,
+  "servings": 6,
+  "diet_tags": [
+   "vegetarian",
+   "gluten_free"
+  ],
+  "ingredients": [
+   {
+    "name": "butternut squash",
+    "quantity_g": 1200,
+    "prep_note": "sliced"
+   },
+   {
+    "name": "walnuts",
+    "quantity_g": 120,
+    "prep_note": "chopped"
+   },
+   {
+    "name": "heavy cream",
+    "quantity_g": 200,
+    "prep_note": ""
+   },
+   {
+    "name": "garlic",
+    "quantity_g": 15,
+    "prep_note": "minced"
+   },
+   {
+    "name": "thyme",
+    "quantity_g": 5,
+    "prep_note": "fresh"
+   },
+   {
+    "name": "butter",
+    "quantity_g": 30,
+    "prep_note": ""
+   },
+   {
+    "name": "salt",
+    "quantity_g": 6,
+    "prep_note": ""
+   }
+  ],
+  "instructions": "1. Heat oven to 170 C. 2. Layer squash in a buttered baking dish. 3. Whisk heavy cream, garlic, and salt, pour over. 4. Scatter walnuts and thyme. 5. Bake covered 60 minutes, then uncovered 15 minutes."
+ },
+ {
+  "title": "Slow-Cooked Japanese Sweet Soy Carrots",
+  "description": "Carrots braised low in soy, ginger, and sugar until tender and glazed.",
+  "cuisine": "Japanese",
+  "difficulty": "easy",
+  "prep_time_min": 10,
+  "cook_time_min": 65,
+  "servings": 4,
+  "diet_tags": [
+   "vegan"
+  ],
+  "ingredients": [
+   {
+    "name": "carrot",
+    "quantity_g": 800,
+    "prep_note": "thick batons"
+   },
+   {
+    "name": "soy sauce",
+    "quantity_g": 60,
+    "prep_note": ""
+   },
+   {
+    "name": "ginger",
+    "quantity_g": 15,
+    "prep_note": "grated"
+   },
+   {
+    "name": "sugar",
+    "quantity_g": 30,
+    "prep_note": ""
+   },
+   {
+    "name": "sesame oil",
+    "quantity_g": 15,
+    "prep_note": ""
+   },
+   {
+    "name": "sesame seeds",
+    "quantity_g": 8,
+    "prep_note": "toasted"
+   }
+  ],
+  "instructions": "1. Whisk soy sauce, ginger, sugar, sesame oil, and 250 ml water. 2. Arrange carrot in a single layer in a pot. 3. Pour sauce over. 4. Simmer covered 60 minutes, turning twice. 5. Uncover and reduce 5 minutes, finish with sesame seeds."
+ },
+ {
+  "title": "Slow-Baked Thai Banana and Peanut Cake",
+  "description": "A dense banana cake with peanut butter and crushed peanuts.",
+  "cuisine": "Thai",
+  "difficulty": "medium",
+  "prep_time_min": 20,
+  "cook_time_min": 75,
+  "servings": 6,
+  "diet_tags": [
+   "vegetarian"
+  ],
+  "ingredients": [
+   {
+    "name": "banana",
+    "quantity_g": 400,
+    "prep_note": "mashed"
+   },
+   {
+    "name": "peanut butter",
+    "quantity_g": 150,
+    "prep_note": ""
+   },
+   {
+    "name": "all-purpose flour",
+    "quantity_g": 250,
+    "prep_note": ""
+   },
+   {
+    "name": "sugar",
+    "quantity_g": 120,
+    "prep_note": ""
+   },
+   {
+    "name": "egg",
+    "quantity_g": 100,
+    "prep_note": ""
+   },
+   {
+    "name": "coconut oil",
+    "quantity_g": 80,
+    "prep_note": ""
+   },
+   {
+    "name": "peanuts",
+    "quantity_g": 100,
+    "prep_note": "crushed"
+   },
+   {
+    "name": "salt",
+    "quantity_g": 3,
+    "prep_note": ""
+   }
+  ],
+  "instructions": "1. Heat oven to 165 C. 2. Mix banana, peanut butter, sugar, egg, and coconut oil. 3. Fold in all-purpose flour and salt. 4. Stir in peanuts. 5. Bake in a lined tin 70 to 75 minutes."
+ },
+ {
+  "title": "Slow-Simmered Korean Red Bean-Style Sweet Rice",
+  "description": "White rice cooked low with sugar, cinnamon, and walnuts into a sweet porridge.",
+  "cuisine": "Korean",
+  "difficulty": "easy",
+  "prep_time_min": 10,
+  "cook_time_min": 75,
+  "servings": 6,
+  "diet_tags": [
+   "vegan",
+   "gluten_free"
+  ],
+  "ingredients": [
+   {
+    "name": "white rice",
+    "quantity_g": 150,
+    "prep_note": "rinsed"
+   },
+   {
+    "name": "sugar",
+    "quantity_g": 120,
+    "prep_note": ""
+   },
+   {
+    "name": "cinnamon",
+    "quantity_g": 4,
+    "prep_note": "ground"
+   },
+   {
+    "name": "walnuts",
+    "quantity_g": 100,
+    "prep_note": "chopped"
+   },
+   {
+    "name": "salt",
+    "quantity_g": 2,
+    "prep_note": ""
+   }
+  ],
+  "instructions": "1. Combine white rice, sugar, cinnamon, salt, and 1200 ml water in a heavy pot. 2. Simmer on low 70 minutes, stirring often. 3. Cook until thick and creamy. 4. Spoon into bowls. 5. Top with walnuts."
+ },
+ {
+  "title": "Slow-Roasted Indian Spiced Sweet Potato with Almonds",
+  "description": "Sweet potato baked low with cumin and turmeric, topped with almonds.",
+  "cuisine": "Indian",
+  "difficulty": "easy",
+  "prep_time_min": 15,
+  "cook_time_min": 75,
+  "servings": 6,
+  "diet_tags": [
+   "vegan",
+   "gluten_free"
+  ],
+  "ingredients": [
+   {
+    "name": "sweet potato",
+    "quantity_g": 1200,
+    "prep_note": "wedges"
+   },
+   {
+    "name": "almonds",
+    "quantity_g": 100,
+    "prep_note": "sliced"
+   },
+   {
+    "name": "cumin",
+    "quantity_g": 6,
+    "prep_note": "ground"
+   },
+   {
+    "name": "turmeric",
+    "quantity_g": 5,
+    "prep_note": ""
+   },
+   {
+    "name": "olive oil",
+    "quantity_g": 50,
+    "prep_note": ""
+   },
+   {
+    "name": "lemon",
+    "quantity_g": 40,
+    "prep_note": "juiced"
+   },
+   {
+    "name": "salt",
+    "quantity_g": 6,
+    "prep_note": ""
+   }
+  ],
+  "instructions": "1. Heat oven to 170 C. 2. Toss sweet potato with cumin, turmeric, olive oil, and salt. 3. Spread on a tray. 4. Roast 70 minutes, turning once. 5. Scatter almonds, roast 5 minutes, finish with lemon juice."
+ },
+ {
+  "title": "Slow-Baked French Celery and Potato Gratin",
+  "description": "Celery and potato baked slow in cream with a light cheese crust.",
+  "cuisine": "French",
+  "difficulty": "medium",
+  "prep_time_min": 20,
+  "cook_time_min": 80,
+  "servings": 6,
+  "diet_tags": [
+   "vegetarian",
+   "gluten_free"
+  ],
+  "ingredients": [
+   {
+    "name": "celery",
+    "quantity_g": 400,
+    "prep_note": "sliced"
+   },
+   {
+    "name": "potato",
+    "quantity_g": 800,
+    "prep_note": "thinly sliced"
+   },
+   {
+    "name": "heavy cream",
+    "quantity_g": 400,
+    "prep_note": ""
+   },
+   {
+    "name": "garlic",
+    "quantity_g": 15,
+    "prep_note": "minced"
+   },
+   {
+    "name": "parmesan",
+    "quantity_g": 80,
+    "prep_note": "grated"
+   },
+   {
+    "name": "butter",
+    "quantity_g": 30,
+    "prep_note": ""
+   },
+   {
+    "name": "thyme",
+    "quantity_g": 4,
+    "prep_note": "dried"
+   },
+   {
+    "name": "salt",
+    "quantity_g": 6,
+    "prep_note": ""
+   }
+  ],
+  "instructions": "1. Heat oven to 160 C. 2. Layer potato and celery in a buttered dish. 3. Whisk heavy cream, garlic, thyme, and salt, pour over. 4. Cover and bake 70 minutes. 5. Uncover, scatter Parmesan, bake 10 more minutes."
+ },
+ {
+  "title": "Slow-Simmered Thai Pumpkin-Free Squash Curry",
+  "description": "Butternut squash slow-cooked in a coconut curry broth with peanuts.",
+  "cuisine": "Thai",
+  "difficulty": "medium",
+  "prep_time_min": 20,
+  "cook_time_min": 75,
+  "servings": 6,
+  "diet_tags": [
+   "vegan",
+   "gluten_free"
+  ],
+  "ingredients": [
+   {
+    "name": "butternut squash",
+    "quantity_g": 1000,
+    "prep_note": "cubed"
+   },
+   {
+    "name": "coconut milk",
+    "quantity_g": 600,
+    "prep_note": ""
+   },
+   {
+    "name": "onion",
+    "quantity_g": 150,
+    "prep_note": "diced"
+   },
+   {
+    "name": "garlic",
+    "quantity_g": 15,
+    "prep_note": "minced"
+   },
+   {
+    "name": "ginger",
+    "quantity_g": 15,
+    "prep_note": "grated"
+   },
+   {
+    "name": "curry powder",
+    "quantity_g": 20,
+    "prep_note": ""
+   },
+   {
+    "name": "peanuts",
+    "quantity_g": 80,
+    "prep_note": "crushed"
+   },
+   {
+    "name": "lime",
+    "quantity_g": 40,
+    "prep_note": "juiced"
+   }
+  ],
+  "instructions": "1. Sweat onion, garlic, and ginger 8 minutes. 2. Add curry powder, toast 1 minute. 3. Add squash and coconut milk. 4. Simmer covered 70 minutes. 5. Finish with lime juice and crushed peanuts."
+ },
+ {
+  "title": "Slow-Baked Japanese Matcha-Style Almond Cookies",
+  "description": "Ground almond cookies baked low until crisp and fragrant.",
+  "cuisine": "Japanese",
+  "difficulty": "medium",
+  "prep_time_min": 20,
+  "cook_time_min": 65,
+  "servings": 6,
+  "diet_tags": [
+   "vegetarian",
+   "gluten_free"
+  ],
+  "ingredients": [
+   {
+    "name": "almonds",
+    "quantity_g": 300,
+    "prep_note": "ground"
+   },
+   {
+    "name": "sugar",
+    "quantity_g": 150,
+    "prep_note": ""
+   },
+   {
+    "name": "egg",
+    "quantity_g": 100,
+    "prep_note": ""
+   },
+   {
+    "name": "butter",
+    "quantity_g": 80,
+    "prep_note": "softened"
+   },
+   {
+    "name": "all-purpose flour",
+    "quantity_g": 60,
+    "prep_note": ""
+   },
+   {
+    "name": "salt",
+    "quantity_g": 2,
+    "prep_note": ""
+   }
+  ],
+  "instructions": "1. Heat oven to 150 C. 2. Cream butter and sugar. 3. Mix in egg, then almonds, all-purpose flour, and salt. 4. Shape into small rounds on a lined tray. 5. Bake 60 to 65 minutes until crisp."
+ },
+ {
+  "title": "Slow-Cooked Indian Coconut Rice Pudding with Cashews",
+  "description": "Rice slow-simmered in coconut milk with sugar and topped with cashews.",
+  "cuisine": "Indian",
+  "difficulty": "easy",
+  "prep_time_min": 10,
+  "cook_time_min": 80,
+  "servings": 6,
+  "diet_tags": [
+   "vegan",
+   "gluten_free"
+  ],
+  "ingredients": [
+   {
+    "name": "white rice",
+    "quantity_g": 150,
+    "prep_note": "rinsed"
+   },
+   {
+    "name": "coconut milk",
+    "quantity_g": 800,
+    "prep_note": ""
+   },
+   {
+    "name": "sugar",
+    "quantity_g": 100,
+    "prep_note": ""
+   },
+   {
+    "name": "cinnamon",
+    "quantity_g": 3,
+    "prep_note": "ground"
+   },
+   {
+    "name": "cashews",
+    "quantity_g": 100,
+    "prep_note": "toasted"
+   },
+   {
+    "name": "salt",
+    "quantity_g": 2,
+    "prep_note": ""
+   }
+  ],
+  "instructions": "1. Combine white rice, coconut milk, sugar, cinnamon, and salt in a heavy pot. 2. Simmer on low 75 minutes, stirring every 8 minutes. 3. Cook until thick and creamy. 4. Spoon into bowls. 5. Top with cashews."
+ },
+ {
+  "title": "Slow-Roasted French Beet-Free Root Confit with Walnuts",
+  "description": "Carrot and potato slow-roasted in olive oil with walnuts and thyme.",
+  "cuisine": "French",
+  "difficulty": "easy",
+  "prep_time_min": 20,
+  "cook_time_min": 85,
+  "servings": 6,
+  "diet_tags": [
+   "vegan",
+   "gluten_free"
+  ],
+  "ingredients": [
+   {
+    "name": "carrot",
+    "quantity_g": 600,
+    "prep_note": "chunks"
+   },
+   {
+    "name": "potato",
+    "quantity_g": 600,
+    "prep_note": "chunks"
+   },
+   {
+    "name": "walnuts",
+    "quantity_g": 100,
+    "prep_note": "halved"
+   },
+   {
+    "name": "olive oil",
+    "quantity_g": 60,
+    "prep_note": ""
+   },
+   {
+    "name": "thyme",
+    "quantity_g": 6,
+    "prep_note": "fresh"
+   },
+   {
+    "name": "garlic",
+    "quantity_g": 15,
+    "prep_note": "smashed"
+   },
+   {
+    "name": "salt",
+    "quantity_g": 8,
+    "prep_note": ""
+   }
+  ],
+  "instructions": "1. Heat oven to 160 C. 2. Toss carrot, potato, garlic, and thyme with olive oil and salt. 3. Spread on a tray. 4. Roast 80 minutes, turning twice. 5. Scatter walnuts and roast 5 more minutes."
+ },
+ {
+  "title": "Slow-Baked Korean Walnut and Honey Rice Cake",
+  "description": "A chewy baked rice cake with walnuts and honey.",
+  "cuisine": "Korean",
+  "difficulty": "hard",
+  "prep_time_min": 25,
+  "cook_time_min": 75,
+  "servings": 6,
+  "diet_tags": [
+   "vegetarian",
+   "gluten_free"
+  ],
+  "ingredients": [
+   {
+    "name": "white rice",
+    "quantity_g": 300,
+    "prep_note": "soaked and drained"
+   },
+   {
+    "name": "walnuts",
+    "quantity_g": 120,
+    "prep_note": "chopped"
+   },
+   {
+    "name": "honey",
+    "quantity_g": 100,
+    "prep_note": ""
+   },
+   {
+    "name": "sugar",
+    "quantity_g": 60,
+    "prep_note": ""
+   },
+   {
+    "name": "salt",
+    "quantity_g": 2,
+    "prep_note": ""
+   }
+  ],
+  "instructions": "1. Blend soaked white rice with 300 ml water into a coarse batter. 2. Mix in sugar, honey, and salt. 3. Fold in walnuts. 4. Pour into a lined tin. 5. Bake at 160 C for 70 to 75 minutes, cool, and slice."
+ },
+ {
+  "title": "Slow-Simmered Japanese Soy-Glazed Sweet Potato",
+  "description": "Sweet potato slow-braised in soy, ginger, and sugar until glossy.",
+  "cuisine": "Japanese",
+  "difficulty": "easy",
+  "prep_time_min": 10,
+  "cook_time_min": 70,
+  "servings": 4,
+  "diet_tags": [
+   "vegan"
+  ],
+  "ingredients": [
+   {
+    "name": "sweet potato",
+    "quantity_g": 900,
+    "prep_note": "thick rounds"
+   },
+   {
+    "name": "soy sauce",
+    "quantity_g": 60,
+    "prep_note": ""
+   },
+   {
+    "name": "ginger",
+    "quantity_g": 15,
+    "prep_note": "grated"
+   },
+   {
+    "name": "sugar",
+    "quantity_g": 30,
+    "prep_note": ""
+   },
+   {
+    "name": "sesame oil",
+    "quantity_g": 15,
+    "prep_note": ""
+   },
+   {
+    "name": "sesame seeds",
+    "quantity_g": 8,
+    "prep_note": "toasted"
+   }
+  ],
+  "instructions": "1. Whisk soy sauce, ginger, sugar, sesame oil, and 300 ml water. 2. Arrange sweet potato in a single layer in a pot. 3. Pour sauce over. 4. Simmer covered 65 minutes, turning twice. 5. Uncover, reduce 5 minutes, finish with sesame seeds."
+ },
+ {
+  "title": "Slow-Baked French Almond Pear-Free Apple Tart",
+  "description": "A slow-baked apple tart with an almond cream and buttery crust.",
+  "cuisine": "French",
+  "difficulty": "hard",
+  "prep_time_min": 35,
+  "cook_time_min": 80,
+  "servings": 6,
+  "diet_tags": [
+   "vegetarian"
+  ],
+  "ingredients": [
+   {
+    "name": "all-purpose flour",
+    "quantity_g": 250,
+    "prep_note": "for crust"
+   },
+   {
+    "name": "butter",
+    "quantity_g": 150,
+    "prep_note": "cold, cubed"
+   },
+   {
+    "name": "almonds",
+    "quantity_g": 150,
+    "prep_note": "ground"
+   },
+   {
+    "name": "sugar",
+    "quantity_g": 130,
+    "prep_note": ""
+   },
+   {
+    "name": "egg",
+    "quantity_g": 100,
+    "prep_note": ""
+   },
+   {
+    "name": "apple",
+    "quantity_g": 600,
+    "prep_note": "sliced"
+   },
+   {
+    "name": "cinnamon",
+    "quantity_g": 4,
+    "prep_note": "ground"
+   },
+   {
+    "name": "salt",
+    "quantity_g": 3,
+    "prep_note": ""
+   }
+  ],
+  "instructions": "1. Rub all-purpose flour, butter, half the sugar, and salt into a crust, chill 20 minutes. 2. Press into a tart tin. 3. Beat egg, almonds, and remaining sugar into a cream, spread over crust. 4. Arrange apple slices on top and dust with cinnamon. 5. Bake at 165 C for 75 to 80 minutes."
+ }
+]

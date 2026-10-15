@@ -1,0 +1,5965 @@
+[
+ {
+  "title": "Lemon Garlic Chicken with White Rice",
+  "description": "Seared chicken breast finished in a bright lemon garlic pan sauce, spooned over steamed white rice.",
+  "cuisine": "Mediterranean",
+  "difficulty": "easy",
+  "prep_time_min": 10,
+  "cook_time_min": 20,
+  "servings": 2,
+  "diet_tags": [
+   "gluten_free"
+  ],
+  "ingredients": [
+   {
+    "name": "chicken breast",
+    "quantity_g": 300,
+    "prep_note": "cubed"
+   },
+   {
+    "name": "white rice",
+    "quantity_g": 150,
+    "prep_note": "rinsed"
+   },
+   {
+    "name": "lemon",
+    "quantity_g": 50,
+    "prep_note": "juiced"
+   },
+   {
+    "name": "garlic",
+    "quantity_g": 12,
+    "prep_note": "minced"
+   },
+   {
+    "name": "olive oil",
+    "quantity_g": 20,
+    "prep_note": "divided"
+   },
+   {
+    "name": "salt",
+    "quantity_g": 4,
+    "prep_note": ""
+   },
+   {
+    "name": "black pepper",
+    "quantity_g": 2,
+    "prep_note": "ground"
+   }
+  ],
+  "instructions": "1. Simmer white rice in 300 ml water, covered, 15 minutes. 2. Season chicken with salt and pepper. 3. Sear in olive oil over medium-high heat 6 minutes per side. 4. Add garlic and lemon juice, toss 1 minute. 5. Serve chicken and pan sauce over rice."
+ },
+ {
+  "title": "Rich Baked Penne with Cream and Cheddar",
+  "description": "A heavy, indulgent baked pasta in a thick cream sauce under a golden cheddar crust.",
+  "cuisine": "Italian",
+  "difficulty": "medium",
+  "prep_time_min": 20,
+  "cook_time_min": 35,
+  "servings": 2,
+  "diet_tags": [
+   "vegetarian"
+  ],
+  "ingredients": [
+   {
+    "name": "penne",
+    "quantity_g": 200,
+    "prep_note": ""
+   },
+   {
+    "name": "heavy cream",
+    "quantity_g": 200,
+    "prep_note": ""
+   },
+   {
+    "name": "cheddar cheese",
+    "quantity_g": 120,
+    "prep_note": "shredded"
+   },
+   {
+    "name": "butter",
+    "quantity_g": 30,
+    "prep_note": ""
+   },
+   {
+    "name": "garlic",
+    "quantity_g": 10,
+    "prep_note": "minced"
+   },
+   {
+    "name": "all-purpose flour",
+    "quantity_g": 20,
+    "prep_note": ""
+   },
+   {
+    "name": "black pepper",
+    "quantity_g": 3,
+    "prep_note": "ground"
+   }
+  ],
+  "instructions": "1. Boil penne 2 minutes shy of al dente. 2. Melt butter, whisk in all-purpose flour, then heavy cream. 3. Stir in half the cheddar until smooth. 4. Toss penne with sauce, transfer to a dish, top with remaining cheddar. 5. Bake at 200 C for 20 minutes until bubbling and browned."
+ },
+ {
+  "title": "Beef and Broccoli Stir-Fry",
+  "description": "Tender sirloin strips and crisp broccoli in a ginger soy glaze.",
+  "cuisine": "Chinese",
+  "difficulty": "medium",
+  "prep_time_min": 20,
+  "cook_time_min": 12,
+  "servings": 2,
+  "diet_tags": [],
+  "ingredients": [
+   {
+    "name": "beef sirloin",
+    "quantity_g": 250,
+    "prep_note": "thinly sliced"
+   },
+   {
+    "name": "broccoli",
+    "quantity_g": 200,
+    "prep_note": "cut into florets"
+   },
+   {
+    "name": "soy sauce",
+    "quantity_g": 30,
+    "prep_note": ""
+   },
+   {
+    "name": "ginger",
+    "quantity_g": 10,
+    "prep_note": "grated"
+   },
+   {
+    "name": "garlic",
+    "quantity_g": 10,
+    "prep_note": "minced"
+   },
+   {
+    "name": "sesame oil",
+    "quantity_g": 15,
+    "prep_note": ""
+   },
+   {
+    "name": "honey",
+    "quantity_g": 10,
+    "prep_note": ""
+   }
+  ],
+  "instructions": "1. Whisk soy sauce, honey, ginger, and garlic. 2. Heat sesame oil in a wok until shimmering. 3. Stir-fry beef 2 minutes, remove. 4. Stir-fry broccoli 4 minutes with a splash of water. 5. Return beef, add sauce, toss 2 minutes."
+ },
+ {
+  "title": "Slow-Cooked Beef and Bean Chili",
+  "description": "A thick, smoky chili simmered low with kidney beans until the beef falls apart.",
+  "cuisine": "Mexican",
+  "difficulty": "medium",
+  "prep_time_min": 15,
+  "cook_time_min": 90,
+  "servings": 2,
+  "diet_tags": [
+   "gluten_free"
+  ],
+  "ingredients": [
+   {
+    "name": "beef mince",
+    "quantity_g": 250,
+    "prep_note": ""
+   },
+   {
+    "name": "kidney beans",
+    "quantity_g": 200,
+    "prep_note": "drained"
+   },
+   {
+    "name": "canned tomatoes",
+    "quantity_g": 300,
+    "prep_note": ""
+   },
+   {
+    "name": "onion",
+    "quantity_g": 100,
+    "prep_note": "diced"
+   },
+   {
+    "name": "garlic",
+    "quantity_g": 10,
+    "prep_note": "minced"
+   },
+   {
+    "name": "chili flakes",
+    "quantity_g": 6,
+    "prep_note": ""
+   },
+   {
+    "name": "cumin",
+    "quantity_g": 6,
+    "prep_note": "ground"
+   },
+   {
+    "name": "chicken broth",
+    "quantity_g": 300,
+    "prep_note": ""
+   }
+  ],
+  "instructions": "1. Brown beef with onion and garlic. 2. Add chili flakes and cumin, toast 1 minute. 3. Add canned tomatoes, kidney beans, and chicken broth. 4. Simmer covered 80 minutes. 5. Season with salt and black pepper."
+ },
+ {
+  "title": "Tomato Basil Soup",
+  "description": "A silky tomato soup simmered with garlic and finished with torn basil.",
+  "cuisine": "Italian",
+  "difficulty": "easy",
+  "prep_time_min": 10,
+  "cook_time_min": 25,
+  "servings": 2,
+  "diet_tags": [
+   "vegan",
+   "gluten_free"
+  ],
+  "ingredients": [
+   {
+    "name": "canned tomatoes",
+    "quantity_g": 400,
+    "prep_note": ""
+   },
+   {
+    "name": "onion",
+    "quantity_g": 100,
+    "prep_note": "diced"
+   },
+   {
+    "name": "garlic",
+    "quantity_g": 10,
+    "prep_note": "minced"
+   },
+   {
+    "name": "basil",
+    "quantity_g": 12,
+    "prep_note": "torn"
+   },
+   {
+    "name": "olive oil",
+    "quantity_g": 20,
+    "prep_note": ""
+   },
+   {
+    "name": "vegetable broth",
+    "quantity_g": 300,
+    "prep_note": ""
+   },
+   {
+    "name": "salt",
+    "quantity_g": 4,
+    "prep_note": ""
+   },
+   {
+    "name": "black pepper",
+    "quantity_g": 2,
+    "prep_note": ""
+   }
+  ],
+  "instructions": "1. Sweat onion and garlic in olive oil 6 minutes. 2. Add canned tomatoes and vegetable broth. 3. Simmer 18 minutes. 4. Blend until smooth. 5. Stir in basil, salt, and black pepper."
+ },
+ {
+  "title": "Garlic Butter Shrimp with Zucchini",
+  "description": "Shrimp seared in garlic butter with ribbons of zucchini and lemon.",
+  "cuisine": "Mediterranean",
+  "difficulty": "easy",
+  "prep_time_min": 10,
+  "cook_time_min": 10,
+  "servings": 2,
+  "diet_tags": [
+   "pescatarian",
+   "gluten_free"
+  ],
+  "ingredients": [
+   {
+    "name": "shrimp",
+    "quantity_g": 250,
+    "prep_note": "peeled"
+   },
+   {
+    "name": "zucchini",
+    "quantity_g": 300,
+    "prep_note": "ribboned"
+   },
+   {
+    "name": "garlic",
+    "quantity_g": 15,
+    "prep_note": "minced"
+   },
+   {
+    "name": "butter",
+    "quantity_g": 30,
+    "prep_note": ""
+   },
+   {
+    "name": "lemon",
+    "quantity_g": 30,
+    "prep_note": "juiced"
+   },
+   {
+    "name": "parsley",
+    "quantity_g": 10,
+    "prep_note": "chopped"
+   }
+  ],
+  "instructions": "1. Melt butter and saut\u00e9 garlic 1 minute. 2. Add shrimp and cook 3 minutes. 3. Add zucchini ribbons and toss 2 minutes. 4. Finish with lemon juice and parsley."
+ },
+ {
+  "title": "Creamy Mushroom Rice",
+  "description": "Mushrooms and white rice cooked down in a buttery cream sauce with Parmesan.",
+  "cuisine": "Italian",
+  "difficulty": "medium",
+  "prep_time_min": 15,
+  "cook_time_min": 30,
+  "servings": 2,
+  "diet_tags": [
+   "vegetarian",
+   "gluten_free"
+  ],
+  "ingredients": [
+   {
+    "name": "white rice",
+    "quantity_g": 150,
+    "prep_note": "short grain"
+   },
+   {
+    "name": "mushrooms",
+    "quantity_g": 250,
+    "prep_note": "sliced"
+   },
+   {
+    "name": "onion",
+    "quantity_g": 80,
+    "prep_note": "finely diced"
+   },
+   {
+    "name": "garlic",
+    "quantity_g": 10,
+    "prep_note": "minced"
+   },
+   {
+    "name": "vegetable broth",
+    "quantity_g": 600,
+    "prep_note": "warm"
+   },
+   {
+    "name": "heavy cream",
+    "quantity_g": 80,
+    "prep_note": ""
+   },
+   {
+    "name": "parmesan",
+    "quantity_g": 40,
+    "prep_note": "grated"
+   },
+   {
+    "name": "butter",
+    "quantity_g": 25,
+    "prep_note": ""
+   }
+  ],
+  "instructions": "1. Brown mushrooms in butter, set aside. 2. Sweat onion and garlic. 3. Add rice and toast 2 minutes. 4. Add warm broth one ladle at a time, stirring until absorbed. 5. Fold in mushrooms, heavy cream, and Parmesan."
+ },
+ {
+  "title": "Light Lemon Garlic Spaghetti with Spinach",
+  "description": "A bright, oil-based spaghetti tossed with spinach, lemon, and toasted garlic.",
+  "cuisine": "Italian",
+  "difficulty": "easy",
+  "prep_time_min": 5,
+  "cook_time_min": 15,
+  "servings": 2,
+  "diet_tags": [
+   "vegetarian"
+  ],
+  "ingredients": [
+   {
+    "name": "spaghetti",
+    "quantity_g": 180,
+    "prep_note": ""
+   },
+   {
+    "name": "spinach",
+    "quantity_g": 120,
+    "prep_note": ""
+   },
+   {
+    "name": "garlic",
+    "quantity_g": 12,
+    "prep_note": "sliced"
+   },
+   {
+    "name": "lemon",
+    "quantity_g": 50,
+    "prep_note": "juiced"
+   },
+   {
+    "name": "olive oil",
+    "quantity_g": 30,
+    "prep_note": ""
+   },
+   {
+    "name": "chili flakes",
+    "quantity_g": 3,
+    "prep_note": ""
+   },
+   {
+    "name": "salt",
+    "quantity_g": 4,
+    "prep_note": ""
+   }
+  ],
+  "instructions": "1. Boil spaghetti in salted water until al dente. 2. Gently fry garlic and chili flakes in olive oil. 3. Add spinach and wilt 1 minute. 4. Toss with spaghetti and lemon juice. 5. Serve immediately."
+ },
+ {
+  "title": "Fresh Black Bean and Mango Salad",
+  "description": "A cool, bright bean salad with mango, cucumber, lime, and cilantro.",
+  "cuisine": "Mexican",
+  "difficulty": "easy",
+  "prep_time_min": 15,
+  "cook_time_min": 0,
+  "servings": 2,
+  "diet_tags": [
+   "vegan",
+   "gluten_free"
+  ],
+  "ingredients": [
+   {
+    "name": "black beans",
+    "quantity_g": 200,
+    "prep_note": "drained"
+   },
+   {
+    "name": "mango",
+    "quantity_g": 150,
+    "prep_note": "diced"
+   },
+   {
+    "name": "cucumber",
+    "quantity_g": 120,
+    "prep_note": "diced"
+   },
+   {
+    "name": "onion",
+    "quantity_g": 40,
+    "prep_note": "diced"
+   },
+   {
+    "name": "cilantro",
+    "quantity_g": 10,
+    "prep_note": "chopped"
+   },
+   {
+    "name": "lime",
+    "quantity_g": 40,
+    "prep_note": "juiced"
+   },
+   {
+    "name": "olive oil",
+    "quantity_g": 15,
+    "prep_note": ""
+   }
+  ],
+  "instructions": "1. Rinse black beans. 2. Combine with mango, cucumber, and onion. 3. Dress with lime juice and olive oil. 4. Fold in cilantro. 5. Chill 10 minutes before serving."
+ },
+ {
+  "title": "Chicken Coconut Curry",
+  "description": "Chicken thighs simmered in coconut milk with curry powder and tomato.",
+  "cuisine": "Indian",
+  "difficulty": "medium",
+  "prep_time_min": 20,
+  "cook_time_min": 25,
+  "servings": 2,
+  "diet_tags": [
+   "gluten_free"
+  ],
+  "ingredients": [
+   {
+    "name": "chicken thigh",
+    "quantity_g": 300,
+    "prep_note": "cubed"
+   },
+   {
+    "name": "coconut milk",
+    "quantity_g": 200,
+    "prep_note": ""
+   },
+   {
+    "name": "onion",
+    "quantity_g": 100,
+    "prep_note": "diced"
+   },
+   {
+    "name": "garlic",
+    "quantity_g": 10,
+    "prep_note": "minced"
+   },
+   {
+    "name": "ginger",
+    "quantity_g": 10,
+    "prep_note": "grated"
+   },
+   {
+    "name": "curry powder",
+    "quantity_g": 10,
+    "prep_note": ""
+   },
+   {
+    "name": "canned tomatoes",
+    "quantity_g": 150,
+    "prep_note": ""
+   },
+   {
+    "name": "cilantro",
+    "quantity_g": 10,
+    "prep_note": "chopped"
+   }
+  ],
+  "instructions": "1. Sweat onion, garlic, and ginger. 2. Bloom curry powder 1 minute. 3. Add canned tomatoes, cook 5 minutes. 4. Add chicken and coconut milk. 5. Simmer 20 minutes, finish with cilantro."
+ },
+ {
+  "title": "Greek Salad",
+  "description": "Cucumber, tomato, onion, and feta dressed with olive oil and red wine vinegar.",
+  "cuisine": "Greek",
+  "difficulty": "easy",
+  "prep_time_min": 15,
+  "cook_time_min": 0,
+  "servings": 2,
+  "diet_tags": [
+   "vegetarian",
+   "gluten_free"
+  ],
+  "ingredients": [
+   {
+    "name": "cucumber",
+    "quantity_g": 150,
+    "prep_note": "diced"
+   },
+   {
+    "name": "tomato",
+    "quantity_g": 200,
+    "prep_note": "diced"
+   },
+   {
+    "name": "onion",
+    "quantity_g": 50,
+    "prep_note": "thinly sliced"
+   },
+   {
+    "name": "feta",
+    "quantity_g": 60,
+    "prep_note": "crumbled"
+   },
+   {
+    "name": "olive oil",
+    "quantity_g": 20,
+    "prep_note": ""
+   },
+   {
+    "name": "red wine vinegar",
+    "quantity_g": 10,
+    "prep_note": ""
+   },
+   {
+    "name": "black pepper",
+    "quantity_g": 2,
+    "prep_note": ""
+   }
+  ],
+  "instructions": "1. Combine cucumber, tomato, and onion. 2. Whisk olive oil and red wine vinegar. 3. Toss vegetables with dressing. 4. Top with feta and black pepper."
+ },
+ {
+  "title": "Spaghetti with Tomato and Basil",
+  "description": "Spaghetti tossed in a quick garlic tomato sauce with fresh basil.",
+  "cuisine": "Italian",
+  "difficulty": "easy",
+  "prep_time_min": 5,
+  "cook_time_min": 20,
+  "servings": 2,
+  "diet_tags": [
+   "vegan"
+  ],
+  "ingredients": [
+   {
+    "name": "spaghetti",
+    "quantity_g": 200,
+    "prep_note": ""
+   },
+   {
+    "name": "canned tomatoes",
+    "quantity_g": 400,
+    "prep_note": ""
+   },
+   {
+    "name": "garlic",
+    "quantity_g": 10,
+    "prep_note": "sliced"
+   },
+   {
+    "name": "basil",
+    "quantity_g": 12,
+    "prep_note": "torn"
+   },
+   {
+    "name": "olive oil",
+    "quantity_g": 25,
+    "prep_note": ""
+   },
+   {
+    "name": "salt",
+    "quantity_g": 4,
+    "prep_note": ""
+   }
+  ],
+  "instructions": "1. Boil spaghetti in salted water until al dente. 2. Gently fry garlic in olive oil. 3. Add canned tomatoes, simmer 12 minutes. 4. Toss pasta with sauce. 5. Finish with basil."
+ },
+ {
+  "title": "Chicken Noodle Soup",
+  "description": "Chicken breast, carrot, and rice noodles in a clear, gently simmered broth.",
+  "cuisine": "American",
+  "difficulty": "easy",
+  "prep_time_min": 15,
+  "cook_time_min": 25,
+  "servings": 2,
+  "diet_tags": [
+   "gluten_free"
+  ],
+  "ingredients": [
+   {
+    "name": "chicken breast",
+    "quantity_g": 200,
+    "prep_note": "cubed"
+   },
+   {
+    "name": "rice noodles",
+    "quantity_g": 100,
+    "prep_note": ""
+   },
+   {
+    "name": "carrot",
+    "quantity_g": 80,
+    "prep_note": "sliced"
+   },
+   {
+    "name": "onion",
+    "quantity_g": 80,
+    "prep_note": "diced"
+   },
+   {
+    "name": "chicken broth",
+    "quantity_g": 800,
+    "prep_note": ""
+   },
+   {
+    "name": "thyme",
+    "quantity_g": 3,
+    "prep_note": "dried"
+   }
+  ],
+  "instructions": "1. Sweat onion and carrot in a pot. 2. Add broth and chicken, simmer 15 minutes. 3. Add rice noodles and cook 5 minutes. 4. Season with thyme, salt, and black pepper."
+ },
+ {
+  "title": "Black Bean Flour Tortilla Tacos",
+  "description": "Soft tortillas filled with cumin-spiced black beans and avocado.",
+  "cuisine": "Mexican",
+  "difficulty": "easy",
+  "prep_time_min": 10,
+  "cook_time_min": 10,
+  "servings": 2,
+  "diet_tags": [
+   "vegan"
+  ],
+  "ingredients": [
+   {
+    "name": "black beans",
+    "quantity_g": 200,
+    "prep_note": "drained"
+   },
+   {
+    "name": "flour tortilla",
+    "quantity_g": 100,
+    "prep_note": "warmed"
+   },
+   {
+    "name": "avocado",
+    "quantity_g": 80,
+    "prep_note": "sliced"
+   },
+   {
+    "name": "onion",
+    "quantity_g": 50,
+    "prep_note": "diced"
+   },
+   {
+    "name": "cumin",
+    "quantity_g": 4,
+    "prep_note": "ground"
+   },
+   {
+    "name": "lime",
+    "quantity_g": 30,
+    "prep_note": "juiced"
+   },
+   {
+    "name": "cilantro",
+    "quantity_g": 10,
+    "prep_note": "chopped"
+   }
+  ],
+  "instructions": "1. Warm black beans with cumin and onion. 2. Lightly mash half the beans. 3. Fill tortillas with beans and avocado. 4. Finish with lime and cilantro."
+ },
+ {
+  "title": "Beef Sirloin Salad",
+  "description": "Seared sirloin sliced over cucumber, tomato, and greens with a lemon dressing.",
+  "cuisine": "Mediterranean",
+  "difficulty": "easy",
+  "prep_time_min": 15,
+  "cook_time_min": 10,
+  "servings": 2,
+  "diet_tags": [
+   "gluten_free"
+  ],
+  "ingredients": [
+   {
+    "name": "beef sirloin",
+    "quantity_g": 250,
+    "prep_note": "seared and sliced"
+   },
+   {
+    "name": "cucumber",
+    "quantity_g": 120,
+    "prep_note": "diced"
+   },
+   {
+    "name": "tomato",
+    "quantity_g": 150,
+    "prep_note": "diced"
+   },
+   {
+    "name": "onion",
+    "quantity_g": 40,
+    "prep_note": "sliced"
+   },
+   {
+    "name": "lemon",
+    "quantity_g": 40,
+    "prep_note": "juiced"
+   },
+   {
+    "name": "olive oil",
+    "quantity_g": 20,
+    "prep_note": ""
+   },
+   {
+    "name": "parsley",
+    "quantity_g": 10,
+    "prep_note": "chopped"
+   }
+  ],
+  "instructions": "1. Season sirloin and sear 3 minutes per side for medium rare. 2. Rest 5 minutes, then slice thin. 3. Toss cucumber, tomato, and onion with lemon juice and olive oil. 4. Top with sliced beef and parsley."
+ },
+ {
+  "title": "Butter-Basted Sirloin Dinner",
+  "description": "A thick sirloin steak basted in butter with garlic and rosemary, served with roasted potatoes.",
+  "cuisine": "American",
+  "difficulty": "medium",
+  "prep_time_min": 10,
+  "cook_time_min": 30,
+  "servings": 2,
+  "diet_tags": [
+   "gluten_free"
+  ],
+  "ingredients": [
+   {
+    "name": "beef sirloin",
+    "quantity_g": 350,
+    "prep_note": "thick cut"
+   },
+   {
+    "name": "potato",
+    "quantity_g": 300,
+    "prep_note": "wedges"
+   },
+   {
+    "name": "butter",
+    "quantity_g": 50,
+    "prep_note": ""
+   },
+   {
+    "name": "garlic",
+    "quantity_g": 12,
+    "prep_note": "smashed"
+   },
+   {
+    "name": "rosemary",
+    "quantity_g": 5,
+    "prep_note": "fresh"
+   },
+   {
+    "name": "olive oil",
+    "quantity_g": 20,
+    "prep_note": ""
+   },
+   {
+    "name": "salt",
+    "quantity_g": 5,
+    "prep_note": ""
+   }
+  ],
+  "instructions": "1. Roast potato wedges with olive oil and salt at 200 C for 25 minutes. 2. Season sirloin generously. 3. Sear in a hot pan 3 minutes per side. 4. Add butter, garlic, and rosemary, basting 2 minutes. 5. Rest 5 minutes and slice against the grain."
+ },
+ {
+  "title": "Egg Fried Rice",
+  "description": "Simple fried rice with scrambled egg, green peas, and soy sauce.",
+  "cuisine": "Chinese",
+  "difficulty": "easy",
+  "prep_time_min": 5,
+  "cook_time_min": 10,
+  "servings": 2,
+  "diet_tags": [
+   "vegetarian"
+  ],
+  "ingredients": [
+   {
+    "name": "white rice",
+    "quantity_g": 200,
+    "prep_note": "cooked and cooled"
+   },
+   {
+    "name": "egg",
+    "quantity_g": 100,
+    "prep_note": "beaten"
+   },
+   {
+    "name": "green peas",
+    "quantity_g": 80,
+    "prep_note": ""
+   },
+   {
+    "name": "soy sauce",
+    "quantity_g": 20,
+    "prep_note": ""
+   },
+   {
+    "name": "sesame oil",
+    "quantity_g": 10,
+    "prep_note": ""
+   }
+  ],
+  "instructions": "1. Scramble egg in sesame oil. 2. Add rice and peas, fry 5 minutes. 3. Add soy sauce and toss. 4. Serve immediately."
+ },
+ {
+  "title": "Chickpea Curry",
+  "description": "Chickpeas simmered in a spiced tomato coconut sauce.",
+  "cuisine": "Indian",
+  "difficulty": "easy",
+  "prep_time_min": 10,
+  "cook_time_min": 25,
+  "servings": 2,
+  "diet_tags": [
+   "vegan",
+   "gluten_free"
+  ],
+  "ingredients": [
+   {
+    "name": "chickpeas",
+    "quantity_g": 200,
+    "prep_note": "drained"
+   },
+   {
+    "name": "canned tomatoes",
+    "quantity_g": 250,
+    "prep_note": ""
+   },
+   {
+    "name": "onion",
+    "quantity_g": 100,
+    "prep_note": "diced"
+   },
+   {
+    "name": "garlic",
+    "quantity_g": 10,
+    "prep_note": "minced"
+   },
+   {
+    "name": "ginger",
+    "quantity_g": 10,
+    "prep_note": "grated"
+   },
+   {
+    "name": "curry powder",
+    "quantity_g": 8,
+    "prep_note": ""
+   },
+   {
+    "name": "coconut milk",
+    "quantity_g": 150,
+    "prep_note": ""
+   },
+   {
+    "name": "cilantro",
+    "quantity_g": 10,
+    "prep_note": "chopped"
+   }
+  ],
+  "instructions": "1. Sweat onion, garlic, and ginger. 2. Add curry powder and canned tomatoes, cook 8 minutes. 3. Add chickpeas and coconut milk. 4. Simmer 15 minutes. 5. Garnish with cilantro."
+ },
+ {
+  "title": "Red Lentil Soup",
+  "description": "Red lentils cooked down with cumin, carrot, and onion into a thick soup.",
+  "cuisine": "Middle Eastern",
+  "difficulty": "easy",
+  "prep_time_min": 15,
+  "cook_time_min": 30,
+  "servings": 2,
+  "diet_tags": [
+   "vegan",
+   "gluten_free"
+  ],
+  "ingredients": [
+   {
+    "name": "red lentils",
+    "quantity_g": 150,
+    "prep_note": "rinsed"
+   },
+   {
+    "name": "carrot",
+    "quantity_g": 100,
+    "prep_note": "diced"
+   },
+   {
+    "name": "onion",
+    "quantity_g": 100,
+    "prep_note": "diced"
+   },
+   {
+    "name": "garlic",
+    "quantity_g": 10,
+    "prep_note": "minced"
+   },
+   {
+    "name": "cumin",
+    "quantity_g": 5,
+    "prep_note": "ground"
+   },
+   {
+    "name": "vegetable broth",
+    "quantity_g": 700,
+    "prep_note": ""
+   },
+   {
+    "name": "olive oil",
+    "quantity_g": 15,
+    "prep_note": ""
+   }
+  ],
+  "instructions": "1. Sweat onion, carrot, and garlic in olive oil 6 minutes. 2. Add cumin, lentils, and broth. 3. Simmer 25 minutes until lentils break down. 4. Season with salt and black pepper."
+ },
+ {
+  "title": "Baked Salmon with Lemon",
+  "description": "Salmon fillet roasted with lemon slices and garlic until just flaky.",
+  "cuisine": "Nordic",
+  "difficulty": "easy",
+  "prep_time_min": 5,
+  "cook_time_min": 18,
+  "servings": 2,
+  "diet_tags": [
+   "pescatarian",
+   "gluten_free"
+  ],
+  "ingredients": [
+   {
+    "name": "salmon fillet",
+    "quantity_g": 300,
+    "prep_note": ""
+   },
+   {
+    "name": "lemon",
+    "quantity_g": 50,
+    "prep_note": "sliced"
+   },
+   {
+    "name": "garlic",
+    "quantity_g": 10,
+    "prep_note": "minced"
+   },
+   {
+    "name": "olive oil",
+    "quantity_g": 20,
+    "prep_note": ""
+   },
+   {
+    "name": "parsley",
+    "quantity_g": 10,
+    "prep_note": "chopped"
+   },
+   {
+    "name": "salt",
+    "quantity_g": 4,
+    "prep_note": ""
+   },
+   {
+    "name": "black pepper",
+    "quantity_g": 2,
+    "prep_note": ""
+   }
+  ],
+  "instructions": "1. Heat oven to 200 C. 2. Place salmon on a lined sheet. 3. Drizzle olive oil, garlic, salt, and pepper. 4. Top with lemon slices. 5. Roast 15 to 18 minutes, finish with parsley."
+ },
+ {
+  "title": "Baked Cod with Lemon",
+  "description": "Cod fillet roasted with lemon slices and olive oil until just opaque.",
+  "cuisine": "Mediterranean",
+  "difficulty": "easy",
+  "prep_time_min": 5,
+  "cook_time_min": 15,
+  "servings": 2,
+  "diet_tags": [
+   "pescatarian",
+   "gluten_free"
+  ],
+  "ingredients": [
+   {
+    "name": "cod fillet",
+    "quantity_g": 300,
+    "prep_note": ""
+   },
+   {
+    "name": "lemon",
+    "quantity_g": 50,
+    "prep_note": "sliced"
+   },
+   {
+    "name": "garlic",
+    "quantity_g": 10,
+    "prep_note": "minced"
+   },
+   {
+    "name": "olive oil",
+    "quantity_g": 20,
+    "prep_note": ""
+   },
+   {
+    "name": "parsley",
+    "quantity_g": 10,
+    "prep_note": "chopped"
+   },
+   {
+    "name": "salt",
+    "quantity_g": 4,
+    "prep_note": ""
+   },
+   {
+    "name": "black pepper",
+    "quantity_g": 2,
+    "prep_note": ""
+   }
+  ],
+  "instructions": "1. Heat oven to 200 C. 2. Place cod on a lined sheet. 3. Drizzle olive oil, garlic, salt, and pepper. 4. Top with lemon slices. 5. Roast 12 to 15 minutes, finish with parsley."
+ },
+ {
+  "title": "Teriyaki Chicken Rice Bowl",
+  "description": "Glazed chicken thighs over white rice with toasted sesame seeds.",
+  "cuisine": "Japanese",
+  "difficulty": "easy",
+  "prep_time_min": 15,
+  "cook_time_min": 20,
+  "servings": 2,
+  "diet_tags": [],
+  "ingredients": [
+   {
+    "name": "chicken thigh",
+    "quantity_g": 300,
+    "prep_note": "cubed"
+   },
+   {
+    "name": "white rice",
+    "quantity_g": 150,
+    "prep_note": ""
+   },
+   {
+    "name": "soy sauce",
+    "quantity_g": 40,
+    "prep_note": ""
+   },
+   {
+    "name": "honey",
+    "quantity_g": 20,
+    "prep_note": ""
+   },
+   {
+    "name": "ginger",
+    "quantity_g": 10,
+    "prep_note": "grated"
+   },
+   {
+    "name": "garlic",
+    "quantity_g": 8,
+    "prep_note": "minced"
+   },
+   {
+    "name": "sesame seeds",
+    "quantity_g": 5,
+    "prep_note": "toasted"
+   }
+  ],
+  "instructions": "1. Cook white rice. 2. Sear chicken until browned. 3. Add soy sauce, honey, ginger, and garlic. 4. Simmer 8 minutes until glazed. 5. Serve over rice with sesame seeds."
+ },
+ {
+  "title": "Tofu and Vegetable Stir-Fry",
+  "description": "Crispy tofu stir-fried with broccoli and bell pepper in a soy ginger sauce.",
+  "cuisine": "Chinese",
+  "difficulty": "easy",
+  "prep_time_min": 15,
+  "cook_time_min": 15,
+  "servings": 2,
+  "diet_tags": [
+   "vegan"
+  ],
+  "ingredients": [
+   {
+    "name": "tofu",
+    "quantity_g": 300,
+    "prep_note": "pressed and cubed"
+   },
+   {
+    "name": "broccoli",
+    "quantity_g": 150,
+    "prep_note": "florets"
+   },
+   {
+    "name": "bell pepper",
+    "quantity_g": 100,
+    "prep_note": "sliced"
+   },
+   {
+    "name": "soy sauce",
+    "quantity_g": 30,
+    "prep_note": ""
+   },
+   {
+    "name": "ginger",
+    "quantity_g": 10,
+    "prep_note": "grated"
+   },
+   {
+    "name": "sesame oil",
+    "quantity_g": 15,
+    "prep_note": ""
+   },
+   {
+    "name": "sesame seeds",
+    "quantity_g": 5,
+    "prep_note": "toasted"
+   }
+  ],
+  "instructions": "1. Sear tofu in sesame oil until golden. 2. Add broccoli and pepper, stir-fry 5 minutes. 3. Add soy sauce and ginger. 4. Toss 2 minutes. 5. Finish with sesame seeds."
+ },
+ {
+  "title": "Tempeh and Vegetable Stir-Fry",
+  "description": "Crumbled tempeh stir-fried with broccoli and bell pepper in a soy ginger sauce.",
+  "cuisine": "Chinese",
+  "difficulty": "easy",
+  "prep_time_min": 15,
+  "cook_time_min": 15,
+  "servings": 2,
+  "diet_tags": [
+   "vegan"
+  ],
+  "ingredients": [
+   {
+    "name": "tempeh",
+    "quantity_g": 300,
+    "prep_note": "crumbled"
+   },
+   {
+    "name": "broccoli",
+    "quantity_g": 150,
+    "prep_note": "florets"
+   },
+   {
+    "name": "bell pepper",
+    "quantity_g": 100,
+    "prep_note": "sliced"
+   },
+   {
+    "name": "soy sauce",
+    "quantity_g": 30,
+    "prep_note": ""
+   },
+   {
+    "name": "ginger",
+    "quantity_g": 10,
+    "prep_note": "grated"
+   },
+   {
+    "name": "sesame oil",
+    "quantity_g": 15,
+    "prep_note": ""
+   },
+   {
+    "name": "sesame seeds",
+    "quantity_g": 5,
+    "prep_note": "toasted"
+   }
+  ],
+  "instructions": "1. Brown tempeh in sesame oil 5 minutes. 2. Add broccoli and pepper, stir-fry 5 minutes. 3. Add soy sauce and ginger. 4. Toss 2 minutes. 5. Finish with sesame seeds."
+ },
+ {
+  "title": "Mango Avocado Salsa with Cod",
+  "description": "Pan-seared cod topped with a cool mango avocado salsa.",
+  "cuisine": "Mexican",
+  "difficulty": "easy",
+  "prep_time_min": 15,
+  "cook_time_min": 12,
+  "servings": 2,
+  "diet_tags": [
+   "pescatarian",
+   "gluten_free"
+  ],
+  "ingredients": [
+   {
+    "name": "cod fillet",
+    "quantity_g": 300,
+    "prep_note": ""
+   },
+   {
+    "name": "mango",
+    "quantity_g": 150,
+    "prep_note": "diced"
+   },
+   {
+    "name": "avocado",
+    "quantity_g": 100,
+    "prep_note": "diced"
+   },
+   {
+    "name": "onion",
+    "quantity_g": 40,
+    "prep_note": "diced"
+   },
+   {
+    "name": "cilantro",
+    "quantity_g": 10,
+    "prep_note": "chopped"
+   },
+   {
+    "name": "lime",
+    "quantity_g": 30,
+    "prep_note": "juiced"
+   },
+   {
+    "name": "olive oil",
+    "quantity_g": 15,
+    "prep_note": ""
+   }
+  ],
+  "instructions": "1. Season cod with salt and sear in olive oil 4 minutes per side. 2. Mix mango, avocado, onion, cilantro, and lime juice. 3. Spoon salsa over cod. 4. Serve immediately."
+ },
+ {
+  "title": "Mango Avocado Salsa with Shrimp",
+  "description": "Seared shrimp topped with a cool mango avocado salsa.",
+  "cuisine": "Mexican",
+  "difficulty": "easy",
+  "prep_time_min": 15,
+  "cook_time_min": 8,
+  "servings": 2,
+  "diet_tags": [
+   "pescatarian",
+   "gluten_free"
+  ],
+  "ingredients": [
+   {
+    "name": "shrimp",
+    "quantity_g": 250,
+    "prep_note": "peeled"
+   },
+   {
+    "name": "mango",
+    "quantity_g": 150,
+    "prep_note": "diced"
+   },
+   {
+    "name": "avocado",
+    "quantity_g": 100,
+    "prep_note": "diced"
+   },
+   {
+    "name": "onion",
+    "quantity_g": 40,
+    "prep_note": "diced"
+   },
+   {
+    "name": "cilantro",
+    "quantity_g": 10,
+    "prep_note": "chopped"
+   },
+   {
+    "name": "lime",
+    "quantity_g": 30,
+    "prep_note": "juiced"
+   },
+   {
+    "name": "olive oil",
+    "quantity_g": 15,
+    "prep_note": ""
+   }
+  ],
+  "instructions": "1. Season shrimp with salt and sear in olive oil 2 minutes per side. 2. Mix mango, avocado, onion, cilantro, and lime juice. 3. Spoon salsa over shrimp. 4. Serve immediately."
+ },
+ {
+  "title": "Slow Lentil and Sweet Potato Stew",
+  "description": "A thick, spiced stew that fills the kitchen with steam.",
+  "cuisine": "Middle Eastern",
+  "difficulty": "easy",
+  "prep_time_min": 15,
+  "cook_time_min": 45,
+  "servings": 2,
+  "diet_tags": [
+   "vegan",
+   "gluten_free"
+  ],
+  "ingredients": [
+   {
+    "name": "red lentils",
+    "quantity_g": 150,
+    "prep_note": "rinsed"
+   },
+   {
+    "name": "sweet potato",
+    "quantity_g": 250,
+    "prep_note": "cubed"
+   },
+   {
+    "name": "canned tomatoes",
+    "quantity_g": 250,
+    "prep_note": ""
+   },
+   {
+    "name": "onion",
+    "quantity_g": 100,
+    "prep_note": "diced"
+   },
+   {
+    "name": "garlic",
+    "quantity_g": 10,
+    "prep_note": "minced"
+   },
+   {
+    "name": "cumin",
+    "quantity_g": 6,
+    "prep_note": "ground"
+   },
+   {
+    "name": "vegetable broth",
+    "quantity_g": 600,
+    "prep_note": ""
+   }
+  ],
+  "instructions": "1. Sweat onion and garlic. 2. Add cumin, sweet potato, canned tomatoes, lentils, and broth. 3. Simmer 40 minutes until thick. 4. Season with salt and black pepper."
+ },
+ {
+  "title": "Cucumber and Yogurt Bowl",
+  "description": "A cool bowl of greek yogurt with cucumber, lemon, and parsley.",
+  "cuisine": "Greek",
+  "difficulty": "easy",
+  "prep_time_min": 10,
+  "cook_time_min": 0,
+  "servings": 2,
+  "diet_tags": [
+   "vegetarian",
+   "gluten_free"
+  ],
+  "ingredients": [
+   {
+    "name": "greek yogurt",
+    "quantity_g": 250,
+    "prep_note": ""
+   },
+   {
+    "name": "cucumber",
+    "quantity_g": 150,
+    "prep_note": "diced"
+   },
+   {
+    "name": "garlic",
+    "quantity_g": 6,
+    "prep_note": "grated"
+   },
+   {
+    "name": "lemon",
+    "quantity_g": 30,
+    "prep_note": "juiced"
+   },
+   {
+    "name": "olive oil",
+    "quantity_g": 15,
+    "prep_note": ""
+   },
+   {
+    "name": "parsley",
+    "quantity_g": 10,
+    "prep_note": "chopped"
+   }
+  ],
+  "instructions": "1. Whisk greek yogurt with garlic and lemon juice. 2. Fold in cucumber. 3. Drizzle with olive oil. 4. Top with parsley."
+ },
+ {
+  "title": "Cabbage and Bacon Saut\u00e9",
+  "description": "Cabbage saut\u00e9ed with bacon, onion, and a splash of red wine vinegar.",
+  "cuisine": "German",
+  "difficulty": "easy",
+  "prep_time_min": 10,
+  "cook_time_min": 20,
+  "servings": 2,
+  "diet_tags": [
+   "gluten_free"
+  ],
+  "ingredients": [
+   {
+    "name": "cabbage",
+    "quantity_g": 400,
+    "prep_note": "shredded"
+   },
+   {
+    "name": "bacon",
+    "quantity_g": 80,
+    "prep_note": "diced"
+   },
+   {
+    "name": "onion",
+    "quantity_g": 80,
+    "prep_note": "sliced"
+   },
+   {
+    "name": "garlic",
+    "quantity_g": 8,
+    "prep_note": "minced"
+   },
+   {
+    "name": "red wine vinegar",
+    "quantity_g": 15,
+    "prep_note": ""
+   },
+   {
+    "name": "black pepper",
+    "quantity_g": 3,
+    "prep_note": ""
+   }
+  ],
+  "instructions": "1. Crisp bacon in a skillet. 2. Add onion and garlic, cook 3 minutes. 3. Add cabbage and toss 10 minutes. 4. Splash in red wine vinegar. 5. Finish with black pepper."
+ },
+ {
+  "title": "Spiced Chickpea and Carrot Tagine",
+  "description": "Chickpeas and carrot slow-simmered with cumin and cinnamon.",
+  "cuisine": "Moroccan",
+  "difficulty": "easy",
+  "prep_time_min": 15,
+  "cook_time_min": 45,
+  "servings": 2,
+  "diet_tags": [
+   "vegan",
+   "gluten_free"
+  ],
+  "ingredients": [
+   {
+    "name": "chickpeas",
+    "quantity_g": 200,
+    "prep_note": "drained"
+   },
+   {
+    "name": "carrot",
+    "quantity_g": 150,
+    "prep_note": "sliced"
+   },
+   {
+    "name": "canned tomatoes",
+    "quantity_g": 300,
+    "prep_note": ""
+   },
+   {
+    "name": "onion",
+    "quantity_g": 100,
+    "prep_note": "diced"
+   },
+   {
+    "name": "garlic",
+    "quantity_g": 10,
+    "prep_note": "minced"
+   },
+   {
+    "name": "cumin",
+    "quantity_g": 5,
+    "prep_note": "ground"
+   },
+   {
+    "name": "cinnamon",
+    "quantity_g": 2,
+    "prep_note": "ground"
+   },
+   {
+    "name": "parsley",
+    "quantity_g": 10,
+    "prep_note": "chopped"
+   }
+  ],
+  "instructions": "1. Sweat onion and garlic in olive oil. 2. Add cumin and cinnamon, toast 1 minute. 3. Add carrot, canned tomatoes, and chickpeas. 4. Simmer 40 minutes. 5. Finish with parsley."
+ },
+ {
+  "title": "Beef Pho-Style Rice Noodle Soup",
+  "description": "A long-simmered aromatic broth poured over rice noodles and thin slices of sirloin.",
+  "cuisine": "Vietnamese",
+  "difficulty": "hard",
+  "prep_time_min": 25,
+  "cook_time_min": 120,
+  "servings": 2,
+  "diet_tags": [
+   "gluten_free"
+  ],
+  "ingredients": [
+   {
+    "name": "rice noodles",
+    "quantity_g": 150,
+    "prep_note": ""
+   },
+   {
+    "name": "beef sirloin",
+    "quantity_g": 200,
+    "prep_note": "thinly sliced"
+   },
+   {
+    "name": "vegetable broth",
+    "quantity_g": 1000,
+    "prep_note": ""
+   },
+   {
+    "name": "ginger",
+    "quantity_g": 20,
+    "prep_note": "sliced"
+   },
+   {
+    "name": "onion",
+    "quantity_g": 100,
+    "prep_note": "halved"
+   },
+   {
+    "name": "cinnamon",
+    "quantity_g": 2,
+    "prep_note": "stick"
+   },
+   {
+    "name": "cilantro",
+    "quantity_g": 15,
+    "prep_note": "chopped"
+   }
+  ],
+  "instructions": "1. Char ginger and onion under a broiler. 2. Simmer broth with ginger, onion, and cinnamon 100 minutes. 3. Cook rice noodles. 4. Place raw beef in bowls and pour boiling broth over. 5. Add noodles and cilantro."
+ },
+ {
+  "title": "Penne Arrabbiata",
+  "description": "Penne in a spicy garlic tomato sauce with chili flakes and parsley.",
+  "cuisine": "Italian",
+  "difficulty": "easy",
+  "prep_time_min": 5,
+  "cook_time_min": 20,
+  "servings": 2,
+  "diet_tags": [
+   "vegan"
+  ],
+  "ingredients": [
+   {
+    "name": "penne",
+    "quantity_g": 200,
+    "prep_note": ""
+   },
+   {
+    "name": "canned tomatoes",
+    "quantity_g": 400,
+    "prep_note": ""
+   },
+   {
+    "name": "garlic",
+    "quantity_g": 12,
+    "prep_note": "sliced"
+   },
+   {
+    "name": "chili flakes",
+    "quantity_g": 5,
+    "prep_note": ""
+   },
+   {
+    "name": "olive oil",
+    "quantity_g": 30,
+    "prep_note": ""
+   },
+   {
+    "name": "parsley",
+    "quantity_g": 10,
+    "prep_note": "chopped"
+   }
+  ],
+  "instructions": "1. Boil penne until al dente. 2. Gently fry garlic and chili flakes in olive oil. 3. Add canned tomatoes, simmer 12 minutes. 4. Toss with penne. 5. Finish with parsley."
+ },
+ {
+  "title": "Mussels in Tomato Broth",
+  "description": "Mussels steamed open in a tomato garlic broth with parsley.",
+  "cuisine": "Spanish",
+  "difficulty": "medium",
+  "prep_time_min": 20,
+  "cook_time_min": 15,
+  "servings": 2,
+  "diet_tags": [
+   "pescatarian",
+   "gluten_free"
+  ],
+  "ingredients": [
+   {
+    "name": "mussels",
+    "quantity_g": 500,
+    "prep_note": "scrubbed"
+   },
+   {
+    "name": "canned tomatoes",
+    "quantity_g": 300,
+    "prep_note": ""
+   },
+   {
+    "name": "garlic",
+    "quantity_g": 15,
+    "prep_note": "minced"
+   },
+   {
+    "name": "onion",
+    "quantity_g": 60,
+    "prep_note": "diced"
+   },
+   {
+    "name": "olive oil",
+    "quantity_g": 25,
+    "prep_note": ""
+   },
+   {
+    "name": "parsley",
+    "quantity_g": 15,
+    "prep_note": "chopped"
+   },
+   {
+    "name": "chili flakes",
+    "quantity_g": 3,
+    "prep_note": ""
+   }
+  ],
+  "instructions": "1. Sweat onion, garlic, and chili flakes in olive oil. 2. Add canned tomatoes, simmer 8 minutes. 3. Add mussels, cover, steam 8 minutes. 4. Discard any unopened shells. 5. Finish with parsley."
+ },
+ {
+  "title": "Shakshuka",
+  "description": "Eggs poached in a spiced tomato and bell pepper sauce with cilantro.",
+  "cuisine": "Middle Eastern",
+  "difficulty": "easy",
+  "prep_time_min": 10,
+  "cook_time_min": 20,
+  "servings": 2,
+  "diet_tags": [
+   "vegetarian",
+   "gluten_free"
+  ],
+  "ingredients": [
+   {
+    "name": "egg",
+    "quantity_g": 150,
+    "prep_note": ""
+   },
+   {
+    "name": "canned tomatoes",
+    "quantity_g": 400,
+    "prep_note": ""
+   },
+   {
+    "name": "bell pepper",
+    "quantity_g": 150,
+    "prep_note": "sliced"
+   },
+   {
+    "name": "onion",
+    "quantity_g": 80,
+    "prep_note": "diced"
+   },
+   {
+    "name": "garlic",
+    "quantity_g": 10,
+    "prep_note": "minced"
+   },
+   {
+    "name": "cumin",
+    "quantity_g": 5,
+    "prep_note": "ground"
+   },
+   {
+    "name": "paprika",
+    "quantity_g": 5,
+    "prep_note": ""
+   },
+   {
+    "name": "cilantro",
+    "quantity_g": 10,
+    "prep_note": "chopped"
+   }
+  ],
+  "instructions": "1. Sweat onion, pepper, and garlic. 2. Add canned tomatoes, cumin, and paprika. 3. Simmer 10 minutes. 4. Make wells and crack in eggs. 5. Cover and cook 6 minutes, then garnish with cilantro."
+ },
+ {
+  "title": "Black Bean Quesadilla",
+  "description": "Flour tortilla filled with black beans, cheddar, and bell pepper.",
+  "cuisine": "Mexican",
+  "difficulty": "easy",
+  "prep_time_min": 10,
+  "cook_time_min": 10,
+  "servings": 2,
+  "diet_tags": [
+   "vegetarian"
+  ],
+  "ingredients": [
+   {
+    "name": "black beans",
+    "quantity_g": 150,
+    "prep_note": "drained"
+   },
+   {
+    "name": "bell pepper",
+    "quantity_g": 100,
+    "prep_note": "sliced"
+   },
+   {
+    "name": "cheddar cheese",
+    "quantity_g": 80,
+    "prep_note": "shredded"
+   },
+   {
+    "name": "flour tortilla",
+    "quantity_g": 100,
+    "prep_note": ""
+   },
+   {
+    "name": "cumin",
+    "quantity_g": 3,
+    "prep_note": "ground"
+   },
+   {
+    "name": "olive oil",
+    "quantity_g": 10,
+    "prep_note": ""
+   }
+  ],
+  "instructions": "1. Saut\u00e9 pepper with cumin. 2. Layer beans, pepper, and cheese on tortilla. 3. Fold and toast in a skillet until golden on both sides. 4. Cut into wedges."
+ },
+ {
+  "title": "Mushroom and Spinach Frittata",
+  "description": "Oven-baked egg frittata with mushrooms, spinach, and Parmesan.",
+  "cuisine": "Italian",
+  "difficulty": "easy",
+  "prep_time_min": 10,
+  "cook_time_min": 20,
+  "servings": 2,
+  "diet_tags": [
+   "vegetarian",
+   "gluten_free"
+  ],
+  "ingredients": [
+   {
+    "name": "egg",
+    "quantity_g": 200,
+    "prep_note": "beaten"
+   },
+   {
+    "name": "mushrooms",
+    "quantity_g": 150,
+    "prep_note": "sliced"
+   },
+   {
+    "name": "spinach",
+    "quantity_g": 100,
+    "prep_note": ""
+   },
+   {
+    "name": "onion",
+    "quantity_g": 60,
+    "prep_note": "diced"
+   },
+   {
+    "name": "parmesan",
+    "quantity_g": 30,
+    "prep_note": "grated"
+   },
+   {
+    "name": "olive oil",
+    "quantity_g": 15,
+    "prep_note": ""
+   }
+  ],
+  "instructions": "1. Saut\u00e9 onion and mushrooms in olive oil 6 minutes. 2. Add spinach, wilt. 3. Pour eggs over vegetables. 4. Sprinkle Parmesan. 5. Bake at 180 C for 15 minutes."
+ },
+ {
+  "title": "Honey Mustard Chicken Thighs",
+  "description": "Roasted chicken thighs glazed with honey and dijon mustard.",
+  "cuisine": "American",
+  "difficulty": "easy",
+  "prep_time_min": 10,
+  "cook_time_min": 35,
+  "servings": 2,
+  "diet_tags": [
+   "gluten_free"
+  ],
+  "ingredients": [
+   {
+    "name": "chicken thigh",
+    "quantity_g": 300,
+    "prep_note": "bone-in"
+   },
+   {
+    "name": "honey",
+    "quantity_g": 30,
+    "prep_note": ""
+   },
+   {
+    "name": "dijon mustard",
+    "quantity_g": 25,
+    "prep_note": ""
+   },
+   {
+    "name": "garlic",
+    "quantity_g": 10,
+    "prep_note": "minced"
+   },
+   {
+    "name": "olive oil",
+    "quantity_g": 15,
+    "prep_note": ""
+   },
+   {
+    "name": "thyme",
+    "quantity_g": 3,
+    "prep_note": "dried"
+   }
+  ],
+  "instructions": "1. Heat oven to 200 C. 2. Whisk honey, dijon mustard, garlic, olive oil, and thyme. 3. Coat chicken with glaze. 4. Roast 30 to 35 minutes, basting once. 5. Rest 5 minutes."
+ },
+ {
+  "title": "Sesame Chicken",
+  "description": "Crispy chicken pieces in a sweet sesame soy glaze with toasted seeds.",
+  "cuisine": "Chinese",
+  "difficulty": "medium",
+  "prep_time_min": 20,
+  "cook_time_min": 20,
+  "servings": 2,
+  "diet_tags": [],
+  "ingredients": [
+   {
+    "name": "chicken breast",
+    "quantity_g": 300,
+    "prep_note": "cubed"
+   },
+   {
+    "name": "all-purpose flour",
+    "quantity_g": 40,
+    "prep_note": ""
+   },
+   {
+    "name": "soy sauce",
+    "quantity_g": 30,
+    "prep_note": ""
+   },
+   {
+    "name": "honey",
+    "quantity_g": 30,
+    "prep_note": ""
+   },
+   {
+    "name": "sesame oil",
+    "quantity_g": 10,
+    "prep_note": ""
+   },
+   {
+    "name": "sesame seeds",
+    "quantity_g": 10,
+    "prep_note": "toasted"
+   },
+   {
+    "name": "garlic",
+    "quantity_g": 10,
+    "prep_note": "minced"
+   }
+  ],
+  "instructions": "1. Toss chicken in all-purpose flour. 2. Fry in oil until golden, drain. 3. Simmer soy sauce, honey, and garlic 2 minutes. 4. Toss chicken in glaze. 5. Finish with sesame seeds and a drizzle of sesame oil."
+ },
+ {
+  "title": "Chicken and Rice Soup",
+  "description": "Chicken breast and brown rice simmered in a clear broth with thyme.",
+  "cuisine": "American",
+  "difficulty": "easy",
+  "prep_time_min": 15,
+  "cook_time_min": 40,
+  "servings": 2,
+  "diet_tags": [
+   "gluten_free"
+  ],
+  "ingredients": [
+   {
+    "name": "chicken breast",
+    "quantity_g": 200,
+    "prep_note": "cubed"
+   },
+   {
+    "name": "brown rice",
+    "quantity_g": 100,
+    "prep_note": "rinsed"
+   },
+   {
+    "name": "carrot",
+    "quantity_g": 80,
+    "prep_note": "sliced"
+   },
+   {
+    "name": "onion",
+    "quantity_g": 80,
+    "prep_note": "diced"
+   },
+   {
+    "name": "chicken broth",
+    "quantity_g": 900,
+    "prep_note": ""
+   },
+   {
+    "name": "thyme",
+    "quantity_g": 3,
+    "prep_note": "dried"
+   }
+  ],
+  "instructions": "1. Sweat onion and carrot. 2. Add broth, brown rice, and chicken. 3. Simmer 35 minutes until rice is tender. 4. Season with thyme, salt, and black pepper."
+ },
+ {
+  "title": "Garlic Butter Cod with Green Peas",
+  "description": "Cod fillet seared in garlic butter served with steamed green peas.",
+  "cuisine": "French",
+  "difficulty": "easy",
+  "prep_time_min": 10,
+  "cook_time_min": 15,
+  "servings": 2,
+  "diet_tags": [
+   "pescatarian",
+   "gluten_free"
+  ],
+  "ingredients": [
+   {
+    "name": "cod fillet",
+    "quantity_g": 300,
+    "prep_note": ""
+   },
+   {
+    "name": "green peas",
+    "quantity_g": 150,
+    "prep_note": ""
+   },
+   {
+    "name": "garlic",
+    "quantity_g": 12,
+    "prep_note": "sliced"
+   },
+   {
+    "name": "butter",
+    "quantity_g": 30,
+    "prep_note": ""
+   },
+   {
+    "name": "lemon",
+    "quantity_g": 30,
+    "prep_note": "juiced"
+   },
+   {
+    "name": "parsley",
+    "quantity_g": 10,
+    "prep_note": "chopped"
+   }
+  ],
+  "instructions": "1. Steam green peas 5 minutes. 2. Melt butter and saut\u00e9 garlic 1 minute. 3. Sear cod 4 minutes per side, basting. 4. Add lemon juice. 5. Serve with peas and parsley."
+ },
+ {
+  "title": "Tomato and White Bean Bruschetta",
+  "description": "Toasted whole wheat bread topped with mashed white beans, tomato, and basil.",
+  "cuisine": "Italian",
+  "difficulty": "easy",
+  "prep_time_min": 10,
+  "cook_time_min": 8,
+  "servings": 2,
+  "diet_tags": [
+   "vegan"
+  ],
+  "ingredients": [
+   {
+    "name": "whole wheat bread",
+    "quantity_g": 120,
+    "prep_note": "sliced"
+   },
+   {
+    "name": "white beans",
+    "quantity_g": 200,
+    "prep_note": "drained and mashed"
+   },
+   {
+    "name": "tomato",
+    "quantity_g": 150,
+    "prep_note": "diced"
+   },
+   {
+    "name": "garlic",
+    "quantity_g": 10,
+    "prep_note": "minced"
+   },
+   {
+    "name": "basil",
+    "quantity_g": 10,
+    "prep_note": "torn"
+   },
+   {
+    "name": "olive oil",
+    "quantity_g": 20,
+    "prep_note": ""
+   }
+  ],
+  "instructions": "1. Toast bread slices until crisp. 2. Mash white beans with garlic and olive oil. 3. Spread on toast. 4. Top with tomato and basil."
+ },
+ {
+  "title": "Chicken and Chickpea Traybake",
+  "description": "Chicken thighs roasted with chickpeas, tomato, and paprika.",
+  "cuisine": "Spanish",
+  "difficulty": "easy",
+  "prep_time_min": 15,
+  "cook_time_min": 40,
+  "servings": 2,
+  "diet_tags": [
+   "gluten_free"
+  ],
+  "ingredients": [
+   {
+    "name": "chicken thigh",
+    "quantity_g": 300,
+    "prep_note": "bone-in"
+   },
+   {
+    "name": "chickpeas",
+    "quantity_g": 200,
+    "prep_note": "drained"
+   },
+   {
+    "name": "canned tomatoes",
+    "quantity_g": 200,
+    "prep_note": ""
+   },
+   {
+    "name": "onion",
+    "quantity_g": 80,
+    "prep_note": "wedges"
+   },
+   {
+    "name": "garlic",
+    "quantity_g": 10,
+    "prep_note": "sliced"
+   },
+   {
+    "name": "paprika",
+    "quantity_g": 5,
+    "prep_note": ""
+   },
+   {
+    "name": "olive oil",
+    "quantity_g": 25,
+    "prep_note": ""
+   }
+  ],
+  "instructions": "1. Heat oven to 200 C. 2. Toss chicken, chickpeas, onion, and garlic with olive oil and paprika. 3. Spread on a tray with canned tomatoes. 4. Roast 40 minutes. 5. Season with salt before serving."
+ },
+ {
+  "title": "Coconut Rice with Cashews",
+  "description": "Fragrant coconut milk rice topped with toasted cashews and cilantro.",
+  "cuisine": "Thai",
+  "difficulty": "easy",
+  "prep_time_min": 5,
+  "cook_time_min": 20,
+  "servings": 2,
+  "diet_tags": [
+   "vegan",
+   "gluten_free"
+  ],
+  "ingredients": [
+   {
+    "name": "white rice",
+    "quantity_g": 150,
+    "prep_note": "rinsed"
+   },
+   {
+    "name": "coconut milk",
+    "quantity_g": 200,
+    "prep_note": ""
+   },
+   {
+    "name": "cashews",
+    "quantity_g": 40,
+    "prep_note": "toasted"
+   },
+   {
+    "name": "onion",
+    "quantity_g": 60,
+    "prep_note": "sliced"
+   },
+   {
+    "name": "garlic",
+    "quantity_g": 8,
+    "prep_note": "minced"
+   },
+   {
+    "name": "coconut oil",
+    "quantity_g": 10,
+    "prep_note": ""
+   },
+   {
+    "name": "cilantro",
+    "quantity_g": 10,
+    "prep_note": "chopped"
+   }
+  ],
+  "instructions": "1. Saut\u00e9 onion and garlic in coconut oil. 2. Add rice, coconut milk, and 150 ml water. 3. Cover and cook 18 minutes. 4. Fluff and top with cashews and cilantro."
+ },
+ {
+  "title": "Chicken Tikka Skewers",
+  "description": "Yogurt-marinated chicken thighs grilled with paprika and cumin.",
+  "cuisine": "Indian",
+  "difficulty": "medium",
+  "prep_time_min": 30,
+  "cook_time_min": 15,
+  "servings": 2,
+  "diet_tags": [
+   "gluten_free"
+  ],
+  "ingredients": [
+   {
+    "name": "chicken thigh",
+    "quantity_g": 300,
+    "prep_note": "cubed"
+   },
+   {
+    "name": "greek yogurt",
+    "quantity_g": 100,
+    "prep_note": ""
+   },
+   {
+    "name": "garlic",
+    "quantity_g": 10,
+    "prep_note": "minced"
+   },
+   {
+    "name": "ginger",
+    "quantity_g": 10,
+    "prep_note": "grated"
+   },
+   {
+    "name": "paprika",
+    "quantity_g": 6,
+    "prep_note": ""
+   },
+   {
+    "name": "cumin",
+    "quantity_g": 5,
+    "prep_note": "ground"
+   },
+   {
+    "name": "lemon",
+    "quantity_g": 30,
+    "prep_note": "juiced"
+   }
+  ],
+  "instructions": "1. Mix greek yogurt, garlic, ginger, paprika, and cumin. 2. Marinate chicken 30 minutes. 3. Thread onto skewers. 4. Grill 12 minutes, turning. 5. Finish with lemon juice."
+ },
+ {
+  "title": "Eggplant and Tomato Penne",
+  "description": "Penne tossed with eggplant, tomato, garlic, and basil.",
+  "cuisine": "Italian",
+  "difficulty": "easy",
+  "prep_time_min": 15,
+  "cook_time_min": 25,
+  "servings": 2,
+  "diet_tags": [
+   "vegan"
+  ],
+  "ingredients": [
+   {
+    "name": "penne",
+    "quantity_g": 200,
+    "prep_note": ""
+   },
+   {
+    "name": "eggplant",
+    "quantity_g": 250,
+    "prep_note": "cubed"
+   },
+   {
+    "name": "canned tomatoes",
+    "quantity_g": 400,
+    "prep_note": ""
+   },
+   {
+    "name": "garlic",
+    "quantity_g": 10,
+    "prep_note": "minced"
+   },
+   {
+    "name": "olive oil",
+    "quantity_g": 30,
+    "prep_note": ""
+   },
+   {
+    "name": "basil",
+    "quantity_g": 12,
+    "prep_note": "torn"
+   }
+  ],
+  "instructions": "1. Boil penne until al dente. 2. Brown eggplant in olive oil 10 minutes. 3. Add garlic and canned tomatoes, simmer 10 minutes. 4. Toss with penne. 5. Finish with basil."
+ },
+ {
+  "title": "Salmon Teriyaki",
+  "description": "Salmon fillet glazed with soy, honey, and ginger over white rice.",
+  "cuisine": "Japanese",
+  "difficulty": "easy",
+  "prep_time_min": 10,
+  "cook_time_min": 15,
+  "servings": 2,
+  "diet_tags": [
+   "pescatarian"
+  ],
+  "ingredients": [
+   {
+    "name": "salmon fillet",
+    "quantity_g": 300,
+    "prep_note": ""
+   },
+   {
+    "name": "soy sauce",
+    "quantity_g": 30,
+    "prep_note": ""
+   },
+   {
+    "name": "honey",
+    "quantity_g": 20,
+    "prep_note": ""
+   },
+   {
+    "name": "ginger",
+    "quantity_g": 10,
+    "prep_note": "grated"
+   },
+   {
+    "name": "garlic",
+    "quantity_g": 8,
+    "prep_note": "minced"
+   },
+   {
+    "name": "sesame seeds",
+    "quantity_g": 5,
+    "prep_note": "toasted"
+   },
+   {
+    "name": "white rice",
+    "quantity_g": 150,
+    "prep_note": ""
+   }
+  ],
+  "instructions": "1. Cook white rice. 2. Whisk soy sauce, honey, ginger, and garlic. 3. Sear salmon skin-side down 4 minutes. 4. Flip, add glaze, cook 4 minutes. 5. Serve over rice with sesame seeds."
+ },
+ {
+  "title": "Chickpea and Spinach Curry",
+  "description": "Chickpeas and spinach simmered in a coconut tomato sauce with curry powder.",
+  "cuisine": "Indian",
+  "difficulty": "easy",
+  "prep_time_min": 10,
+  "cook_time_min": 25,
+  "servings": 2,
+  "diet_tags": [
+   "vegan",
+   "gluten_free"
+  ],
+  "ingredients": [
+   {
+    "name": "chickpeas",
+    "quantity_g": 200,
+    "prep_note": "drained"
+   },
+   {
+    "name": "spinach",
+    "quantity_g": 150,
+    "prep_note": ""
+   },
+   {
+    "name": "coconut milk",
+    "quantity_g": 200,
+    "prep_note": ""
+   },
+   {
+    "name": "canned tomatoes",
+    "quantity_g": 200,
+    "prep_note": ""
+   },
+   {
+    "name": "onion",
+    "quantity_g": 100,
+    "prep_note": "diced"
+   },
+   {
+    "name": "garlic",
+    "quantity_g": 10,
+    "prep_note": "minced"
+   },
+   {
+    "name": "curry powder",
+    "quantity_g": 8,
+    "prep_note": ""
+   }
+  ],
+  "instructions": "1. Sweat onion and garlic. 2. Bloom curry powder 1 minute. 3. Add canned tomatoes, coconut milk, and chickpeas. 4. Simmer 18 minutes. 5. Stir in spinach until wilted."
+ },
+ {
+  "title": "Pork and Apple Skillet",
+  "description": "Pork tenderloin medallions seared with apple, onion, and rosemary.",
+  "cuisine": "American",
+  "difficulty": "medium",
+  "prep_time_min": 15,
+  "cook_time_min": 20,
+  "servings": 2,
+  "diet_tags": [
+   "gluten_free"
+  ],
+  "ingredients": [
+   {
+    "name": "pork tenderloin",
+    "quantity_g": 300,
+    "prep_note": "sliced into medallions"
+   },
+   {
+    "name": "apple",
+    "quantity_g": 150,
+    "prep_note": "sliced"
+   },
+   {
+    "name": "onion",
+    "quantity_g": 60,
+    "prep_note": "sliced"
+   },
+   {
+    "name": "rosemary",
+    "quantity_g": 5,
+    "prep_note": "chopped"
+   },
+   {
+    "name": "butter",
+    "quantity_g": 25,
+    "prep_note": ""
+   },
+   {
+    "name": "olive oil",
+    "quantity_g": 15,
+    "prep_note": ""
+   }
+  ],
+  "instructions": "1. Sear pork medallions in olive oil 4 minutes per side. 2. Remove and add butter, apple, and onion. 3. Cook 6 minutes until apple softens. 4. Return pork with rosemary. 5. Toss 2 minutes and serve."
+ },
+ {
+  "title": "Spinach and Feta Omelette",
+  "description": "Fluffy omelette filled with wilted spinach and crumbled feta.",
+  "cuisine": "Greek",
+  "difficulty": "easy",
+  "prep_time_min": 5,
+  "cook_time_min": 8,
+  "servings": 2,
+  "diet_tags": [
+   "vegetarian",
+   "gluten_free"
+  ],
+  "ingredients": [
+   {
+    "name": "egg",
+    "quantity_g": 150,
+    "prep_note": "beaten"
+   },
+   {
+    "name": "spinach",
+    "quantity_g": 80,
+    "prep_note": "fresh"
+   },
+   {
+    "name": "feta",
+    "quantity_g": 50,
+    "prep_note": "crumbled"
+   },
+   {
+    "name": "olive oil",
+    "quantity_g": 10,
+    "prep_note": ""
+   },
+   {
+    "name": "black pepper",
+    "quantity_g": 2,
+    "prep_note": ""
+   }
+  ],
+  "instructions": "1. Heat olive oil in a nonstick pan. 2. Wilt spinach 1 minute. 3. Pour in eggs and cook until nearly set. 4. Sprinkle feta over one half. 5. Fold and slide onto plates."
+ },
+ {
+  "title": "Spinach and Mozzarella Omelette",
+  "description": "Fluffy omelette filled with wilted spinach and melted mozzarella.",
+  "cuisine": "Italian",
+  "difficulty": "easy",
+  "prep_time_min": 5,
+  "cook_time_min": 8,
+  "servings": 2,
+  "diet_tags": [
+   "vegetarian",
+   "gluten_free"
+  ],
+  "ingredients": [
+   {
+    "name": "egg",
+    "quantity_g": 150,
+    "prep_note": "beaten"
+   },
+   {
+    "name": "spinach",
+    "quantity_g": 80,
+    "prep_note": "fresh"
+   },
+   {
+    "name": "mozzarella",
+    "quantity_g": 60,
+    "prep_note": "shredded"
+   },
+   {
+    "name": "olive oil",
+    "quantity_g": 10,
+    "prep_note": ""
+   },
+   {
+    "name": "black pepper",
+    "quantity_g": 2,
+    "prep_note": ""
+   }
+  ],
+  "instructions": "1. Heat olive oil in a nonstick pan. 2. Wilt spinach 1 minute. 3. Pour in eggs and cook until nearly set. 4. Sprinkle mozzarella over one half. 5. Fold and slide onto plates."
+ },
+ {
+  "title": "Vegan Lentil Bolognese",
+  "description": "Red lentils simmered in tomato sauce over spaghetti with basil.",
+  "cuisine": "Italian",
+  "difficulty": "easy",
+  "prep_time_min": 10,
+  "cook_time_min": 30,
+  "servings": 2,
+  "diet_tags": [
+   "vegan"
+  ],
+  "ingredients": [
+   {
+    "name": "red lentils",
+    "quantity_g": 150,
+    "prep_note": "rinsed"
+   },
+   {
+    "name": "spaghetti",
+    "quantity_g": 150,
+    "prep_note": ""
+   },
+   {
+    "name": "canned tomatoes",
+    "quantity_g": 400,
+    "prep_note": ""
+   },
+   {
+    "name": "onion",
+    "quantity_g": 80,
+    "prep_note": "diced"
+   },
+   {
+    "name": "carrot",
+    "quantity_g": 80,
+    "prep_note": "diced"
+   },
+   {
+    "name": "garlic",
+    "quantity_g": 10,
+    "prep_note": "minced"
+   },
+   {
+    "name": "olive oil",
+    "quantity_g": 20,
+    "prep_note": ""
+   },
+   {
+    "name": "basil",
+    "quantity_g": 10,
+    "prep_note": "torn"
+   }
+  ],
+  "instructions": "1. Sweat onion, carrot, and garlic in olive oil. 2. Add canned tomatoes and red lentils. 3. Simmer 25 minutes until thick. 4. Boil spaghetti. 5. Toss pasta with sauce and basil."
+ },
+ {
+  "title": "Sweet Potato and Black Bean Flour Tortilla Tacos",
+  "description": "Roasted sweet potato and black beans in warm flour tortillas.",
+  "cuisine": "Mexican",
+  "difficulty": "easy",
+  "prep_time_min": 15,
+  "cook_time_min": 25,
+  "servings": 2,
+  "diet_tags": [
+   "vegan"
+  ],
+  "ingredients": [
+   {
+    "name": "sweet potato",
+    "quantity_g": 300,
+    "prep_note": "cubed"
+   },
+   {
+    "name": "black beans",
+    "quantity_g": 150,
+    "prep_note": "drained"
+   },
+   {
+    "name": "flour tortilla",
+    "quantity_g": 100,
+    "prep_note": "warmed"
+   },
+   {
+    "name": "onion",
+    "quantity_g": 60,
+    "prep_note": "diced"
+   },
+   {
+    "name": "cumin",
+    "quantity_g": 5,
+    "prep_note": "ground"
+   },
+   {
+    "name": "paprika",
+    "quantity_g": 3,
+    "prep_note": ""
+   },
+   {
+    "name": "lime",
+    "quantity_g": 30,
+    "prep_note": "juiced"
+   },
+   {
+    "name": "cilantro",
+    "quantity_g": 10,
+    "prep_note": "chopped"
+   }
+  ],
+  "instructions": "1. Roast sweet potato with cumin and paprika at 200 C for 20 minutes. 2. Warm black beans with onion. 3. Fill tortillas with sweet potato and beans. 4. Finish with lime and cilantro."
+ },
+ {
+  "title": "Savoury Oats with Egg and Spinach",
+  "description": "Rolled oats cooked in broth and topped with a soft egg and wilted spinach.",
+  "cuisine": "American",
+  "difficulty": "easy",
+  "prep_time_min": 5,
+  "cook_time_min": 12,
+  "servings": 2,
+  "diet_tags": [
+   "vegetarian",
+   "gluten_free"
+  ],
+  "ingredients": [
+   {
+    "name": "rolled oats",
+    "quantity_g": 100,
+    "prep_note": ""
+   },
+   {
+    "name": "vegetable broth",
+    "quantity_g": 350,
+    "prep_note": ""
+   },
+   {
+    "name": "egg",
+    "quantity_g": 100,
+    "prep_note": ""
+   },
+   {
+    "name": "spinach",
+    "quantity_g": 100,
+    "prep_note": ""
+   },
+   {
+    "name": "garlic",
+    "quantity_g": 8,
+    "prep_note": "minced"
+   },
+   {
+    "name": "olive oil",
+    "quantity_g": 10,
+    "prep_note": ""
+   },
+   {
+    "name": "black pepper",
+    "quantity_g": 2,
+    "prep_note": ""
+   }
+  ],
+  "instructions": "1. Simmer rolled oats in vegetable broth 8 minutes. 2. Saut\u00e9 garlic and spinach in olive oil. 3. Fry eggs to desired doneness. 4. Spoon oats into bowls. 5. Top with spinach, egg, and black pepper."
+ },
+ {
+  "title": "Sweet Banana Maple Oats",
+  "description": "Creamy oats cooked in milk with mashed banana and maple syrup.",
+  "cuisine": "American",
+  "difficulty": "easy",
+  "prep_time_min": 5,
+  "cook_time_min": 10,
+  "servings": 2,
+  "diet_tags": [
+   "vegetarian",
+   "gluten_free"
+  ],
+  "ingredients": [
+   {
+    "name": "rolled oats",
+    "quantity_g": 100,
+    "prep_note": ""
+   },
+   {
+    "name": "milk",
+    "quantity_g": 350,
+    "prep_note": ""
+   },
+   {
+    "name": "banana",
+    "quantity_g": 120,
+    "prep_note": "mashed"
+   },
+   {
+    "name": "maple syrup",
+    "quantity_g": 25,
+    "prep_note": ""
+   },
+   {
+    "name": "cinnamon",
+    "quantity_g": 2,
+    "prep_note": "ground"
+   },
+   {
+    "name": "walnuts",
+    "quantity_g": 25,
+    "prep_note": "chopped"
+   }
+  ],
+  "instructions": "1. Simmer rolled oats and milk 8 minutes. 2. Stir in mashed banana and cinnamon. 3. Divide into bowls. 4. Drizzle with maple syrup. 5. Top with walnuts."
+ },
+ {
+  "title": "Tuna Salad Sandwich",
+  "description": "Canned tuna with greek yogurt and celery on toasted whole wheat bread.",
+  "cuisine": "American",
+  "difficulty": "easy",
+  "prep_time_min": 10,
+  "cook_time_min": 0,
+  "servings": 2,
+  "diet_tags": [
+   "pescatarian"
+  ],
+  "ingredients": [
+   {
+    "name": "canned tuna",
+    "quantity_g": 150,
+    "prep_note": "drained"
+   },
+   {
+    "name": "celery",
+    "quantity_g": 50,
+    "prep_note": "diced"
+   },
+   {
+    "name": "greek yogurt",
+    "quantity_g": 60,
+    "prep_note": ""
+   },
+   {
+    "name": "whole wheat bread",
+    "quantity_g": 120,
+    "prep_note": "toasted"
+   },
+   {
+    "name": "lemon",
+    "quantity_g": 20,
+    "prep_note": "juiced"
+   },
+   {
+    "name": "black pepper",
+    "quantity_g": 2,
+    "prep_note": ""
+   }
+  ],
+  "instructions": "1. Flake tuna into a bowl. 2. Mix in celery, greek yogurt, and lemon juice. 3. Season with black pepper. 4. Pile onto toasted whole wheat bread."
+ },
+ {
+  "title": "Zucchini Noodles with Pesto",
+  "description": "Spiralized zucchini tossed with a basil pine nut pesto and tomato.",
+  "cuisine": "Italian",
+  "difficulty": "easy",
+  "prep_time_min": 15,
+  "cook_time_min": 5,
+  "servings": 2,
+  "diet_tags": [
+   "vegetarian",
+   "gluten_free"
+  ],
+  "ingredients": [
+   {
+    "name": "zucchini",
+    "quantity_g": 400,
+    "prep_note": "spiralized"
+   },
+   {
+    "name": "basil",
+    "quantity_g": 30,
+    "prep_note": "fresh"
+   },
+   {
+    "name": "pine nuts",
+    "quantity_g": 25,
+    "prep_note": "toasted"
+   },
+   {
+    "name": "garlic",
+    "quantity_g": 8,
+    "prep_note": ""
+   },
+   {
+    "name": "parmesan",
+    "quantity_g": 30,
+    "prep_note": "grated"
+   },
+   {
+    "name": "olive oil",
+    "quantity_g": 40,
+    "prep_note": ""
+   },
+   {
+    "name": "tomato",
+    "quantity_g": 100,
+    "prep_note": "diced"
+   }
+  ],
+  "instructions": "1. Blend basil, pine nuts, garlic, Parmesan, and olive oil. 2. Warm zucchini noodles in a dry pan 2 minutes. 3. Toss with pesto and tomato. 4. Serve immediately."
+ },
+ {
+  "title": "Shrimp Fried Rice",
+  "description": "Wok-fried rice with shrimp, egg, green peas, and carrot.",
+  "cuisine": "Chinese",
+  "difficulty": "medium",
+  "prep_time_min": 15,
+  "cook_time_min": 12,
+  "servings": 2,
+  "diet_tags": [
+   "pescatarian"
+  ],
+  "ingredients": [
+   {
+    "name": "white rice",
+    "quantity_g": 200,
+    "prep_note": "cooked and cooled"
+   },
+   {
+    "name": "shrimp",
+    "quantity_g": 200,
+    "prep_note": "peeled"
+   },
+   {
+    "name": "egg",
+    "quantity_g": 100,
+    "prep_note": "beaten"
+   },
+   {
+    "name": "green peas",
+    "quantity_g": 80,
+    "prep_note": ""
+   },
+   {
+    "name": "carrot",
+    "quantity_g": 60,
+    "prep_note": "diced"
+   },
+   {
+    "name": "soy sauce",
+    "quantity_g": 25,
+    "prep_note": ""
+   },
+   {
+    "name": "sesame oil",
+    "quantity_g": 10,
+    "prep_note": ""
+   }
+  ],
+  "instructions": "1. Scramble egg in sesame oil, set aside. 2. Stir-fry shrimp until pink, set aside. 3. Stir-fry carrot and peas 3 minutes. 4. Add rice and soy sauce, fry 5 minutes. 5. Fold in shrimp and egg."
+ },
+ {
+  "title": "Chickpea and Spinach Salad",
+  "description": "Cool chickpeas with spinach, tomato, cucumber, and lemon.",
+  "cuisine": "Middle Eastern",
+  "difficulty": "easy",
+  "prep_time_min": 15,
+  "cook_time_min": 0,
+  "servings": 2,
+  "diet_tags": [
+   "vegan",
+   "gluten_free"
+  ],
+  "ingredients": [
+   {
+    "name": "chickpeas",
+    "quantity_g": 200,
+    "prep_note": "drained"
+   },
+   {
+    "name": "spinach",
+    "quantity_g": 120,
+    "prep_note": ""
+   },
+   {
+    "name": "tomato",
+    "quantity_g": 120,
+    "prep_note": "diced"
+   },
+   {
+    "name": "cucumber",
+    "quantity_g": 100,
+    "prep_note": "diced"
+   },
+   {
+    "name": "lemon",
+    "quantity_g": 40,
+    "prep_note": "juiced"
+   },
+   {
+    "name": "olive oil",
+    "quantity_g": 20,
+    "prep_note": ""
+   },
+   {
+    "name": "parsley",
+    "quantity_g": 10,
+    "prep_note": "chopped"
+   }
+  ],
+  "instructions": "1. Combine chickpeas, spinach, tomato, and cucumber. 2. Dress with lemon juice and olive oil. 3. Fold in parsley. 4. Season with salt and black pepper."
+ },
+ {
+  "title": "Greek Salad with Chickpeas",
+  "description": "Classic Greek salad with cucumber, tomato, feta, and added chickpeas.",
+  "cuisine": "Greek",
+  "difficulty": "easy",
+  "prep_time_min": 15,
+  "cook_time_min": 0,
+  "servings": 2,
+  "diet_tags": [
+   "vegetarian",
+   "gluten_free"
+  ],
+  "ingredients": [
+   {
+    "name": "cucumber",
+    "quantity_g": 150,
+    "prep_note": "diced"
+   },
+   {
+    "name": "tomato",
+    "quantity_g": 200,
+    "prep_note": "diced"
+   },
+   {
+    "name": "onion",
+    "quantity_g": 50,
+    "prep_note": "thinly sliced"
+   },
+   {
+    "name": "feta",
+    "quantity_g": 60,
+    "prep_note": "crumbled"
+   },
+   {
+    "name": "chickpeas",
+    "quantity_g": 150,
+    "prep_note": "drained"
+   },
+   {
+    "name": "olive oil",
+    "quantity_g": 20,
+    "prep_note": ""
+   },
+   {
+    "name": "red wine vinegar",
+    "quantity_g": 10,
+    "prep_note": ""
+   },
+   {
+    "name": "black pepper",
+    "quantity_g": 2,
+    "prep_note": ""
+   }
+  ],
+  "instructions": "1. Combine cucumber, tomato, onion, and chickpeas. 2. Whisk olive oil and red wine vinegar. 3. Toss vegetables with dressing. 4. Top with feta and black pepper."
+ },
+ {
+  "title": "Tofu and Broccoli Rice Bowl",
+  "description": "Seared tofu and broccoli over white rice with soy ginger sauce.",
+  "cuisine": "Japanese",
+  "difficulty": "easy",
+  "prep_time_min": 15,
+  "cook_time_min": 18,
+  "servings": 2,
+  "diet_tags": [
+   "vegan"
+  ],
+  "ingredients": [
+   {
+    "name": "tofu",
+    "quantity_g": 300,
+    "prep_note": "pressed and cubed"
+   },
+   {
+    "name": "broccoli",
+    "quantity_g": 200,
+    "prep_note": "florets"
+   },
+   {
+    "name": "white rice",
+    "quantity_g": 150,
+    "prep_note": ""
+   },
+   {
+    "name": "soy sauce",
+    "quantity_g": 30,
+    "prep_note": ""
+   },
+   {
+    "name": "ginger",
+    "quantity_g": 10,
+    "prep_note": "grated"
+   },
+   {
+    "name": "sesame oil",
+    "quantity_g": 12,
+    "prep_note": ""
+   },
+   {
+    "name": "sesame seeds",
+    "quantity_g": 5,
+    "prep_note": "toasted"
+   }
+  ],
+  "instructions": "1. Cook white rice. 2. Sear tofu in sesame oil until golden. 3. Add broccoli, ginger, and soy sauce. 4. Cook 5 minutes. 5. Serve over rice with sesame seeds."
+ },
+ {
+  "title": "Lemon Blueberry Oat Pancakes",
+  "description": "Oat pancakes studded with blueberries and a hint of lemon.",
+  "cuisine": "American",
+  "difficulty": "easy",
+  "prep_time_min": 10,
+  "cook_time_min": 15,
+  "servings": 2,
+  "diet_tags": [
+   "vegetarian"
+  ],
+  "ingredients": [
+   {
+    "name": "rolled oats",
+    "quantity_g": 100,
+    "prep_note": "ground"
+   },
+   {
+    "name": "banana",
+    "quantity_g": 100,
+    "prep_note": "mashed"
+   },
+   {
+    "name": "egg",
+    "quantity_g": 100,
+    "prep_note": ""
+   },
+   {
+    "name": "milk",
+    "quantity_g": 80,
+    "prep_note": ""
+   },
+   {
+    "name": "blueberries",
+    "quantity_g": 80,
+    "prep_note": ""
+   },
+   {
+    "name": "honey",
+    "quantity_g": 20,
+    "prep_note": ""
+   },
+   {
+    "name": "lemon",
+    "quantity_g": 20,
+    "prep_note": "zested"
+   }
+  ],
+  "instructions": "1. Blend rolled oats, banana, egg, milk, and lemon zest. 2. Fold in blueberries. 3. Cook small pancakes 2 minutes per side. 4. Drizzle with honey."
+ },
+ {
+  "title": "Korean-Style Beef Rice Bowl",
+  "description": "Marinated sirloin stir-fried with onion and served over white rice with sesame.",
+  "cuisine": "Korean",
+  "difficulty": "medium",
+  "prep_time_min": 30,
+  "cook_time_min": 12,
+  "servings": 2,
+  "diet_tags": [],
+  "ingredients": [
+   {
+    "name": "beef sirloin",
+    "quantity_g": 300,
+    "prep_note": "thinly sliced"
+   },
+   {
+    "name": "white rice",
+    "quantity_g": 150,
+    "prep_note": ""
+   },
+   {
+    "name": "soy sauce",
+    "quantity_g": 40,
+    "prep_note": ""
+   },
+   {
+    "name": "sesame oil",
+    "quantity_g": 15,
+    "prep_note": ""
+   },
+   {
+    "name": "garlic",
+    "quantity_g": 10,
+    "prep_note": "minced"
+   },
+   {
+    "name": "ginger",
+    "quantity_g": 10,
+    "prep_note": "grated"
+   },
+   {
+    "name": "onion",
+    "quantity_g": 100,
+    "prep_note": "sliced"
+   },
+   {
+    "name": "sesame seeds",
+    "quantity_g": 5,
+    "prep_note": "toasted"
+   }
+  ],
+  "instructions": "1. Marinate beef in soy sauce, sesame oil, garlic, and ginger 30 minutes. 2. Cook white rice. 3. Sear beef and onion over high heat 6 minutes. 4. Serve over rice. 5. Finish with sesame seeds."
+ },
+ {
+  "title": "Thai Coconut Shrimp Soup",
+  "description": "Shrimp simmered in coconut milk with ginger, lime, and fish sauce.",
+  "cuisine": "Thai",
+  "difficulty": "medium",
+  "prep_time_min": 15,
+  "cook_time_min": 15,
+  "servings": 2,
+  "diet_tags": [
+   "pescatarian",
+   "gluten_free"
+  ],
+  "ingredients": [
+   {
+    "name": "shrimp",
+    "quantity_g": 200,
+    "prep_note": "peeled"
+   },
+   {
+    "name": "coconut milk",
+    "quantity_g": 300,
+    "prep_note": ""
+   },
+   {
+    "name": "mushrooms",
+    "quantity_g": 100,
+    "prep_note": "sliced"
+   },
+   {
+    "name": "ginger",
+    "quantity_g": 15,
+    "prep_note": "sliced"
+   },
+   {
+    "name": "lime",
+    "quantity_g": 40,
+    "prep_note": "juiced"
+   },
+   {
+    "name": "fish sauce",
+    "quantity_g": 15,
+    "prep_note": ""
+   },
+   {
+    "name": "cilantro",
+    "quantity_g": 10,
+    "prep_note": "chopped"
+   }
+  ],
+  "instructions": "1. Simmer coconut milk with ginger 5 minutes. 2. Add mushrooms, cook 4 minutes. 3. Add shrimp and cook 3 minutes. 4. Stir in lime juice and fish sauce. 5. Garnish with cilantro."
+ },
+ {
+  "title": "Ratatouille",
+  "description": "Provencal stew of eggplant, zucchini, tomato, and bell pepper with thyme.",
+  "cuisine": "French",
+  "difficulty": "medium",
+  "prep_time_min": 20,
+  "cook_time_min": 30,
+  "servings": 2,
+  "diet_tags": [
+   "vegan",
+   "gluten_free"
+  ],
+  "ingredients": [
+   {
+    "name": "eggplant",
+    "quantity_g": 200,
+    "prep_note": "cubed"
+   },
+   {
+    "name": "zucchini",
+    "quantity_g": 200,
+    "prep_note": "cubed"
+   },
+   {
+    "name": "canned tomatoes",
+    "quantity_g": 300,
+    "prep_note": ""
+   },
+   {
+    "name": "bell pepper",
+    "quantity_g": 120,
+    "prep_note": "cubed"
+   },
+   {
+    "name": "onion",
+    "quantity_g": 100,
+    "prep_note": "sliced"
+   },
+   {
+    "name": "garlic",
+    "quantity_g": 10,
+    "prep_note": "minced"
+   },
+   {
+    "name": "olive oil",
+    "quantity_g": 30,
+    "prep_note": ""
+   },
+   {
+    "name": "thyme",
+    "quantity_g": 3,
+    "prep_note": "dried"
+   }
+  ],
+  "instructions": "1. Sweat onion and garlic in olive oil. 2. Add eggplant and pepper, cook 10 minutes. 3. Add zucchini and canned tomatoes. 4. Add thyme, simmer 20 minutes. 5. Season with salt and black pepper."
+ },
+ {
+  "title": "Garlic Shrimp with Couscous",
+  "description": "Shrimp saut\u00e9ed in garlic butter served over fluffy couscous.",
+  "cuisine": "Mediterranean",
+  "difficulty": "easy",
+  "prep_time_min": 10,
+  "cook_time_min": 12,
+  "servings": 2,
+  "diet_tags": [
+   "pescatarian"
+  ],
+  "ingredients": [
+   {
+    "name": "shrimp",
+    "quantity_g": 250,
+    "prep_note": "peeled"
+   },
+   {
+    "name": "couscous",
+    "quantity_g": 150,
+    "prep_note": ""
+   },
+   {
+    "name": "garlic",
+    "quantity_g": 15,
+    "prep_note": "minced"
+   },
+   {
+    "name": "butter",
+    "quantity_g": 25,
+    "prep_note": ""
+   },
+   {
+    "name": "lemon",
+    "quantity_g": 30,
+    "prep_note": "juiced"
+   },
+   {
+    "name": "parsley",
+    "quantity_g": 10,
+    "prep_note": "chopped"
+   },
+   {
+    "name": "olive oil",
+    "quantity_g": 10,
+    "prep_note": ""
+   }
+  ],
+  "instructions": "1. Steam couscous. 2. Melt butter with olive oil and saut\u00e9 garlic 1 minute. 3. Add shrimp and cook 3 minutes. 4. Finish with lemon juice and parsley. 5. Serve over couscous."
+ },
+ {
+  "title": "Baked Mussels with Garlic",
+  "description": "Mussels baked on the half shell with garlic, parsley, and olive oil.",
+  "cuisine": "Spanish",
+  "difficulty": "medium",
+  "prep_time_min": 25,
+  "cook_time_min": 12,
+  "servings": 2,
+  "diet_tags": [
+   "pescatarian",
+   "gluten_free"
+  ],
+  "ingredients": [
+   {
+    "name": "mussels",
+    "quantity_g": 500,
+    "prep_note": "scrubbed and opened"
+   },
+   {
+    "name": "garlic",
+    "quantity_g": 15,
+    "prep_note": "minced"
+   },
+   {
+    "name": "parsley",
+    "quantity_g": 15,
+    "prep_note": "chopped"
+   },
+   {
+    "name": "olive oil",
+    "quantity_g": 30,
+    "prep_note": ""
+   },
+   {
+    "name": "lemon",
+    "quantity_g": 30,
+    "prep_note": "juiced"
+   },
+   {
+    "name": "black pepper",
+    "quantity_g": 2,
+    "prep_note": ""
+   }
+  ],
+  "instructions": "1. Steam mussels open, discard empty shells. 2. Arrange on a baking tray. 3. Mix garlic, parsley, and olive oil. 4. Spoon over mussels. 5. Bake at 220 C for 8 minutes, finish with lemon."
+ },
+ {
+  "title": "Roasted Pork with Cabbage Slaw",
+  "description": "Pork tenderloin roasted with paprika served with a tangy cabbage slaw.",
+  "cuisine": "American",
+  "difficulty": "medium",
+  "prep_time_min": 20,
+  "cook_time_min": 35,
+  "servings": 2,
+  "diet_tags": [
+   "gluten_free"
+  ],
+  "ingredients": [
+   {
+    "name": "pork tenderloin",
+    "quantity_g": 300,
+    "prep_note": "trimmed"
+   },
+   {
+    "name": "cabbage",
+    "quantity_g": 250,
+    "prep_note": "shredded"
+   },
+   {
+    "name": "carrot",
+    "quantity_g": 80,
+    "prep_note": "grated"
+   },
+   {
+    "name": "red wine vinegar",
+    "quantity_g": 30,
+    "prep_note": ""
+   },
+   {
+    "name": "dijon mustard",
+    "quantity_g": 10,
+    "prep_note": ""
+   },
+   {
+    "name": "paprika",
+    "quantity_g": 5,
+    "prep_note": ""
+   },
+   {
+    "name": "olive oil",
+    "quantity_g": 25,
+    "prep_note": ""
+   }
+  ],
+  "instructions": "1. Heat oven to 200 C. 2. Rub pork with paprika, salt, and olive oil. 3. Roast 30 minutes, rest 5 minutes. 4. Toss cabbage and carrot with red wine vinegar and dijon mustard. 5. Slice pork and serve with slaw."
+ },
+ {
+  "title": "Moroccan Chickpea Tagine",
+  "description": "Chickpeas and carrot slow-simmered with cumin, cinnamon, and tomato.",
+  "cuisine": "Moroccan",
+  "difficulty": "easy",
+  "prep_time_min": 15,
+  "cook_time_min": 40,
+  "servings": 2,
+  "diet_tags": [
+   "vegan",
+   "gluten_free"
+  ],
+  "ingredients": [
+   {
+    "name": "chickpeas",
+    "quantity_g": 200,
+    "prep_note": "drained"
+   },
+   {
+    "name": "canned tomatoes",
+    "quantity_g": 300,
+    "prep_note": ""
+   },
+   {
+    "name": "onion",
+    "quantity_g": 100,
+    "prep_note": "diced"
+   },
+   {
+    "name": "garlic",
+    "quantity_g": 10,
+    "prep_note": "minced"
+   },
+   {
+    "name": "cumin",
+    "quantity_g": 5,
+    "prep_note": "ground"
+   },
+   {
+    "name": "cinnamon",
+    "quantity_g": 2,
+    "prep_note": "ground"
+   },
+   {
+    "name": "carrot",
+    "quantity_g": 100,
+    "prep_note": "sliced"
+   },
+   {
+    "name": "parsley",
+    "quantity_g": 10,
+    "prep_note": "chopped"
+   }
+  ],
+  "instructions": "1. Sweat onion and garlic in olive oil. 2. Add cumin and cinnamon, toast 1 minute. 3. Add carrot, canned tomatoes, and chickpeas. 4. Simmer 35 minutes. 5. Finish with parsley."
+ },
+ {
+  "title": "Lamb Kofta with Yogurt Sauce",
+  "description": "Spiced lamb shoulder kofta grilled and served with a cool yogurt sauce.",
+  "cuisine": "Middle Eastern",
+  "difficulty": "medium",
+  "prep_time_min": 20,
+  "cook_time_min": 15,
+  "servings": 2,
+  "diet_tags": [
+   "gluten_free"
+  ],
+  "ingredients": [
+   {
+    "name": "lamb shoulder",
+    "quantity_g": 250,
+    "prep_note": "minced"
+   },
+   {
+    "name": "onion",
+    "quantity_g": 50,
+    "prep_note": "grated"
+   },
+   {
+    "name": "garlic",
+    "quantity_g": 10,
+    "prep_note": "minced"
+   },
+   {
+    "name": "cumin",
+    "quantity_g": 5,
+    "prep_note": "ground"
+   },
+   {
+    "name": "paprika",
+    "quantity_g": 5,
+    "prep_note": ""
+   },
+   {
+    "name": "greek yogurt",
+    "quantity_g": 100,
+    "prep_note": ""
+   },
+   {
+    "name": "parsley",
+    "quantity_g": 10,
+    "prep_note": "chopped"
+   }
+  ],
+  "instructions": "1. Mix lamb, onion, garlic, cumin, and paprika. 2. Shape into ovals around skewers. 3. Grill 12 minutes, turning. 4. Stir parsley into greek yogurt. 5. Serve kofta with sauce."
+ },
+ {
+  "title": "Vegan Mushroom Wellington",
+  "description": "Mushrooms and red lentils wrapped in a coconut oil pastry and baked.",
+  "cuisine": "British",
+  "difficulty": "hard",
+  "prep_time_min": 40,
+  "cook_time_min": 40,
+  "servings": 2,
+  "diet_tags": [
+   "vegan"
+  ],
+  "ingredients": [
+   {
+    "name": "mushrooms",
+    "quantity_g": 300,
+    "prep_note": "finely chopped"
+   },
+   {
+    "name": "red lentils",
+    "quantity_g": 100,
+    "prep_note": "cooked"
+   },
+   {
+    "name": "onion",
+    "quantity_g": 80,
+    "prep_note": "diced"
+   },
+   {
+    "name": "garlic",
+    "quantity_g": 10,
+    "prep_note": "minced"
+   },
+   {
+    "name": "all-purpose flour",
+    "quantity_g": 200,
+    "prep_note": "for pastry"
+   },
+   {
+    "name": "coconut oil",
+    "quantity_g": 80,
+    "prep_note": "for pastry"
+   },
+   {
+    "name": "thyme",
+    "quantity_g": 5,
+    "prep_note": "dried"
+   }
+  ],
+  "instructions": "1. Rub all-purpose flour, coconut oil, and water into a pastry, chill 20 minutes. 2. Saut\u00e9 onion, garlic, mushrooms, and thyme until dry. 3. Fold in lentils. 4. Wrap filling in pastry. 5. Bake at 200 C for 35 minutes."
+ },
+ {
+  "title": "Greek Lemon Chicken and Potatoes",
+  "description": "Chicken thighs roasted with potato wedges, lemon, and rosemary.",
+  "cuisine": "Greek",
+  "difficulty": "easy",
+  "prep_time_min": 15,
+  "cook_time_min": 45,
+  "servings": 2,
+  "diet_tags": [
+   "gluten_free"
+  ],
+  "ingredients": [
+   {
+    "name": "chicken thigh",
+    "quantity_g": 300,
+    "prep_note": "bone-in"
+   },
+   {
+    "name": "potato",
+    "quantity_g": 300,
+    "prep_note": "wedges"
+   },
+   {
+    "name": "lemon",
+    "quantity_g": 60,
+    "prep_note": "juiced"
+   },
+   {
+    "name": "garlic",
+    "quantity_g": 10,
+    "prep_note": "minced"
+   },
+   {
+    "name": "rosemary",
+    "quantity_g": 5,
+    "prep_note": "chopped"
+   },
+   {
+    "name": "olive oil",
+    "quantity_g": 30,
+    "prep_note": ""
+   },
+   {
+    "name": "salt",
+    "quantity_g": 4,
+    "prep_note": ""
+   }
+  ],
+  "instructions": "1. Heat oven to 200 C. 2. Toss potato and chicken with lemon juice, garlic, rosemary, olive oil, and salt. 3. Arrange on a tray in a single layer. 4. Roast 40 to 45 minutes, turning potatoes once."
+ },
+ {
+  "title": "Beef and Barley-Style Brown Rice Soup",
+  "description": "Beef sirloin and brown rice simmered slowly with carrot and thyme.",
+  "cuisine": "British",
+  "difficulty": "medium",
+  "prep_time_min": 20,
+  "cook_time_min": 90,
+  "servings": 2,
+  "diet_tags": [
+   "gluten_free"
+  ],
+  "ingredients": [
+   {
+    "name": "beef sirloin",
+    "quantity_g": 300,
+    "prep_note": "cubed"
+   },
+   {
+    "name": "brown rice",
+    "quantity_g": 100,
+    "prep_note": "rinsed"
+   },
+   {
+    "name": "carrot",
+    "quantity_g": 100,
+    "prep_note": "sliced"
+   },
+   {
+    "name": "onion",
+    "quantity_g": 100,
+    "prep_note": "diced"
+   },
+   {
+    "name": "garlic",
+    "quantity_g": 10,
+    "prep_note": "minced"
+   },
+   {
+    "name": "vegetable broth",
+    "quantity_g": 1000,
+    "prep_note": ""
+   },
+   {
+    "name": "thyme",
+    "quantity_g": 5,
+    "prep_note": "dried"
+   },
+   {
+    "name": "rosemary",
+    "quantity_g": 3,
+    "prep_note": "chopped"
+   }
+  ],
+  "instructions": "1. Brown beef in a heavy pot. 2. Add onion, carrot, and garlic, cook 5 minutes. 3. Add broth, brown rice, thyme, and rosemary. 4. Simmer covered 80 minutes. 5. Season with salt and black pepper."
+ },
+ {
+  "title": "Penne with Chickpeas and Spinach",
+  "description": "Penne tossed with chickpeas, spinach, garlic, and chili flakes.",
+  "cuisine": "Italian",
+  "difficulty": "easy",
+  "prep_time_min": 10,
+  "cook_time_min": 20,
+  "servings": 2,
+  "diet_tags": [
+   "vegan"
+  ],
+  "ingredients": [
+   {
+    "name": "penne",
+    "quantity_g": 200,
+    "prep_note": ""
+   },
+   {
+    "name": "chickpeas",
+    "quantity_g": 200,
+    "prep_note": "drained"
+   },
+   {
+    "name": "spinach",
+    "quantity_g": 120,
+    "prep_note": ""
+   },
+   {
+    "name": "garlic",
+    "quantity_g": 12,
+    "prep_note": "sliced"
+   },
+   {
+    "name": "olive oil",
+    "quantity_g": 30,
+    "prep_note": ""
+   },
+   {
+    "name": "chili flakes",
+    "quantity_g": 4,
+    "prep_note": ""
+   },
+   {
+    "name": "lemon",
+    "quantity_g": 30,
+    "prep_note": "juiced"
+   }
+  ],
+  "instructions": "1. Boil penne until al dente. 2. Gently fry garlic and chili flakes in olive oil. 3. Add chickpeas, warm through. 4. Fold in spinach. 5. Toss with penne and lemon juice."
+ },
+ {
+  "title": "Chicken Pho-Style Noodle Soup",
+  "description": "Chicken broth with rice noodles, poached chicken, ginger, and cilantro.",
+  "cuisine": "Vietnamese",
+  "difficulty": "medium",
+  "prep_time_min": 20,
+  "cook_time_min": 40,
+  "servings": 2,
+  "diet_tags": [
+   "gluten_free"
+  ],
+  "ingredients": [
+   {
+    "name": "chicken breast",
+    "quantity_g": 200,
+    "prep_note": "sliced"
+   },
+   {
+    "name": "rice noodles",
+    "quantity_g": 150,
+    "prep_note": ""
+   },
+   {
+    "name": "chicken broth",
+    "quantity_g": 1000,
+    "prep_note": ""
+   },
+   {
+    "name": "ginger",
+    "quantity_g": 15,
+    "prep_note": "sliced"
+   },
+   {
+    "name": "onion",
+    "quantity_g": 100,
+    "prep_note": "halved"
+   },
+   {
+    "name": "cinnamon",
+    "quantity_g": 2,
+    "prep_note": "stick"
+   },
+   {
+    "name": "cilantro",
+    "quantity_g": 15,
+    "prep_note": "chopped"
+   },
+   {
+    "name": "lime",
+    "quantity_g": 30,
+    "prep_note": "juiced"
+   }
+  ],
+  "instructions": "1. Char ginger and onion. 2. Simmer broth with ginger, onion, and cinnamon 30 minutes. 3. Cook rice noodles. 4. Add chicken to broth and poach 6 minutes. 5. Serve over noodles with cilantro and lime."
+ },
+ {
+  "title": "Turkey and Sweet Potato Skillet",
+  "description": "Ground turkey cooked with sweet potato, kale, and cumin.",
+  "cuisine": "American",
+  "difficulty": "easy",
+  "prep_time_min": 15,
+  "cook_time_min": 25,
+  "servings": 2,
+  "diet_tags": [
+   "gluten_free"
+  ],
+  "ingredients": [
+   {
+    "name": "turkey mince",
+    "quantity_g": 250,
+    "prep_note": ""
+   },
+   {
+    "name": "sweet potato",
+    "quantity_g": 250,
+    "prep_note": "cubed"
+   },
+   {
+    "name": "kale",
+    "quantity_g": 100,
+    "prep_note": "chopped"
+   },
+   {
+    "name": "onion",
+    "quantity_g": 80,
+    "prep_note": "diced"
+   },
+   {
+    "name": "garlic",
+    "quantity_g": 10,
+    "prep_note": "minced"
+   },
+   {
+    "name": "cumin",
+    "quantity_g": 5,
+    "prep_note": "ground"
+   },
+   {
+    "name": "olive oil",
+    "quantity_g": 20,
+    "prep_note": ""
+   }
+  ],
+  "instructions": "1. Brown turkey with onion and garlic. 2. Add sweet potato and cumin, cook 10 minutes. 3. Add 100 ml water, cover, and steam 8 minutes. 4. Fold in kale. 5. Cook 3 minutes and serve."
+ },
+ {
+  "title": "Pan-Seared Cod with Herbs",
+  "description": "Cod fillet pan-seared with garlic, parsley, lemon, and butter.",
+  "cuisine": "French",
+  "difficulty": "medium",
+  "prep_time_min": 10,
+  "cook_time_min": 12,
+  "servings": 2,
+  "diet_tags": [
+   "pescatarian",
+   "gluten_free"
+  ],
+  "ingredients": [
+   {
+    "name": "cod fillet",
+    "quantity_g": 300,
+    "prep_note": ""
+   },
+   {
+    "name": "lemon",
+    "quantity_g": 40,
+    "prep_note": "juiced"
+   },
+   {
+    "name": "garlic",
+    "quantity_g": 10,
+    "prep_note": "minced"
+   },
+   {
+    "name": "parsley",
+    "quantity_g": 10,
+    "prep_note": "chopped"
+   },
+   {
+    "name": "butter",
+    "quantity_g": 25,
+    "prep_note": ""
+   },
+   {
+    "name": "olive oil",
+    "quantity_g": 15,
+    "prep_note": ""
+   },
+   {
+    "name": "salt",
+    "quantity_g": 4,
+    "prep_note": ""
+   }
+  ],
+  "instructions": "1. Pat cod dry and season with salt. 2. Sear in olive oil 4 minutes per side. 3. Lower heat, add butter, garlic, and lemon juice. 4. Baste fish 1 minute. 5. Finish with parsley."
+ },
+ {
+  "title": "Cabbage and Tofu Stir-Fry",
+  "description": "Cabbage and tofu stir-fried with soy sauce, ginger, and sesame.",
+  "cuisine": "Chinese",
+  "difficulty": "easy",
+  "prep_time_min": 15,
+  "cook_time_min": 12,
+  "servings": 2,
+  "diet_tags": [
+   "vegan"
+  ],
+  "ingredients": [
+   {
+    "name": "tofu",
+    "quantity_g": 300,
+    "prep_note": "pressed and cubed"
+   },
+   {
+    "name": "cabbage",
+    "quantity_g": 300,
+    "prep_note": "shredded"
+   },
+   {
+    "name": "ginger",
+    "quantity_g": 10,
+    "prep_note": "grated"
+   },
+   {
+    "name": "garlic",
+    "quantity_g": 10,
+    "prep_note": "minced"
+   },
+   {
+    "name": "soy sauce",
+    "quantity_g": 25,
+    "prep_note": ""
+   },
+   {
+    "name": "sesame oil",
+    "quantity_g": 15,
+    "prep_note": ""
+   },
+   {
+    "name": "sesame seeds",
+    "quantity_g": 5,
+    "prep_note": "toasted"
+   }
+  ],
+  "instructions": "1. Sear tofu in sesame oil until golden. 2. Add garlic and ginger, cook 1 minute. 3. Add cabbage and toss 6 minutes. 4. Add soy sauce. 5. Finish with sesame seeds."
+ },
+ {
+  "title": "Quinoa and Almond Salad",
+  "description": "Quinoa salad with almonds, parsley, cucumber, and lemon.",
+  "cuisine": "Middle Eastern",
+  "difficulty": "easy",
+  "prep_time_min": 15,
+  "cook_time_min": 15,
+  "servings": 2,
+  "diet_tags": [
+   "vegan",
+   "gluten_free"
+  ],
+  "ingredients": [
+   {
+    "name": "quinoa",
+    "quantity_g": 120,
+    "prep_note": "rinsed"
+   },
+   {
+    "name": "almonds",
+    "quantity_g": 40,
+    "prep_note": "toasted and chopped"
+   },
+   {
+    "name": "parsley",
+    "quantity_g": 20,
+    "prep_note": "chopped"
+   },
+   {
+    "name": "cucumber",
+    "quantity_g": 100,
+    "prep_note": "diced"
+   },
+   {
+    "name": "lemon",
+    "quantity_g": 40,
+    "prep_note": "juiced"
+   },
+   {
+    "name": "olive oil",
+    "quantity_g": 20,
+    "prep_note": ""
+   }
+  ],
+  "instructions": "1. Cook quinoa in 250 ml water 15 minutes, then cool. 2. Fold in parsley and cucumber. 3. Dress with lemon juice and olive oil. 4. Top with almonds."
+ },
+ {
+  "title": "Chicken and White Bean Chili",
+  "description": "Chicken breast with white beans, chili flakes, and cumin in a light broth.",
+  "cuisine": "Tex-Mex",
+  "difficulty": "easy",
+  "prep_time_min": 15,
+  "cook_time_min": 35,
+  "servings": 2,
+  "diet_tags": [
+   "gluten_free"
+  ],
+  "ingredients": [
+   {
+    "name": "chicken breast",
+    "quantity_g": 250,
+    "prep_note": "cubed"
+   },
+   {
+    "name": "white beans",
+    "quantity_g": 200,
+    "prep_note": "drained"
+   },
+   {
+    "name": "chicken broth",
+    "quantity_g": 500,
+    "prep_note": ""
+   },
+   {
+    "name": "onion",
+    "quantity_g": 80,
+    "prep_note": "diced"
+   },
+   {
+    "name": "garlic",
+    "quantity_g": 10,
+    "prep_note": "minced"
+   },
+   {
+    "name": "chili flakes",
+    "quantity_g": 5,
+    "prep_note": ""
+   },
+   {
+    "name": "cumin",
+    "quantity_g": 5,
+    "prep_note": "ground"
+   },
+   {
+    "name": "cilantro",
+    "quantity_g": 10,
+    "prep_note": "chopped"
+   }
+  ],
+  "instructions": "1. Sweat onion and garlic. 2. Add chili flakes and cumin, toast 1 minute. 3. Add chicken, broth, and white beans. 4. Simmer 30 minutes. 5. Finish with cilantro."
+ },
+ {
+  "title": "Vegan Coconut Lentil Dal",
+  "description": "Red lentils simmered with coconut milk, turmeric, and cumin.",
+  "cuisine": "Indian",
+  "difficulty": "easy",
+  "prep_time_min": 10,
+  "cook_time_min": 30,
+  "servings": 2,
+  "diet_tags": [
+   "vegan",
+   "gluten_free"
+  ],
+  "ingredients": [
+   {
+    "name": "red lentils",
+    "quantity_g": 150,
+    "prep_note": "rinsed"
+   },
+   {
+    "name": "coconut milk",
+    "quantity_g": 200,
+    "prep_note": ""
+   },
+   {
+    "name": "canned tomatoes",
+    "quantity_g": 200,
+    "prep_note": ""
+   },
+   {
+    "name": "onion",
+    "quantity_g": 100,
+    "prep_note": "diced"
+   },
+   {
+    "name": "garlic",
+    "quantity_g": 10,
+    "prep_note": "minced"
+   },
+   {
+    "name": "turmeric",
+    "quantity_g": 3,
+    "prep_note": ""
+   },
+   {
+    "name": "cumin",
+    "quantity_g": 5,
+    "prep_note": "ground"
+   },
+   {
+    "name": "cilantro",
+    "quantity_g": 10,
+    "prep_note": "chopped"
+   }
+  ],
+  "instructions": "1. Sweat onion and garlic. 2. Add turmeric and cumin, toast 1 minute. 3. Add canned tomatoes, coconut milk, and red lentils. 4. Simmer 25 minutes. 5. Finish with cilantro."
+ },
+ {
+  "title": "Salmon Rice Bowl with Edamame",
+  "description": "Flaked salmon over white rice with edamame, cucumber, and sesame.",
+  "cuisine": "Japanese",
+  "difficulty": "easy",
+  "prep_time_min": 15,
+  "cook_time_min": 15,
+  "servings": 2,
+  "diet_tags": [
+   "pescatarian",
+   "gluten_free"
+  ],
+  "ingredients": [
+   {
+    "name": "salmon fillet",
+    "quantity_g": 250,
+    "prep_note": "cooked and flaked"
+   },
+   {
+    "name": "white rice",
+    "quantity_g": 150,
+    "prep_note": ""
+   },
+   {
+    "name": "edamame",
+    "quantity_g": 120,
+    "prep_note": "shelled"
+   },
+   {
+    "name": "cucumber",
+    "quantity_g": 80,
+    "prep_note": "sliced"
+   },
+   {
+    "name": "sesame oil",
+    "quantity_g": 10,
+    "prep_note": ""
+   },
+   {
+    "name": "sesame seeds",
+    "quantity_g": 5,
+    "prep_note": "toasted"
+   },
+   {
+    "name": "lime",
+    "quantity_g": 30,
+    "prep_note": "juiced"
+   }
+  ],
+  "instructions": "1. Cook white rice. 2. Steam edamame 5 minutes. 3. Build bowls with rice, salmon, edamame, and cucumber. 4. Drizzle sesame oil and lime juice. 5. Top with sesame seeds."
+ },
+ {
+  "title": "Edamame and Quinoa Bowl",
+  "description": "Quinoa bowl with edamame, cucumber, and carrot in a sesame soy dressing.",
+  "cuisine": "Japanese",
+  "difficulty": "easy",
+  "prep_time_min": 15,
+  "cook_time_min": 15,
+  "servings": 2,
+  "diet_tags": [
+   "vegan"
+  ],
+  "ingredients": [
+   {
+    "name": "quinoa",
+    "quantity_g": 120,
+    "prep_note": "rinsed"
+   },
+   {
+    "name": "edamame",
+    "quantity_g": 150,
+    "prep_note": "shelled"
+   },
+   {
+    "name": "cucumber",
+    "quantity_g": 100,
+    "prep_note": "diced"
+   },
+   {
+    "name": "carrot",
+    "quantity_g": 60,
+    "prep_note": "julienned"
+   },
+   {
+    "name": "soy sauce",
+    "quantity_g": 20,
+    "prep_note": ""
+   },
+   {
+    "name": "sesame oil",
+    "quantity_g": 10,
+    "prep_note": ""
+   },
+   {
+    "name": "sesame seeds",
+    "quantity_g": 5,
+    "prep_note": "toasted"
+   }
+  ],
+  "instructions": "1. Cook quinoa in 250 ml water 15 minutes. 2. Steam edamame 5 minutes. 3. Whisk soy sauce and sesame oil. 4. Build bowls with quinoa, edamame, cucumber, and carrot. 5. Drizzle dressing and top with sesame seeds."
+ },
+ {
+  "title": "Tomato and Feta Baked Eggs",
+  "description": "Eggs baked in a spiced tomato sauce with crumbled feta and parsley.",
+  "cuisine": "Greek",
+  "difficulty": "easy",
+  "prep_time_min": 10,
+  "cook_time_min": 20,
+  "servings": 2,
+  "diet_tags": [
+   "vegetarian",
+   "gluten_free"
+  ],
+  "ingredients": [
+   {
+    "name": "egg",
+    "quantity_g": 150,
+    "prep_note": ""
+   },
+   {
+    "name": "canned tomatoes",
+    "quantity_g": 300,
+    "prep_note": ""
+   },
+   {
+    "name": "feta",
+    "quantity_g": 60,
+    "prep_note": "crumbled"
+   },
+   {
+    "name": "onion",
+    "quantity_g": 60,
+    "prep_note": "diced"
+   },
+   {
+    "name": "garlic",
+    "quantity_g": 8,
+    "prep_note": "minced"
+   },
+   {
+    "name": "paprika",
+    "quantity_g": 3,
+    "prep_note": ""
+   },
+   {
+    "name": "parsley",
+    "quantity_g": 10,
+    "prep_note": "chopped"
+   }
+  ],
+  "instructions": "1. Sweat onion and garlic. 2. Add canned tomatoes and paprika, simmer 8 minutes. 3. Transfer to a baking dish and make wells. 4. Crack eggs in and scatter feta. 5. Bake at 190 C for 12 minutes, finish with parsley."
+ },
+ {
+  "title": "Turmeric Cauliflower and Chickpeas",
+  "description": "Roasted cauliflower and chickpeas with turmeric, cumin, and lemon.",
+  "cuisine": "Indian",
+  "difficulty": "easy",
+  "prep_time_min": 15,
+  "cook_time_min": 30,
+  "servings": 2,
+  "diet_tags": [
+   "vegan",
+   "gluten_free"
+  ],
+  "ingredients": [
+   {
+    "name": "cauliflower",
+    "quantity_g": 300,
+    "prep_note": "florets"
+   },
+   {
+    "name": "chickpeas",
+    "quantity_g": 200,
+    "prep_note": "drained"
+   },
+   {
+    "name": "turmeric",
+    "quantity_g": 4,
+    "prep_note": ""
+   },
+   {
+    "name": "cumin",
+    "quantity_g": 5,
+    "prep_note": "ground"
+   },
+   {
+    "name": "olive oil",
+    "quantity_g": 25,
+    "prep_note": ""
+   },
+   {
+    "name": "lemon",
+    "quantity_g": 30,
+    "prep_note": "juiced"
+   },
+   {
+    "name": "cilantro",
+    "quantity_g": 10,
+    "prep_note": "chopped"
+   }
+  ],
+  "instructions": "1. Heat oven to 200 C. 2. Toss cauliflower and chickpeas with turmeric, cumin, and olive oil. 3. Roast 25 minutes, tossing once. 4. Finish with lemon juice and cilantro."
+ },
+ {
+  "title": "Chicken and Broccoli Alfredo",
+  "description": "Penne with chicken and broccoli in a Parmesan cream sauce.",
+  "cuisine": "Italian",
+  "difficulty": "medium",
+  "prep_time_min": 15,
+  "cook_time_min": 25,
+  "servings": 2,
+  "diet_tags": [],
+  "ingredients": [
+   {
+    "name": "chicken breast",
+    "quantity_g": 250,
+    "prep_note": "cubed"
+   },
+   {
+    "name": "penne",
+    "quantity_g": 180,
+    "prep_note": ""
+   },
+   {
+    "name": "broccoli",
+    "quantity_g": 150,
+    "prep_note": "florets"
+   },
+   {
+    "name": "heavy cream",
+    "quantity_g": 150,
+    "prep_note": ""
+   },
+   {
+    "name": "butter",
+    "quantity_g": 30,
+    "prep_note": ""
+   },
+   {
+    "name": "parmesan",
+    "quantity_g": 60,
+    "prep_note": "grated"
+   },
+   {
+    "name": "garlic",
+    "quantity_g": 10,
+    "prep_note": "minced"
+   }
+  ],
+  "instructions": "1. Boil penne and steam broccoli. 2. Saut\u00e9 chicken in butter until cooked through. 3. Add garlic, then heavy cream. 4. Stir in Parmesan until smooth. 5. Toss with penne and broccoli."
+ },
+ {
+  "title": "Spiced Lamb and Couscous Bowl",
+  "description": "Cubed lamb shoulder simmered with cumin and cinnamon over couscous.",
+  "cuisine": "Moroccan",
+  "difficulty": "medium",
+  "prep_time_min": 20,
+  "cook_time_min": 45,
+  "servings": 2,
+  "diet_tags": [],
+  "ingredients": [
+   {
+    "name": "lamb shoulder",
+    "quantity_g": 300,
+    "prep_note": "cubed"
+   },
+   {
+    "name": "couscous",
+    "quantity_g": 150,
+    "prep_note": ""
+   },
+   {
+    "name": "onion",
+    "quantity_g": 100,
+    "prep_note": "diced"
+   },
+   {
+    "name": "garlic",
+    "quantity_g": 10,
+    "prep_note": "minced"
+   },
+   {
+    "name": "cumin",
+    "quantity_g": 5,
+    "prep_note": "ground"
+   },
+   {
+    "name": "cinnamon",
+    "quantity_g": 2,
+    "prep_note": "ground"
+   },
+   {
+    "name": "canned tomatoes",
+    "quantity_g": 200,
+    "prep_note": ""
+   },
+   {
+    "name": "parsley",
+    "quantity_g": 10,
+    "prep_note": "chopped"
+   }
+  ],
+  "instructions": "1. Brown lamb in a heavy pot. 2. Add onion, garlic, cumin, and cinnamon. 3. Add canned tomatoes and 200 ml water. 4. Cover and simmer 40 minutes. 5. Steam couscous and serve with lamb and parsley."
+ },
+ {
+  "title": "Salmon and Quinoa Salad",
+  "description": "Flaked salmon over quinoa with cucumber, tomato, lemon, and parsley.",
+  "cuisine": "Nordic",
+  "difficulty": "easy",
+  "prep_time_min": 15,
+  "cook_time_min": 15,
+  "servings": 2,
+  "diet_tags": [
+   "pescatarian",
+   "gluten_free"
+  ],
+  "ingredients": [
+   {
+    "name": "salmon fillet",
+    "quantity_g": 250,
+    "prep_note": "cooked and flaked"
+   },
+   {
+    "name": "quinoa",
+    "quantity_g": 120,
+    "prep_note": "rinsed"
+   },
+   {
+    "name": "cucumber",
+    "quantity_g": 100,
+    "prep_note": "diced"
+   },
+   {
+    "name": "tomato",
+    "quantity_g": 120,
+    "prep_note": "diced"
+   },
+   {
+    "name": "lemon",
+    "quantity_g": 40,
+    "prep_note": "juiced"
+   },
+   {
+    "name": "olive oil",
+    "quantity_g": 20,
+    "prep_note": ""
+   },
+   {
+    "name": "parsley",
+    "quantity_g": 10,
+    "prep_note": "chopped"
+   }
+  ],
+  "instructions": "1. Cook quinoa in 250 ml water 15 minutes, then cool. 2. Fold in cucumber, tomato, lemon juice, and olive oil. 3. Top with flaked salmon. 4. Finish with parsley."
+ },
+ {
+  "title": "Roasted Cauliflower and Kale Bowl",
+  "description": "Roasted cauliflower and kale with white beans and lemon.",
+  "cuisine": "Mediterranean",
+  "difficulty": "easy",
+  "prep_time_min": 15,
+  "cook_time_min": 30,
+  "servings": 2,
+  "diet_tags": [
+   "vegan",
+   "gluten_free"
+  ],
+  "ingredients": [
+   {
+    "name": "cauliflower",
+    "quantity_g": 300,
+    "prep_note": "florets"
+   },
+   {
+    "name": "kale",
+    "quantity_g": 150,
+    "prep_note": "chopped"
+   },
+   {
+    "name": "white beans",
+    "quantity_g": 200,
+    "prep_note": "drained"
+   },
+   {
+    "name": "garlic",
+    "quantity_g": 10,
+    "prep_note": "sliced"
+   },
+   {
+    "name": "olive oil",
+    "quantity_g": 25,
+    "prep_note": ""
+   },
+   {
+    "name": "lemon",
+    "quantity_g": 30,
+    "prep_note": "juiced"
+   },
+   {
+    "name": "rosemary",
+    "quantity_g": 3,
+    "prep_note": "chopped"
+   }
+  ],
+  "instructions": "1. Heat oven to 200 C. 2. Toss cauliflower, garlic, and rosemary with olive oil. 3. Roast 20 minutes. 4. Add kale and white beans, roast 8 more minutes. 5. Finish with lemon juice."
+ },
+ {
+  "title": "Chicken and Kale Soup",
+  "description": "Chicken breast and kale simmered in a light broth with garlic and thyme.",
+  "cuisine": "American",
+  "difficulty": "easy",
+  "prep_time_min": 15,
+  "cook_time_min": 30,
+  "servings": 2,
+  "diet_tags": [
+   "gluten_free"
+  ],
+  "ingredients": [
+   {
+    "name": "chicken breast",
+    "quantity_g": 200,
+    "prep_note": "cubed"
+   },
+   {
+    "name": "kale",
+    "quantity_g": 150,
+    "prep_note": "chopped"
+   },
+   {
+    "name": "carrot",
+    "quantity_g": 80,
+    "prep_note": "sliced"
+   },
+   {
+    "name": "onion",
+    "quantity_g": 80,
+    "prep_note": "diced"
+   },
+   {
+    "name": "garlic",
+    "quantity_g": 10,
+    "prep_note": "minced"
+   },
+   {
+    "name": "chicken broth",
+    "quantity_g": 900,
+    "prep_note": ""
+   },
+   {
+    "name": "thyme",
+    "quantity_g": 3,
+    "prep_note": "dried"
+   }
+  ],
+  "instructions": "1. Sweat onion, carrot, and garlic. 2. Add broth and chicken, simmer 20 minutes. 3. Add kale, cook 8 minutes. 4. Season with thyme, salt, and black pepper."
+ },
+ {
+  "title": "Turkish Yogurt Lamb Skewers",
+  "description": "Lamb shoulder marinated in greek yogurt with paprika and cumin, then grilled.",
+  "cuisine": "Turkish",
+  "difficulty": "medium",
+  "prep_time_min": 30,
+  "cook_time_min": 15,
+  "servings": 2,
+  "diet_tags": [
+   "gluten_free"
+  ],
+  "ingredients": [
+   {
+    "name": "lamb shoulder",
+    "quantity_g": 300,
+    "prep_note": "cubed"
+   },
+   {
+    "name": "greek yogurt",
+    "quantity_g": 100,
+    "prep_note": ""
+   },
+   {
+    "name": "garlic",
+    "quantity_g": 10,
+    "prep_note": "minced"
+   },
+   {
+    "name": "paprika",
+    "quantity_g": 5,
+    "prep_note": ""
+   },
+   {
+    "name": "cumin",
+    "quantity_g": 5,
+    "prep_note": "ground"
+   },
+   {
+    "name": "lemon",
+    "quantity_g": 30,
+    "prep_note": "juiced"
+   },
+   {
+    "name": "onion",
+    "quantity_g": 60,
+    "prep_note": "sliced"
+   }
+  ],
+  "instructions": "1. Mix greek yogurt, garlic, paprika, cumin, and lemon juice. 2. Marinate lamb 30 minutes. 3. Thread lamb and onion onto skewers. 4. Grill 12 minutes, turning. 5. Rest 3 minutes before serving."
+ },
+ {
+  "title": "Tofu Scramble with Spinach",
+  "description": "Turmeric tofu scramble with spinach and tomato.",
+  "cuisine": "American",
+  "difficulty": "easy",
+  "prep_time_min": 10,
+  "cook_time_min": 12,
+  "servings": 2,
+  "diet_tags": [
+   "vegan",
+   "gluten_free"
+  ],
+  "ingredients": [
+   {
+    "name": "tofu",
+    "quantity_g": 300,
+    "prep_note": "crumbled"
+   },
+   {
+    "name": "spinach",
+    "quantity_g": 100,
+    "prep_note": ""
+   },
+   {
+    "name": "tomato",
+    "quantity_g": 100,
+    "prep_note": "diced"
+   },
+   {
+    "name": "onion",
+    "quantity_g": 60,
+    "prep_note": "diced"
+   },
+   {
+    "name": "turmeric",
+    "quantity_g": 3,
+    "prep_note": ""
+   },
+   {
+    "name": "olive oil",
+    "quantity_g": 15,
+    "prep_note": ""
+   },
+   {
+    "name": "black pepper",
+    "quantity_g": 2,
+    "prep_note": ""
+   }
+  ],
+  "instructions": "1. Saut\u00e9 onion in olive oil 3 minutes. 2. Add crumbled tofu and turmeric. 3. Cook 5 minutes, stirring. 4. Add tomato and spinach. 5. Wilt 2 minutes and finish with black pepper."
+ },
+ {
+  "title": "Chicken Shawarma Bowl",
+  "description": "Spiced chicken thighs with white rice, cucumber, tomato, and yogurt sauce.",
+  "cuisine": "Middle Eastern",
+  "difficulty": "medium",
+  "prep_time_min": 20,
+  "cook_time_min": 20,
+  "servings": 2,
+  "diet_tags": [
+   "gluten_free"
+  ],
+  "ingredients": [
+   {
+    "name": "chicken thigh",
+    "quantity_g": 300,
+    "prep_note": "sliced"
+   },
+   {
+    "name": "white rice",
+    "quantity_g": 150,
+    "prep_note": ""
+   },
+   {
+    "name": "cucumber",
+    "quantity_g": 100,
+    "prep_note": "diced"
+   },
+   {
+    "name": "tomato",
+    "quantity_g": 100,
+    "prep_note": "diced"
+   },
+   {
+    "name": "greek yogurt",
+    "quantity_g": 80,
+    "prep_note": ""
+   },
+   {
+    "name": "lemon",
+    "quantity_g": 30,
+    "prep_note": "juiced"
+   },
+   {
+    "name": "cumin",
+    "quantity_g": 5,
+    "prep_note": "ground"
+   },
+   {
+    "name": "paprika",
+    "quantity_g": 5,
+    "prep_note": ""
+   }
+  ],
+  "instructions": "1. Cook white rice. 2. Toss chicken with cumin, paprika, and lemon juice. 3. Sear chicken 8 minutes. 4. Whisk greek yogurt with lemon juice. 5. Build bowls with rice, chicken, cucumber, tomato, and sauce."
+ },
+ {
+  "title": "Slow-Roasted Lamb Shoulder with Potatoes",
+  "description": "Lamb shoulder slow-roasted with garlic, rosemary, and lemon over potato wedges.",
+  "cuisine": "Greek",
+  "difficulty": "hard",
+  "prep_time_min": 20,
+  "cook_time_min": 180,
+  "servings": 2,
+  "diet_tags": [
+   "gluten_free"
+  ],
+  "ingredients": [
+   {
+    "name": "lamb shoulder",
+    "quantity_g": 500,
+    "prep_note": "bone-in"
+   },
+   {
+    "name": "garlic",
+    "quantity_g": 15,
+    "prep_note": "sliced"
+   },
+   {
+    "name": "rosemary",
+    "quantity_g": 8,
+    "prep_note": "fresh"
+   },
+   {
+    "name": "lemon",
+    "quantity_g": 60,
+    "prep_note": "juiced"
+   },
+   {
+    "name": "olive oil",
+    "quantity_g": 30,
+    "prep_note": ""
+   },
+   {
+    "name": "potato",
+    "quantity_g": 300,
+    "prep_note": "wedges"
+   },
+   {
+    "name": "salt",
+    "quantity_g": 5,
+    "prep_note": ""
+   }
+  ],
+  "instructions": "1. Stud lamb with garlic and rosemary. 2. Rub with olive oil, lemon juice, and salt. 3. Place on a bed of potato wedges. 4. Cover and roast at 160 C for 2.5 hours. 5. Uncover and roast 20 minutes to brown."
+ },
+ {
+  "title": "Peanut Noodles",
+  "description": "Rice noodles tossed in a peanut butter soy sauce with cucumber and crushed peanuts.",
+  "cuisine": "Thai",
+  "difficulty": "easy",
+  "prep_time_min": 15,
+  "cook_time_min": 10,
+  "servings": 2,
+  "diet_tags": [
+   "vegan",
+   "gluten_free"
+  ],
+  "ingredients": [
+   {
+    "name": "rice noodles",
+    "quantity_g": 150,
+    "prep_note": ""
+   },
+   {
+    "name": "peanut butter",
+    "quantity_g": 60,
+    "prep_note": ""
+   },
+   {
+    "name": "soy sauce",
+    "quantity_g": 25,
+    "prep_note": ""
+   },
+   {
+    "name": "lime",
+    "quantity_g": 30,
+    "prep_note": "juiced"
+   },
+   {
+    "name": "garlic",
+    "quantity_g": 8,
+    "prep_note": "minced"
+   },
+   {
+    "name": "cucumber",
+    "quantity_g": 100,
+    "prep_note": "julienned"
+   },
+   {
+    "name": "peanuts",
+    "quantity_g": 25,
+    "prep_note": "crushed"
+   }
+  ],
+  "instructions": "1. Soak rice noodles in hot water 8 minutes. 2. Whisk peanut butter, soy sauce, lime juice, garlic, and 60 ml warm water. 3. Toss noodles with sauce. 4. Top with cucumber and peanuts."
+ },
+ {
+  "title": "Mussels in White Wine Vinegar Broth",
+  "description": "Mussels steamed open in a garlic, tomato, and red wine vinegar broth.",
+  "cuisine": "French",
+  "difficulty": "medium",
+  "prep_time_min": 20,
+  "cook_time_min": 15,
+  "servings": 2,
+  "diet_tags": [
+   "pescatarian",
+   "gluten_free"
+  ],
+  "ingredients": [
+   {
+    "name": "mussels",
+    "quantity_g": 500,
+    "prep_note": "scrubbed"
+   },
+   {
+    "name": "garlic",
+    "quantity_g": 15,
+    "prep_note": "minced"
+   },
+   {
+    "name": "tomato",
+    "quantity_g": 150,
+    "prep_note": "diced"
+   },
+   {
+    "name": "parsley",
+    "quantity_g": 15,
+    "prep_note": "chopped"
+   },
+   {
+    "name": "olive oil",
+    "quantity_g": 25,
+    "prep_note": ""
+   },
+   {
+    "name": "red wine vinegar",
+    "quantity_g": 20,
+    "prep_note": ""
+   }
+  ],
+  "instructions": "1. Saut\u00e9 garlic in olive oil. 2. Add tomato and red wine vinegar. 3. Add mussels, cover, and steam 8 minutes until they open. 4. Discard any that stay closed. 5. Finish with parsley."
+ },
+ {
+  "title": "Turkey Lettuce-Free Wraps in Tortilla",
+  "description": "Ground turkey stir-fried with ginger and soy, served in warm flour tortillas.",
+  "cuisine": "Chinese",
+  "difficulty": "easy",
+  "prep_time_min": 15,
+  "cook_time_min": 12,
+  "servings": 2,
+  "diet_tags": [],
+  "ingredients": [
+   {
+    "name": "turkey mince",
+    "quantity_g": 250,
+    "prep_note": ""
+   },
+   {
+    "name": "flour tortilla",
+    "quantity_g": 100,
+    "prep_note": "warmed"
+   },
+   {
+    "name": "carrot",
+    "quantity_g": 60,
+    "prep_note": "diced"
+   },
+   {
+    "name": "ginger",
+    "quantity_g": 8,
+    "prep_note": "grated"
+   },
+   {
+    "name": "soy sauce",
+    "quantity_g": 25,
+    "prep_note": ""
+   },
+   {
+    "name": "sesame oil",
+    "quantity_g": 10,
+    "prep_note": ""
+   }
+  ],
+  "instructions": "1. Stir-fry turkey with ginger. 2. Add carrot and soy sauce. 3. Cook 6 minutes. 4. Finish with sesame oil. 5. Spoon into warm flour tortillas."
+ },
+ {
+  "title": "Chicken Marsala-Style with Red Wine Vinegar",
+  "description": "Chicken breast cutlets in a mushroom sauce with red wine vinegar and butter.",
+  "cuisine": "Italian",
+  "difficulty": "medium",
+  "prep_time_min": 15,
+  "cook_time_min": 20,
+  "servings": 2,
+  "diet_tags": [],
+  "ingredients": [
+   {
+    "name": "chicken breast",
+    "quantity_g": 300,
+    "prep_note": "flattened"
+   },
+   {
+    "name": "mushrooms",
+    "quantity_g": 200,
+    "prep_note": "sliced"
+   },
+   {
+    "name": "all-purpose flour",
+    "quantity_g": 50,
+    "prep_note": ""
+   },
+   {
+    "name": "red wine vinegar",
+    "quantity_g": 60,
+    "prep_note": ""
+   },
+   {
+    "name": "butter",
+    "quantity_g": 30,
+    "prep_note": ""
+   },
+   {
+    "name": "olive oil",
+    "quantity_g": 20,
+    "prep_note": ""
+   },
+   {
+    "name": "parsley",
+    "quantity_g": 10,
+    "prep_note": "chopped"
+   }
+  ],
+  "instructions": "1. Dredge chicken in all-purpose flour. 2. Pan-fry in olive oil until golden, set aside. 3. Saut\u00e9 mushrooms in butter. 4. Add red wine vinegar, simmer 4 minutes. 5. Return chicken and finish with parsley."
+ },
+ {
+  "title": "Vegetable Spring Rolls with Rice Paper",
+  "description": "Fresh rolls filled with cabbage, carrot, and cucumber in rice paper.",
+  "cuisine": "Vietnamese",
+  "difficulty": "medium",
+  "prep_time_min": 25,
+  "cook_time_min": 5,
+  "servings": 2,
+  "diet_tags": [
+   "vegan",
+   "gluten_free"
+  ],
+  "ingredients": [
+   {
+    "name": "rice noodles",
+    "quantity_g": 80,
+    "prep_note": "cooked"
+   },
+   {
+    "name": "cabbage",
+    "quantity_g": 120,
+    "prep_note": "shredded"
+   },
+   {
+    "name": "carrot",
+    "quantity_g": 80,
+    "prep_note": "julienned"
+   },
+   {
+    "name": "cucumber",
+    "quantity_g": 80,
+    "prep_note": "julienned"
+   },
+   {
+    "name": "cilantro",
+    "quantity_g": 10,
+    "prep_note": "chopped"
+   },
+   {
+    "name": "lime",
+    "quantity_g": 30,
+    "prep_note": "juiced"
+   },
+   {
+    "name": "peanut butter",
+    "quantity_g": 30,
+    "prep_note": "for sauce"
+   },
+   {
+    "name": "soy sauce",
+    "quantity_g": 15,
+    "prep_note": "for sauce"
+   }
+  ],
+  "instructions": "1. Toss cabbage, carrot, cucumber, cilantro, and rice noodles with lime juice. 2. Whisk peanut butter and soy sauce for dipping. 3. Roll filling tightly in rice paper wrappers. 4. Serve with peanut sauce."
+ },
+ {
+  "title": "Pork Tenderloin with Sweet Potato Mash",
+  "description": "Roasted pork tenderloin with mashed sweet potato and rosemary.",
+  "cuisine": "American",
+  "difficulty": "medium",
+  "prep_time_min": 15,
+  "cook_time_min": 35,
+  "servings": 2,
+  "diet_tags": [
+   "gluten_free"
+  ],
+  "ingredients": [
+   {
+    "name": "pork tenderloin",
+    "quantity_g": 300,
+    "prep_note": "trimmed"
+   },
+   {
+    "name": "sweet potato",
+    "quantity_g": 350,
+    "prep_note": "cubed"
+   },
+   {
+    "name": "butter",
+    "quantity_g": 30,
+    "prep_note": ""
+   },
+   {
+    "name": "garlic",
+    "quantity_g": 10,
+    "prep_note": "minced"
+   },
+   {
+    "name": "rosemary",
+    "quantity_g": 5,
+    "prep_note": "chopped"
+   },
+   {
+    "name": "olive oil",
+    "quantity_g": 20,
+    "prep_note": ""
+   },
+   {
+    "name": "salt",
+    "quantity_g": 4,
+    "prep_note": ""
+   }
+  ],
+  "instructions": "1. Boil sweet potato until tender, then mash with butter. 2. Rub pork with garlic, rosemary, olive oil, and salt. 3. Roast at 200 C for 25 minutes. 4. Rest 5 minutes and slice. 5. Serve over sweet potato mash."
+ },
+ {
+  "title": "Beef Bulgogi-Style Rice Bowl",
+  "description": "Marinated sirloin stir-fried with onion and sesame, served over rice.",
+  "cuisine": "Korean",
+  "difficulty": "medium",
+  "prep_time_min": 30,
+  "cook_time_min": 12,
+  "servings": 2,
+  "diet_tags": [],
+  "ingredients": [
+   {
+    "name": "beef sirloin",
+    "quantity_g": 300,
+    "prep_note": "thinly sliced"
+   },
+   {
+    "name": "white rice",
+    "quantity_g": 150,
+    "prep_note": ""
+   },
+   {
+    "name": "soy sauce",
+    "quantity_g": 40,
+    "prep_note": ""
+   },
+   {
+    "name": "sesame oil",
+    "quantity_g": 15,
+    "prep_note": ""
+   },
+   {
+    "name": "garlic",
+    "quantity_g": 10,
+    "prep_note": "minced"
+   },
+   {
+    "name": "ginger",
+    "quantity_g": 10,
+    "prep_note": "grated"
+   },
+   {
+    "name": "onion",
+    "quantity_g": 100,
+    "prep_note": "sliced"
+   },
+   {
+    "name": "sesame seeds",
+    "quantity_g": 5,
+    "prep_note": "toasted"
+   }
+  ],
+  "instructions": "1. Marinate beef in soy sauce, sesame oil, garlic, and ginger 30 minutes. 2. Cook white rice. 3. Sear beef and onion over high heat 6 minutes. 4. Serve over rice. 5. Finish with sesame seeds."
+ },
+ {
+  "title": "Roasted Salmon with Asparagus-Free Green Peas",
+  "description": "Salmon fillet roasted with lemon and garlic alongside buttered green peas.",
+  "cuisine": "Nordic",
+  "difficulty": "easy",
+  "prep_time_min": 10,
+  "cook_time_min": 18,
+  "servings": 2,
+  "diet_tags": [
+   "pescatarian",
+   "gluten_free"
+  ],
+  "ingredients": [
+   {
+    "name": "salmon fillet",
+    "quantity_g": 300,
+    "prep_note": ""
+   },
+   {
+    "name": "green peas",
+    "quantity_g": 200,
+    "prep_note": ""
+   },
+   {
+    "name": "lemon",
+    "quantity_g": 50,
+    "prep_note": "sliced"
+   },
+   {
+    "name": "olive oil",
+    "quantity_g": 20,
+    "prep_note": ""
+   },
+   {
+    "name": "garlic",
+    "quantity_g": 10,
+    "prep_note": "minced"
+   },
+   {
+    "name": "butter",
+    "quantity_g": 15,
+    "prep_note": ""
+   },
+   {
+    "name": "salt",
+    "quantity_g": 4,
+    "prep_note": ""
+   }
+  ],
+  "instructions": "1. Heat oven to 200 C. 2. Place salmon on a lined sheet, drizzle with olive oil, garlic, and salt. 3. Top with lemon slices. 4. Roast 15 to 18 minutes. 5. Steam green peas and toss with butter."
+ },
+ {
+  "title": "Garlic Butter Shrimp with Green Peas",
+  "description": "Shrimp seared in garlic butter tossed with steamed green peas and lemon.",
+  "cuisine": "Mediterranean",
+  "difficulty": "easy",
+  "prep_time_min": 10,
+  "cook_time_min": 10,
+  "servings": 2,
+  "diet_tags": [
+   "pescatarian",
+   "gluten_free"
+  ],
+  "ingredients": [
+   {
+    "name": "shrimp",
+    "quantity_g": 250,
+    "prep_note": "peeled"
+   },
+   {
+    "name": "green peas",
+    "quantity_g": 200,
+    "prep_note": ""
+   },
+   {
+    "name": "garlic",
+    "quantity_g": 15,
+    "prep_note": "minced"
+   },
+   {
+    "name": "butter",
+    "quantity_g": 30,
+    "prep_note": ""
+   },
+   {
+    "name": "lemon",
+    "quantity_g": 30,
+    "prep_note": "juiced"
+   },
+   {
+    "name": "parsley",
+    "quantity_g": 10,
+    "prep_note": "chopped"
+   }
+  ],
+  "instructions": "1. Steam green peas 5 minutes. 2. Melt butter and saut\u00e9 garlic 1 minute. 3. Add shrimp and cook 3 minutes. 4. Toss in peas. 5. Finish with lemon juice and parsley."
+ },
+ {
+  "title": "Chicken Piccata-Style with Zucchini",
+  "description": "Chicken cutlets in a lemon butter sauce over zucchini noodles.",
+  "cuisine": "Italian",
+  "difficulty": "medium",
+  "prep_time_min": 15,
+  "cook_time_min": 18,
+  "servings": 2,
+  "diet_tags": [
+   "gluten_free"
+  ],
+  "ingredients": [
+   {
+    "name": "chicken breast",
+    "quantity_g": 300,
+    "prep_note": "flattened"
+   },
+   {
+    "name": "zucchini",
+    "quantity_g": 300,
+    "prep_note": "spiralized"
+   },
+   {
+    "name": "lemon",
+    "quantity_g": 50,
+    "prep_note": "juiced"
+   },
+   {
+    "name": "butter",
+    "quantity_g": 40,
+    "prep_note": ""
+   },
+   {
+    "name": "olive oil",
+    "quantity_g": 20,
+    "prep_note": ""
+   },
+   {
+    "name": "parsley",
+    "quantity_g": 10,
+    "prep_note": "chopped"
+   }
+  ],
+  "instructions": "1. Sear chicken in olive oil 4 minutes per side. 2. Remove chicken and add butter and lemon juice. 3. Swirl into a sauce. 4. Warm zucchini noodles in the pan. 5. Return chicken and finish with parsley."
+ },
+ {
+  "title": "Greek Yogurt Chicken Salad",
+  "description": "Shredded chicken with greek yogurt, celery, apple, and walnuts.",
+  "cuisine": "American",
+  "difficulty": "easy",
+  "prep_time_min": 15,
+  "cook_time_min": 15,
+  "servings": 2,
+  "diet_tags": [
+   "gluten_free"
+  ],
+  "ingredients": [
+   {
+    "name": "chicken breast",
+    "quantity_g": 250,
+    "prep_note": "poached and shredded"
+   },
+   {
+    "name": "greek yogurt",
+    "quantity_g": 100,
+    "prep_note": ""
+   },
+   {
+    "name": "celery",
+    "quantity_g": 60,
+    "prep_note": "diced"
+   },
+   {
+    "name": "apple",
+    "quantity_g": 80,
+    "prep_note": "diced"
+   },
+   {
+    "name": "dijon mustard",
+    "quantity_g": 10,
+    "prep_note": ""
+   },
+   {
+    "name": "lemon",
+    "quantity_g": 20,
+    "prep_note": "juiced"
+   },
+   {
+    "name": "walnuts",
+    "quantity_g": 20,
+    "prep_note": "chopped"
+   }
+  ],
+  "instructions": "1. Poach chicken in simmering water 15 minutes, then shred. 2. Mix greek yogurt, dijon mustard, and lemon juice. 3. Fold in chicken, celery, and apple. 4. Top with walnuts."
+ },
+ {
+  "title": "Chickpea Salad Sandwich",
+  "description": "Mashed chickpeas with greek yogurt and celery on toasted whole wheat bread.",
+  "cuisine": "American",
+  "difficulty": "easy",
+  "prep_time_min": 10,
+  "cook_time_min": 0,
+  "servings": 2,
+  "diet_tags": [
+   "vegetarian"
+  ],
+  "ingredients": [
+   {
+    "name": "chickpeas",
+    "quantity_g": 200,
+    "prep_note": "drained and mashed"
+   },
+   {
+    "name": "greek yogurt",
+    "quantity_g": 60,
+    "prep_note": ""
+   },
+   {
+    "name": "celery",
+    "quantity_g": 50,
+    "prep_note": "diced"
+   },
+   {
+    "name": "dijon mustard",
+    "quantity_g": 10,
+    "prep_note": ""
+   },
+   {
+    "name": "whole wheat bread",
+    "quantity_g": 120,
+    "prep_note": "toasted"
+   },
+   {
+    "name": "parsley",
+    "quantity_g": 10,
+    "prep_note": "chopped"
+   }
+  ],
+  "instructions": "1. Mash chickpeas roughly. 2. Fold in greek yogurt, celery, dijon mustard, and parsley. 3. Season with salt and black pepper. 4. Pile onto toasted whole wheat bread."
+ },
+ {
+  "title": "Tempeh Tacos in Flour Tortillas",
+  "description": "Crumbled tempeh taco filling with cumin and paprika in warm flour tortillas.",
+  "cuisine": "Mexican",
+  "difficulty": "easy",
+  "prep_time_min": 15,
+  "cook_time_min": 12,
+  "servings": 2,
+  "diet_tags": [
+   "vegan"
+  ],
+  "ingredients": [
+   {
+    "name": "tempeh",
+    "quantity_g": 250,
+    "prep_note": "crumbled"
+   },
+   {
+    "name": "flour tortilla",
+    "quantity_g": 100,
+    "prep_note": "warmed"
+   },
+   {
+    "name": "onion",
+    "quantity_g": 60,
+    "prep_note": "diced"
+   },
+   {
+    "name": "garlic",
+    "quantity_g": 8,
+    "prep_note": "minced"
+   },
+   {
+    "name": "cumin",
+    "quantity_g": 5,
+    "prep_note": "ground"
+   },
+   {
+    "name": "paprika",
+    "quantity_g": 4,
+    "prep_note": ""
+   },
+   {
+    "name": "avocado",
+    "quantity_g": 80,
+    "prep_note": "sliced"
+   },
+   {
+    "name": "lime",
+    "quantity_g": 30,
+    "prep_note": "juiced"
+   }
+  ],
+  "instructions": "1. Saut\u00e9 onion and garlic. 2. Add tempeh, cumin, and paprika. 3. Cook 8 minutes until browned. 4. Fill tortillas with tempeh and avocado. 5. Squeeze lime over."
+ },
+ {
+  "title": "Shrimp Ceviche",
+  "description": "Poached shrimp cured in lime juice with tomato, onion, and cilantro.",
+  "cuisine": "Peruvian",
+  "difficulty": "easy",
+  "prep_time_min": 20,
+  "cook_time_min": 0,
+  "servings": 2,
+  "diet_tags": [
+   "pescatarian",
+   "gluten_free"
+  ],
+  "ingredients": [
+   {
+    "name": "shrimp",
+    "quantity_g": 250,
+    "prep_note": "poached and chopped"
+   },
+   {
+    "name": "lime",
+    "quantity_g": 80,
+    "prep_note": "juiced"
+   },
+   {
+    "name": "tomato",
+    "quantity_g": 100,
+    "prep_note": "diced"
+   },
+   {
+    "name": "onion",
+    "quantity_g": 50,
+    "prep_note": "diced"
+   },
+   {
+    "name": "cilantro",
+    "quantity_g": 15,
+    "prep_note": "chopped"
+   },
+   {
+    "name": "avocado",
+    "quantity_g": 80,
+    "prep_note": "diced"
+   },
+   {
+    "name": "chili flakes",
+    "quantity_g": 3,
+    "prep_note": ""
+   }
+  ],
+  "instructions": "1. Marinate shrimp in lime juice 15 minutes. 2. Fold in tomato, onion, cilantro, and chili flakes. 3. Gently fold in avocado. 4. Chill and serve."
+ },
+ {
+  "title": "Spinach and White Bean Stew",
+  "description": "White beans and spinach stewed with garlic, tomato, and rosemary.",
+  "cuisine": "Mediterranean",
+  "difficulty": "easy",
+  "prep_time_min": 10,
+  "cook_time_min": 25,
+  "servings": 2,
+  "diet_tags": [
+   "vegan",
+   "gluten_free"
+  ],
+  "ingredients": [
+   {
+    "name": "white beans",
+    "quantity_g": 250,
+    "prep_note": "drained"
+   },
+   {
+    "name": "spinach",
+    "quantity_g": 150,
+    "prep_note": ""
+   },
+   {
+    "name": "canned tomatoes",
+    "quantity_g": 250,
+    "prep_note": ""
+   },
+   {
+    "name": "garlic",
+    "quantity_g": 10,
+    "prep_note": "sliced"
+   },
+   {
+    "name": "onion",
+    "quantity_g": 80,
+    "prep_note": "diced"
+   },
+   {
+    "name": "olive oil",
+    "quantity_g": 20,
+    "prep_note": ""
+   },
+   {
+    "name": "rosemary",
+    "quantity_g": 3,
+    "prep_note": "chopped"
+   }
+  ],
+  "instructions": "1. Sweat onion and garlic in olive oil. 2. Add canned tomatoes and rosemary, simmer 10 minutes. 3. Add white beans, cook 8 minutes. 4. Fold in spinach until wilted. 5. Season with salt."
+ },
+ {
+  "title": "Chicken Satay with Peanut Sauce",
+  "description": "Grilled chicken skewers with a creamy peanut butter dipping sauce.",
+  "cuisine": "Thai",
+  "difficulty": "medium",
+  "prep_time_min": 25,
+  "cook_time_min": 12,
+  "servings": 2,
+  "diet_tags": [],
+  "ingredients": [
+   {
+    "name": "chicken breast",
+    "quantity_g": 300,
+    "prep_note": "sliced into strips"
+   },
+   {
+    "name": "peanut butter",
+    "quantity_g": 50,
+    "prep_note": ""
+   },
+   {
+    "name": "coconut milk",
+    "quantity_g": 100,
+    "prep_note": ""
+   },
+   {
+    "name": "soy sauce",
+    "quantity_g": 20,
+    "prep_note": ""
+   },
+   {
+    "name": "ginger",
+    "quantity_g": 10,
+    "prep_note": "grated"
+   },
+   {
+    "name": "garlic",
+    "quantity_g": 10,
+    "prep_note": "minced"
+   },
+   {
+    "name": "lime",
+    "quantity_g": 30,
+    "prep_note": "juiced"
+   }
+  ],
+  "instructions": "1. Marinate chicken in soy sauce, ginger, and garlic 20 minutes. 2. Thread onto skewers and grill 10 minutes. 3. Simmer peanut butter, coconut milk, and lime juice 3 minutes. 4. Serve skewers with sauce."
+ },
+ {
+  "title": "Mushroom and Brown Rice Soup",
+  "description": "Hearty mushroom soup with brown rice, thyme, and garlic.",
+  "cuisine": "Russian",
+  "difficulty": "easy",
+  "prep_time_min": 15,
+  "cook_time_min": 40,
+  "servings": 2,
+  "diet_tags": [
+   "vegan",
+   "gluten_free"
+  ],
+  "ingredients": [
+   {
+    "name": "mushrooms",
+    "quantity_g": 250,
+    "prep_note": "sliced"
+   },
+   {
+    "name": "brown rice",
+    "quantity_g": 80,
+    "prep_note": "rinsed"
+   },
+   {
+    "name": "onion",
+    "quantity_g": 80,
+    "prep_note": "diced"
+   },
+   {
+    "name": "carrot",
+    "quantity_g": 80,
+    "prep_note": "diced"
+   },
+   {
+    "name": "garlic",
+    "quantity_g": 10,
+    "prep_note": "minced"
+   },
+   {
+    "name": "vegetable broth",
+    "quantity_g": 800,
+    "prep_note": ""
+   },
+   {
+    "name": "thyme",
+    "quantity_g": 3,
+    "prep_note": "dried"
+   }
+  ],
+  "instructions": "1. Sweat onion, carrot, and garlic. 2. Add mushrooms, cook 6 minutes. 3. Add broth, brown rice, and thyme. 4. Simmer 35 minutes until rice is tender. 5. Season with salt and black pepper."
+ },
+ {
+  "title": "Cod and Chickpea Stew",
+  "description": "Cod fillet poached in a tomato and chickpea stew with paprika.",
+  "cuisine": "Spanish",
+  "difficulty": "medium",
+  "prep_time_min": 15,
+  "cook_time_min": 25,
+  "servings": 2,
+  "diet_tags": [
+   "pescatarian",
+   "gluten_free"
+  ],
+  "ingredients": [
+   {
+    "name": "cod fillet",
+    "quantity_g": 300,
+    "prep_note": "cut into chunks"
+   },
+   {
+    "name": "chickpeas",
+    "quantity_g": 200,
+    "prep_note": "drained"
+   },
+   {
+    "name": "canned tomatoes",
+    "quantity_g": 300,
+    "prep_note": ""
+   },
+   {
+    "name": "onion",
+    "quantity_g": 80,
+    "prep_note": "diced"
+   },
+   {
+    "name": "garlic",
+    "quantity_g": 10,
+    "prep_note": "minced"
+   },
+   {
+    "name": "paprika",
+    "quantity_g": 5,
+    "prep_note": ""
+   },
+   {
+    "name": "olive oil",
+    "quantity_g": 20,
+    "prep_note": ""
+   },
+   {
+    "name": "parsley",
+    "quantity_g": 10,
+    "prep_note": "chopped"
+   }
+  ],
+  "instructions": "1. Sweat onion and garlic in olive oil. 2. Add paprika and canned tomatoes, simmer 10 minutes. 3. Add chickpeas, cook 5 minutes. 4. Nestle cod on top, cover, cook 8 minutes. 5. Finish with parsley."
+ },
+ {
+  "title": "Pork Meatballs in Tomato Sauce",
+  "description": "Pork tenderloin meatballs braised in tomato sauce with couscous.",
+  "cuisine": "Spanish",
+  "difficulty": "medium",
+  "prep_time_min": 20,
+  "cook_time_min": 25,
+  "servings": 2,
+  "diet_tags": [],
+  "ingredients": [
+   {
+    "name": "pork tenderloin",
+    "quantity_g": 300,
+    "prep_note": "minced"
+   },
+   {
+    "name": "couscous",
+    "quantity_g": 120,
+    "prep_note": ""
+   },
+   {
+    "name": "canned tomatoes",
+    "quantity_g": 400,
+    "prep_note": ""
+   },
+   {
+    "name": "onion",
+    "quantity_g": 80,
+    "prep_note": "diced"
+   },
+   {
+    "name": "garlic",
+    "quantity_g": 10,
+    "prep_note": "minced"
+   },
+   {
+    "name": "paprika",
+    "quantity_g": 5,
+    "prep_note": ""
+   },
+   {
+    "name": "olive oil",
+    "quantity_g": 20,
+    "prep_note": ""
+   },
+   {
+    "name": "parsley",
+    "quantity_g": 10,
+    "prep_note": "chopped"
+   }
+  ],
+  "instructions": "1. Mix pork, half the garlic, and paprika into meatballs. 2. Brown in olive oil. 3. Add onion, remaining garlic, and canned tomatoes. 4. Simmer 20 minutes. 5. Steam couscous and serve with meatballs and parsley."
+ },
+ {
+  "title": "Vegan Jackfruit-Style White Bean Flour Tortilla Tacos",
+  "description": "Cumin white beans in warm flour tortillas with avocado and lime.",
+  "cuisine": "Mexican",
+  "difficulty": "easy",
+  "prep_time_min": 10,
+  "cook_time_min": 10,
+  "servings": 2,
+  "diet_tags": [
+   "vegan"
+  ],
+  "ingredients": [
+   {
+    "name": "white beans",
+    "quantity_g": 250,
+    "prep_note": "drained and mashed"
+   },
+   {
+    "name": "flour tortilla",
+    "quantity_g": 100,
+    "prep_note": "warmed"
+   },
+   {
+    "name": "avocado",
+    "quantity_g": 80,
+    "prep_note": "sliced"
+   },
+   {
+    "name": "onion",
+    "quantity_g": 50,
+    "prep_note": "diced"
+   },
+   {
+    "name": "cumin",
+    "quantity_g": 5,
+    "prep_note": "ground"
+   },
+   {
+    "name": "lime",
+    "quantity_g": 30,
+    "prep_note": "juiced"
+   },
+   {
+    "name": "cilantro",
+    "quantity_g": 10,
+    "prep_note": "chopped"
+   }
+  ],
+  "instructions": "1. Warm mashed white beans with onion and cumin. 2. Fill tortillas with beans and avocado. 3. Finish with lime and cilantro."
+ },
+ {
+  "title": "Mango Avocado Salsa with White Beans",
+  "description": "Cool white beans tossed with mango, avocado, lime, and cilantro.",
+  "cuisine": "Mexican",
+  "difficulty": "easy",
+  "prep_time_min": 15,
+  "cook_time_min": 0,
+  "servings": 2,
+  "diet_tags": [
+   "vegan",
+   "gluten_free"
+  ],
+  "ingredients": [
+   {
+    "name": "white beans",
+    "quantity_g": 200,
+    "prep_note": "drained"
+   },
+   {
+    "name": "mango",
+    "quantity_g": 150,
+    "prep_note": "diced"
+   },
+   {
+    "name": "avocado",
+    "quantity_g": 100,
+    "prep_note": "diced"
+   },
+   {
+    "name": "onion",
+    "quantity_g": 40,
+    "prep_note": "diced"
+   },
+   {
+    "name": "cilantro",
+    "quantity_g": 10,
+    "prep_note": "chopped"
+   },
+   {
+    "name": "lime",
+    "quantity_g": 40,
+    "prep_note": "juiced"
+   },
+   {
+    "name": "olive oil",
+    "quantity_g": 15,
+    "prep_note": ""
+   }
+  ],
+  "instructions": "1. Rinse white beans. 2. Combine with mango, avocado, and onion. 3. Dress with lime juice and olive oil. 4. Fold in cilantro. 5. Chill 10 minutes before serving."
+ },
+ {
+  "title": "Chicken and Chickpea Stew",
+  "description": "Chicken breast and chickpeas simmered with tomato, cumin, and paprika.",
+  "cuisine": "Middle Eastern",
+  "difficulty": "easy",
+  "prep_time_min": 15,
+  "cook_time_min": 35,
+  "servings": 2,
+  "diet_tags": [
+   "gluten_free"
+  ],
+  "ingredients": [
+   {
+    "name": "chicken breast",
+    "quantity_g": 250,
+    "prep_note": "cubed"
+   },
+   {
+    "name": "chickpeas",
+    "quantity_g": 200,
+    "prep_note": "drained"
+   },
+   {
+    "name": "canned tomatoes",
+    "quantity_g": 300,
+    "prep_note": ""
+   },
+   {
+    "name": "onion",
+    "quantity_g": 80,
+    "prep_note": "diced"
+   },
+   {
+    "name": "garlic",
+    "quantity_g": 10,
+    "prep_note": "minced"
+   },
+   {
+    "name": "cumin",
+    "quantity_g": 5,
+    "prep_note": "ground"
+   },
+   {
+    "name": "paprika",
+    "quantity_g": 4,
+    "prep_note": ""
+   },
+   {
+    "name": "parsley",
+    "quantity_g": 10,
+    "prep_note": "chopped"
+   }
+  ],
+  "instructions": "1. Sweat onion and garlic. 2. Add cumin and paprika, toast 1 minute. 3. Add canned tomatoes, chickpeas, and chicken. 4. Simmer 30 minutes. 5. Finish with parsley."
+ },
+ {
+  "title": "Cabbage and Tofu Rice Bowl",
+  "description": "Stir-fried cabbage and tofu over white rice with soy ginger sauce.",
+  "cuisine": "Chinese",
+  "difficulty": "easy",
+  "prep_time_min": 15,
+  "cook_time_min": 15,
+  "servings": 2,
+  "diet_tags": [
+   "vegan"
+  ],
+  "ingredients": [
+   {
+    "name": "tofu",
+    "quantity_g": 300,
+    "prep_note": "pressed and cubed"
+   },
+   {
+    "name": "cabbage",
+    "quantity_g": 250,
+    "prep_note": "shredded"
+   },
+   {
+    "name": "white rice",
+    "quantity_g": 150,
+    "prep_note": ""
+   },
+   {
+    "name": "soy sauce",
+    "quantity_g": 25,
+    "prep_note": ""
+   },
+   {
+    "name": "ginger",
+    "quantity_g": 10,
+    "prep_note": "grated"
+   },
+   {
+    "name": "garlic",
+    "quantity_g": 8,
+    "prep_note": "minced"
+   },
+   {
+    "name": "sesame oil",
+    "quantity_g": 12,
+    "prep_note": ""
+   },
+   {
+    "name": "sesame seeds",
+    "quantity_g": 5,
+    "prep_note": "toasted"
+   }
+  ],
+  "instructions": "1. Cook white rice. 2. Sear tofu in sesame oil until golden. 3. Add garlic, ginger, and cabbage, stir-fry 6 minutes. 4. Add soy sauce. 5. Serve over rice with sesame seeds."
+ },
+ {
+  "title": "Baked Eggs with Spinach and Parmesan",
+  "description": "Eggs baked in a spinach and tomato sauce with Parmesan.",
+  "cuisine": "Italian",
+  "difficulty": "easy",
+  "prep_time_min": 10,
+  "cook_time_min": 20,
+  "servings": 2,
+  "diet_tags": [
+   "vegetarian",
+   "gluten_free"
+  ],
+  "ingredients": [
+   {
+    "name": "egg",
+    "quantity_g": 150,
+    "prep_note": ""
+   },
+   {
+    "name": "canned tomatoes",
+    "quantity_g": 300,
+    "prep_note": ""
+   },
+   {
+    "name": "spinach",
+    "quantity_g": 120,
+    "prep_note": ""
+   },
+   {
+    "name": "parmesan",
+    "quantity_g": 40,
+    "prep_note": "grated"
+   },
+   {
+    "name": "onion",
+    "quantity_g": 60,
+    "prep_note": "diced"
+   },
+   {
+    "name": "garlic",
+    "quantity_g": 8,
+    "prep_note": "minced"
+   },
+   {
+    "name": "olive oil",
+    "quantity_g": 15,
+    "prep_note": ""
+   }
+  ],
+  "instructions": "1. Sweat onion and garlic in olive oil. 2. Add canned tomatoes, simmer 8 minutes. 3. Stir in spinach. 4. Transfer to a baking dish, make wells, crack eggs in. 5. Scatter Parmesan and bake at 190 C for 12 minutes."
+ },
+ {
+  "title": "Korean-Style Chicken Rice Bowl",
+  "description": "Soy and sesame glazed chicken thighs over white rice with cucumber.",
+  "cuisine": "Korean",
+  "difficulty": "easy",
+  "prep_time_min": 15,
+  "cook_time_min": 20,
+  "servings": 2,
+  "diet_tags": [],
+  "ingredients": [
+   {
+    "name": "chicken thigh",
+    "quantity_g": 300,
+    "prep_note": "cubed"
+   },
+   {
+    "name": "white rice",
+    "quantity_g": 150,
+    "prep_note": ""
+   },
+   {
+    "name": "soy sauce",
+    "quantity_g": 35,
+    "prep_note": ""
+   },
+   {
+    "name": "sesame oil",
+    "quantity_g": 12,
+    "prep_note": ""
+   },
+   {
+    "name": "garlic",
+    "quantity_g": 10,
+    "prep_note": "minced"
+   },
+   {
+    "name": "ginger",
+    "quantity_g": 8,
+    "prep_note": "grated"
+   },
+   {
+    "name": "cucumber",
+    "quantity_g": 80,
+    "prep_note": "sliced"
+   },
+   {
+    "name": "sesame seeds",
+    "quantity_g": 5,
+    "prep_note": "toasted"
+   }
+  ],
+  "instructions": "1. Cook white rice. 2. Sear chicken until browned. 3. Add soy sauce, sesame oil, garlic, and ginger. 4. Simmer 10 minutes. 5. Serve over rice with cucumber and sesame seeds."
+ },
+ {
+  "title": "Roasted Butternut Squash Soup",
+  "description": "Roasted butternut squash blended smooth with ginger and butter.",
+  "cuisine": "American",
+  "difficulty": "easy",
+  "prep_time_min": 15,
+  "cook_time_min": 35,
+  "servings": 2,
+  "diet_tags": [
+   "vegetarian",
+   "gluten_free"
+  ],
+  "ingredients": [
+   {
+    "name": "butternut squash",
+    "quantity_g": 500,
+    "prep_note": "cubed"
+   },
+   {
+    "name": "onion",
+    "quantity_g": 80,
+    "prep_note": "diced"
+   },
+   {
+    "name": "ginger",
+    "quantity_g": 10,
+    "prep_note": "grated"
+   },
+   {
+    "name": "vegetable broth",
+    "quantity_g": 500,
+    "prep_note": ""
+   },
+   {
+    "name": "butter",
+    "quantity_g": 20,
+    "prep_note": ""
+   },
+   {
+    "name": "black pepper",
+    "quantity_g": 2,
+    "prep_note": ""
+   }
+  ],
+  "instructions": "1. Roast squash at 200 C for 25 minutes. 2. Sweat onion and ginger in butter. 3. Add squash and broth, simmer 10 minutes. 4. Blend smooth. 5. Season with salt and black pepper."
+ }
+]

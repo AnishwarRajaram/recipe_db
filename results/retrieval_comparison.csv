@@ -1,0 +1,12 @@
+query,lexical_hits,lexical_p_at_5,vector_p_at_5,lexical_top5,vector_top5
+quick high-protein dinner without dairy,2,0.0,0.0,12 16,54 104 55 123 147
+something warming for a cold evening,4,0.0,0.4,52 96 106 113,41 24 79 16 54
+light lunch that won't make me sleepy,5,0.6,0.6,8 79 89 139 144,8 61 110 55 151
+hearty vegan comfort food,5,0.8,1.0,51 70 80 110 113,110 80 51 70 27
+something fresh for a hot day,3,0.4,0.6,9 12 98,9 24 28 31 82
+cosy weekend bake,5,0.8,1.0,2 66 83 117 125,144 139 141 133 138
+post-workout meal,0,0.0,0.8,,39 92 105 42 79
+easy on the stomach,0,0.0,0.0,,92 15 7 42 67
+sweet breakfast to start the day,5,0.2,0.4,52 75 99 131 142,61 41 143 54 53
+spicy dish with a kick,1,0.2,0.4,32,24 34 62 32 3
+mean,,0.3,0.52,,
