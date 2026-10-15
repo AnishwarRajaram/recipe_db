@@ -30,6 +30,7 @@ SQL/000_complete_schema.sql           full schema: types, tables, indexes, trigg
 SQL/007_dml.sql                       DML examples and health checks H1 to H5
 SQL/008_verification.sql              17 negative tests (must fail) and 4 positive tests
 SQL/009_search_and_staleness_fixes.sql per-serving search filters, extended staleness triggers
+SQL/010_row_level_security.sql        row-level security: public read-only catalogue, everything else private
 scripts/build_ingredients.py          USDA SR Legacy CSVs -> seed/ingredients.json
 scripts/load_reference.py             reset, dietary tags, ingredients, users, preferences
 scripts/load_recipes.py               validated recipe load and derived tags
@@ -58,13 +59,16 @@ set -a; source db.env; set +a
 ```
 
 All scripts read the standard `PG*` environment variables. No connection details are
-stored in the repository.
+stored in the repository. Connect as the table owner: row-level security (010) leaves
+the API roles `anon` and `authenticated` with read-only access to published recipes,
+ingredients and tags, and no access to users, preferences, plans, ratings or logs.
 
 ### 1. Create the schema
 
 ```bash
 psql -v ON_ERROR_STOP=1 -f SQL/000_complete_schema.sql
 psql -v ON_ERROR_STOP=1 -f SQL/009_search_and_staleness_fixes.sql
+psql -v ON_ERROR_STOP=1 -f SQL/010_row_level_security.sql
 ```
 
 Both files are safe to re-run.

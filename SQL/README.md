@@ -6,6 +6,7 @@ from the standard `PG*` environment variables (see `db.env.example`).
 ```bash
 psql -v ON_ERROR_STOP=1 -f 000_complete_schema.sql
 psql -v ON_ERROR_STOP=1 -f 009_search_and_staleness_fixes.sql
+psql -v ON_ERROR_STOP=1 -f 010_row_level_security.sql
 ```
 
 | File | Contents |
@@ -14,6 +15,7 @@ psql -v ON_ERROR_STOP=1 -f 009_search_and_staleness_fixes.sql
 | `007_dml.sql` | complete DML: INSERT/UPDATE/DELETE/SELECT, transactions, search, health checks H1–H5 |
 | `008_verification.sql` | 17 negative tests + 4 positive tests |
 | `009_search_and_staleness_fixes.sql` | per-serving search filters; staleness triggers on every embedded input |
+| `010_row_level_security.sql` | RLS on all tables; read-only access to the published catalogue for the API roles |
 
 ## Advanced features (brief requires 4; 7 present)
 

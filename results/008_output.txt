@@ -12,17 +12,17 @@ DETAIL:  Key (plan_id, scheduled_date, meal_slot)=(1, 2026-10-20, snack) already
 psql:SQL/008_verification.sql:38: ERROR:  duplicate key value violates unique constraint "recipe_embeddings_recipe_id_key"
 DETAIL:  Key (recipe_id)=(1) already exists.
 psql:SQL/008_verification.sql:44: ERROR:  new row for relation "recipe_ingredients" violates check constraint "recipe_ingredients_quantity_g_check"
-DETAIL:  Failing row contains (1067, 1, 2, -50.00, null).
+DETAIL:  Failing row contains (1072, 1, 2, -50.00, null).
 psql:SQL/008_verification.sql:47: ERROR:  new row for relation "recipe_ratings" violates check constraint "recipe_ratings_rating_check"
-DETAIL:  Failing row contains (226, 2, 1, 6, null, 2026-10-15 18:43:05.752804+00).
+DETAIL:  Failing row contains (229, 2, 1, 6, null, 2026-10-15 19:43:50.460295+00).
 psql:SQL/008_verification.sql:50: ERROR:  new row for relation "recipes" violates check constraint "recipes_servings_check"
-DETAIL:  Failing row contains (160, Bad, null, x, null, null, null, null, 0, null, 0.00, 0.00, 0.00, 0.00, f, 2026-10-15 18:43:05.752804+00, 2026-10-15 18:43:05.752804+00).
+DETAIL:  Failing row contains (164, Bad, null, x, null, null, null, null, 0, null, 0.00, 0.00, 0.00, 0.00, f, 2026-10-15 19:43:50.460295+00, 2026-10-15 19:43:50.460295+00).
 psql:SQL/008_verification.sql:54: ERROR:  new row for relation "meal_plans" violates check constraint "chk_plan_window"
-DETAIL:  Failing row contains (7, 1, Backwards, 2026-10-10, 2026-10-01, draft, null, 2026-10-15 18:43:05.752804+00).
+DETAIL:  Failing row contains (8, 1, Backwards, 2026-10-10, 2026-10-01, draft, null, 2026-10-15 19:43:50.460295+00).
 psql:SQL/008_verification.sql:59: ERROR:  new row for relation "recipe_embeddings" violates check constraint "recipe_embeddings_model_dim_check"
-DETAIL:  Failing row contains (190, 2, x, [0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1..., other-model, 768, bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb, 2026-10-15 18:43:05.752804+00).
+DETAIL:  Failing row contains (192, 2, x, [0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1,0.1..., other-model, 768, bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb, 2026-10-15 19:43:50.460295+00).
 psql:SQL/008_verification.sql:63: ERROR:  new row for relation "users" violates check constraint "users_email_check"
-DETAIL:  Failing row contains (16, Case, MixedCase@Example.com, x, registered_user, t, 2026-10-15 18:43:05.752804+00).
+DETAIL:  Failing row contains (18, Case, MixedCase@Example.com, x, registered_user, t, 2026-10-15 19:43:50.460295+00).
 psql:SQL/008_verification.sql:69: ERROR:  insert or update on table "recipe_ingredients" violates foreign key constraint "recipe_ingredients_recipe_id_fkey"
 DETAIL:  Key (recipe_id)=(999999) is not present in table "recipes".
 psql:SQL/008_verification.sql:72: ERROR:  update or delete on table "ingredients" violates foreign key constraint "recipe_ingredients_ingredient_id_fkey" on table "recipe_ingredients"
