@@ -7,6 +7,7 @@ from the standard `PG*` environment variables (see `db.env.example`).
 psql -v ON_ERROR_STOP=1 -f 000_complete_schema.sql
 psql -v ON_ERROR_STOP=1 -f 009_search_and_staleness_fixes.sql
 psql -v ON_ERROR_STOP=1 -f 010_row_level_security.sql
+psql -v ON_ERROR_STOP=1 -f 011_app_role.sql
 ```
 
 | File | Contents |
@@ -16,6 +17,7 @@ psql -v ON_ERROR_STOP=1 -f 010_row_level_security.sql
 | `008_verification.sql` | 17 negative tests + 4 positive tests |
 | `009_search_and_staleness_fixes.sql` | per-serving search filters; staleness triggers on every embedded input |
 | `010_row_level_security.sql` | RLS on all tables; read-only access to the published catalogue for the API roles |
+| `011_app_role.sql` | read/write access for the application server login `app_dev`; audit and search logs append-only; no TRUNCATE |
 
 ## Advanced features (brief requires 4; 7 present)
 
