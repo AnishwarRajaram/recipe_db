@@ -8,6 +8,7 @@ psql -v ON_ERROR_STOP=1 -f 000_complete_schema.sql
 psql -v ON_ERROR_STOP=1 -f 009_search_and_staleness_fixes.sql
 psql -v ON_ERROR_STOP=1 -f 010_row_level_security.sql
 psql -v ON_ERROR_STOP=1 -f 011_app_role.sql
+psql -v ON_ERROR_STOP=1 -f 012_search_path.sql
 ```
 
 | File | Contents |
@@ -18,6 +19,7 @@ psql -v ON_ERROR_STOP=1 -f 011_app_role.sql
 | `009_search_and_staleness_fixes.sql` | per-serving search filters; staleness triggers on every embedded input |
 | `010_row_level_security.sql` | RLS on all tables; read-only access to the published catalogue for the API roles |
 | `011_app_role.sql` | read/write access for the application server login `app_dev`; audit and search logs append-only; no TRUNCATE |
+| `012_search_path.sql` | `app_dev` can use the `extensions` schema (pgvector); vector functions pin their own search_path |
 
 ## Advanced features (brief requires 4; 7 present)
 
